@@ -10,7 +10,7 @@
   - #### git
   - #### English
   - #### java & web
-  - #### [torch7](#torch7 title)
+  - #### [torch7](#torch7)
 
 
 - ### other txt
