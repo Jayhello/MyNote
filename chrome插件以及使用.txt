@@ -1,0 +1,14 @@
+Holmes 是一款书签搜索工具：Alt + Shift + H 即可搜索书签
+Chrome Web Store(知乎chrome护眼模式)
+然后设置Background color选项:B2EBB2,大概就是这个颜色,自定义吧
+
+firefox 护眼插件Stylish(百度)
+
+
+ alddin项目的发布：
+ 1：
+
+
+
+
+
