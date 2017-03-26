@@ -7,9 +7,9 @@
   - #### mysql
   - #### linux command
   - #### python
-  - #### [git note](git note)
+  - #### [git note](#git note)
   - #### English
-  - #### [English_ML note](English_ML note)
+  - #### [English_ML note](#English_ML note)
   - #### java & web
   - #### [torch7](#torch7)
   - #### [linear algebra](#linear algebra)
