@@ -4,7 +4,7 @@
   - #### machine learning
   - #### Deep learning
   - #### probablity
-  - #### mysql
+  - #### mysql(#mysql)
   - #### linux command
   - #### python(#python)
   - #### python_ML_note(#python_ML_note)
@@ -21,6 +21,8 @@
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
+# mysql
+1. basic operator about table
 # linear algebra
 1. vector matrix orthogonal eigenvalue eigenvectors
 # English_ML note
