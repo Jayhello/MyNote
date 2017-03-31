@@ -10,10 +10,11 @@
   - #### [python_ML_note](#python_ML_note)
   - #### [git note](#git note)
   - #### English
-  - #### [English_ML note](#English_MLnote)
+  - #### [English_ML note](#English_ML note)
   - #### java & web
   - #### [torch7](#torch7)
-  - #### [linear algebra](#linearalgebra)
+  - #### [linear algebra](#linear algebra)
+  - #### [statistical_note](#statistical_note)
 
 - ### other txt
   - #### work english
@@ -41,3 +42,7 @@
 
 # torch7
 This is about DeepLearning framework
+
+# statistical_note
+1. Perceptron
+2. Principal Component Analysis
