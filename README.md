@@ -14,6 +14,7 @@
  - ## linux
   - #### [linux_command](linux_command)
   - #### [linux network](linux network)
+  - #### [linux_practice](linux_practice)
 
  - ## python
   - #### [python_ML_note](#python_ML_note)
@@ -28,7 +29,9 @@
 
  - ## CS English vocabulary 
   - #### [English_ML note](#English_ML note)
-  
+ 
+ - ## C++
+  - #### [C++_note](C++_note)
   
   
   
@@ -101,3 +104,9 @@ This is about DeepLearning framework
 
 3.https
  - public
+ 
+# linux_practice
+1. #### compiler
+
+# C++_note
+1. 
