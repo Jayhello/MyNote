@@ -1,0 +1,30 @@
+CMake lets you create text variables. For this purpose, the set() command is used.
+set (MY_VAR "hello")
+To refer to a variable later on, simply enclose it in the round braces prepended by a dollar sign:
+set (OTHER_VAR "${MY_VAR} world!")
+
+You’ll notice that, by default, CLion will attempt to aggregate all 
+project source files into a single variable as follows:
+set (SOURCE_FILES foo.cpp bar.cpp baz.cpp)
+
+aggregate   vi. 集合；聚集；合计vt. 集合；聚集；合计
+			n. 合计；集合体；总计adj. 聚合的；集合的；合计的
+in the aggregate 总计，总共，合计，整个，作为总体，总的来说
+on aggregate 总共，总计，作为总体，作为整体
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
