@@ -1,0 +1,194 @@
+工作中的常见命令：
+1. 创建文件  
+	> newfile   (如果存在的话会空文件覆盖原有的)
+    touch newfile       
+
+2.查看ubuntu version  command
+	lsb_release -a
+	
+3.  查看文件的位置
+	locate tesseract | grep so	
+
+4.删除文件		rm -f	  filename
+	example：
+	rm  -f   2.mp3   blabla.mp3    rm -f {2,blabla}.mp3
+	rm -f *.mp3    It will remove all files ending with .mp3
+	rm -r dir  递归的删除整个目录里面的内容
+	
+5.	上传大文件的时候稳定点
+	rz -bey	
+	下载一个文件	sz filename 	
+	下载多个文件	sz filename1 filename2	
+	下载dir目录下的所有文件，不包含dir下的文件夹	sz dir/*
+	下载文件存放位置在securtCRT中设置，位于：
+	英文版 options — session options — X/Y/Zmodem。
+	
+6. 查看文件 ls  以M的方式显示大小
+	ls -l --block-size=M
+	ls -lh human readable file sizes, long format
+	ls -lhS sort by size	
+	sudo aptget instaLl lua5.2
+
+
+7. port in use 	
+	sudo lsof -t -i:9001	
+	sudo kill $(sudo lsof -t -i:9001)  //kill the process
+	fuser -n tcp -k 9001                  //kill the process
+	
+8. View a log file in Linux dynamically
+	tail -f log.txt
+	
+9. vi  file  line count
+	:echo line('$')
+	The simplest way is to press ctrl-g, which will reveal the filename, 
+	current line, the line count
+	
+10.Running programs in the background from terminal
+	run-applet &
+	setsid run-applet
+	run-applet & disown
+	
+	bg    :to send the running process into the background
+	fg     :put the running process back into the foreground.
+	
+11.clear log file （清空log文件而不删除文件）
+     > error.log	
+	truncate -s 0 /path/to/error.log	
+	
+12.sudo -i 切换到  root运行 ，exit退出返回到之前的用户      	
+	
+13. less命令查看 log 文件	
+	less  file.log  打开了文件从第一行开始，若想移到最后一行 shift+g ctrl+b往前一页一页翻页查看
+	j - 向前移动一行
+	k - 向后移动一行
+	G - 移动到最后一行
+	g - 移动到第一行
+	ctrl + F - 向前移动一屏
+	ctrl + B - 向后移动一屏
+	q / ZZ - 退出 less 命令
+	模仿 tail -f          Press F
+	向下10行 10j – 10
+	向上10行 10k 
+	CTRL+G – show the current file name along with line, byte and percentage statistics.
+	
+	向前搜索In forward:     /keyword
+	向后搜索In backward: ?keyword
+	n - continue searching for your pattern in the same direction
+	N - continue searching for your pattern in the opposite direction
+	&pattern – display only the matching lines, not all.  &keyword
+
+	ESC-/pattern
+	Same as "/*".
+	ESC-?pattern
+	Same as "?*".
+	n	Repeat previous search
+	N	Repeat previous search, but in the reverse direction.
+	ESC-n    Repeat previous search
+	ESC-N   Repeat previous search, but in the reverse direction and crossing file boundaries.
+	
+	 history | less -Ip 'lsof'   （查看含有  'lsof' 命令）
+	
+	-i or --ignore-case
+	-I or --IGNORE-CASE Like -i, but searches ignore case even if the pattern contains uppercase letters.
+	
+14. mv	
+	How do I rename a directory via the command line
+	
+	 have got the directory /home/user/oldname and I want to rename it to 
+	 /home/user/newname. How can I do this in a terminal?
+	 
+	mv /home/user/oldname /home/user/newname
+	
+15. ln	
+	ln -s file1 file2 软链接
+	ln  file1 file2    硬链接
+	
+16. source  .  命令  （通常用于重新执行刚修改的初始化文件）
+	source ~/.bashrc	(环境变量)
+	
+17. export   (导入环境变量)
+	export PATH=$PATH:/home/xy/caffe/python	
+	
+18. ./configure,make,make install的作用
+	1、configure，configure是一个shell脚本，它可以自动设定源程序以符合各种不同平台
+	上Unix系统的特性这一步一般用来生成 Makefile，为下一步的编译做准备，你可以通过在 
+	configure 后加上参数来对安装进行控制，比如代码:./configure –prefix=/usr意思是将
+	该软件安装在 /usr 下面，执行文件就会安装在 /usr/bin 
+	
+	2、make，这一步就是编译，大多数的源代码包都经过这一步进行编译
+	
+	3、make insatll这条命令来进行安装
+	
+	4、make clean：清除编译产生的可执行文件及目标文件(object file，*.o)。
+
+19. ldconfig  （是一个动态链接库管理命令）
+    1、往/lib和/usr/lib里面加东西，是不用修改/etc/ld.so.conf的，
+	      但是完了之后要调一下ldconfig，不然这个library会找不到
+	2、ldconfig  命令的用途,主要是在默认搜寻目录(/lib和/usr/lib)以及动态
+	     库配置文件/etc/ld.so.conf内所列的目录下,搜索出可共享的动态 链接库(格式如前介绍,lib*.so*),
+	
+20. dpkg  （包管理工具）
+	dpkg -l 查看当前系统中已经安装的软件包的信息 
+	dpkg -L （软件包名称）查看系统中已经安装的软件文件的详细列表 
+	dpkg -s 查看已经安装的指定软件包的详细信息 
+	dpkg -S 查看系统中的某个文件属于那个软件包; 	
+	
+	Advanced Package Tool，又名apt-get	
+
+21. 压缩，解压缩
+    1.  .zip文件
+	    zip -r archive_name.zip directory_to_compress	（compress to zip）
+        unzip archive_name.zip                                    (decompress)
+	2.  .tar  文件
+		tar -cvf archive_name.tar directory_to_compress
+		tar -xvf archive_name.tar.gz    (解包)
+	3.  .tar.gz  文件
+		tar -zcvf archive_name.tar.gz directory_to_compress
+		tar -zxvf archive_name.tar.gz
+	
+22. grep 	
+
+	
+23	. 目录切换trick 
+	cd -     命令回到之前的目录
+	
+24. tree   ( 查看项目的目录结构)  sudo apt-get install tree
+
+	tree
+	tree /path/to/directory
+	tree [options]
+	tree [options] /path/to/directory
+	The -a option should be passed to see all files. 
+	   By default tree does not print hidden files (those beginning with a dot ‘.’).
+		
+	To list directories only, run:
+	tree -d
+	
+	etc
+	|-- abrt
+	|   |-- abrt-action-save-package-data.conf
+	|   |-- abrt.conf
+	|   |-- gpg_keys
+	|   `-- plugins
+	|       |-- CCpp.conf
+	|       `-- python.conf
+
+
+25. nohub (run process as a background process)
+	nohup ./yourscript &
+
+What's the difference between nohup and ampersand
+myprocess.out & would run the process in background using a subshell. If the current shell is terminated (say by logout), all subshells are also terminated so the background process would also be terminated. The nohup command ignores the HUP signal and thus even if the current shell is terminated, the subshell and the myprocess.out would continue to run in the background. Another difference is that & alone doesn't redirect the stdout/stderr so if there are any output or error, those are displayed on the terminal. nohup on the other hand redirect the stdout/stderr to nohup.out or $HOME/nohup.out.
+		
+		
+		
+		
+4. Sort process by cpu or memory usage
+
+
+
+
+
+
+
+		

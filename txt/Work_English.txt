@@ -1,0 +1,2227 @@
+Segment  n 段；部分；片；弓形 ;v分割；划分
+
+Not the answer you're looking for?	Browse other questions tagged c++ opencv
+Browse  v 浏览；（在商店里）随便看看；翻阅；浏览信息
+            n(牲畜吃的)嫩草；(牲畜的)吃嫩枝[草等]
+If it does not appear, click the Browse button to search for it.
+如果未显示，则单击“浏览”按钮进行搜索。
+
+patent  n 专利；专利权；专利证 adj专利(的)；显露；明摆着的
+            v取得专利权
+patent issues  专利问题        
+
+ultimate
+ 最后的；最终的；终极的；极端的
+  最好（或先进、伟大等）的事物；极品；精华
+ultimate conclusion最终结果    ultimate principle基本原理
+Hard work is the ultimate source of success.努力工作是成功之本。
+This had been an ultimate issue. 这个问题是个原则性的问题。
+
+ppl  （缩略词） 人，等离子体物理实验所
+help out ppl with a similar interest
+
+archive   n.档案；档案馆   vt.存档
+archive log存档运行日志   archive server文档查询服务器
+
+wrapper   n.(饺子)皮；包装用品
+
+If your images are not warped and are not degraded
+warp		vt.使翘起；弄歪；歪曲vi.变歪；扭曲
+			n.弯曲；歪曲；乖僻；经纱；绞船索
+			
+degrade		v.降格；使屈辱；贬低；退化；降解
+
+bullshit  n.胡说v.胡说  He's talking bullshit.   他在瞎扯。
+
+Collapsible adj.可折叠的
+collapse   v.（使）倒塌；（使）崩溃；（使）瓦解；折叠
+               n.倒塌；崩溃；暴跌
+
+indent  n.订货单n.凹痕(缩进) v.切割成锯齿状；缩排；定货
+
+sluggish  adj.缓慢的；懒惰的；迟钝的；萧条的；无精打采的
+very sluggish on my (modern) PC
+sluggish flow 缓慢流动  
+
+Intellisense 智能感应
+
+divide  vt.划分；隔开；分割；[数]除    vi.分裂；分开  n.分水岭；分歧；分
+
+decimal   adj.小数的；十进位的  n.小数
+
+overlay    v.覆盖；镀；铺…上面   n.覆盖物；重叠；镀金
+
+simplex   adj.单一结构的；单工的   n.[数学]单形体；[语言学]简单词
+
+plain   adj.清楚的；简单的；坦白的；平常的；朴素的；纯的 
+          n. 平原；广阔的区域
+		  adv. 完全地；纯粹地
+         plain enough  足够清楚    perfectly plain  十分明确
+
+duplex  n.双层公寓；联式房屋   adj.双倍的；复式的；[计] 双方的
+			duplex channel  双工通道
+			duplex transmission   双工传输
+			
+triplex   adj.  三重的；三层的；三部分的   n.有三层的东西
+			triplex row  三行
+
+tiny    adj.极小的；微小的
+
+raw     adj.未加工的；生的；原始的；湿冷的    n.触到某人的痛处
+
+macro      adj.宏观的
+macros    n.[计]宏；宏指令     conditional macros 条件宏功能
+
+wrapper  n.(饺子)皮；包装用品
+
+cascade  n.瀑布；[电]串联  v.瀑布似地落下；（将 ... ）连结；串联
+
+texture   n.质地；手感；口感；组织；结构；纹理；特点  vt.给予结构
+
+epsilon    n.希腊语字母之第五字；[数]小的正数
+
+criteria    n.标准；尺度；准则
+			criterion标准    test criteria试验标准
+
+novice   n.新手；新信徒    novice operator新技术员(新的操作人员)
+
+delve     vi.探究；挖掘；搜索   delve into  钻研
+
+nonetheless   adv.尽管如此(仍然)      none the less还是
+
+truncate    vt.切去一端；缩短；截棱成平面   adj.切去了头；缩短了的；截形的
+
+prompt    adj.迅速的；敏捷的；立刻的
+              vt.   激起；促进；推动；提示    vi.提示   n.提示；提示的内容  n.[商]付款期限
+
+minimum   adj.  最少的；最低程度的   n.最低限度；最小量
+
+flip  vt.掷；轻击；弹vi. 翻转
+      n.（跳水或体操动作中的）空翻；轻弹；浏览   adj.无礼的；冒失的；轻率的
+
+skew  adj. 斜交的(不对称的；误解的)   n. 斜交(歪斜；歪轮；斜砌石)   
+         vt.歪斜；扭转  vi.歪斜；斜视
+
+mock    v.嘲弄；嘲笑；模仿
+            n.嘲笑；模仿；戏弄
+ 			adj.假的；伪装的；模拟的
+
+bin        n.箱柜；仓；垃圾箱  vt.放入箱内
+
+tweak    v. 拧；扭；拉；微调  n.拧；扭；捏；<俚>妙计
+
+synthetic   adj.合成的；人造的；综合的；虚伪的  n.合成物；人工制品
+
+period     n.句号；一段时间；周期；时期；课时；学时；月经
+			don’t forget the period at the end of the line
+
+Tesseract is a full-fledged OCR engine 
+full-fledged    adj.羽毛丰满的；成熟的；完全有资格的
+fledge     vi.长羽毛vt.用羽毛覆盖
+
+accuracy seems decent 
+decent        adj.相当好的；体面的；适当的；正派的
+
+Tesseract works best when the letters are crisp, in a horizontal line, spaced out
+crisp   adj.脆的；干脆的；卷曲的；明快的；(天气)干冷的
+		 n.薯片；松脆物v.(使)发脆；(使)卷曲
+
+solicit   vt.恳求；征求；勾引vi.(妓女)拉客 
+		 
+folk	n.人们；（某类或来自某个地方的）人
+		 
+profuse		adj.很多的；丰富的；慷慨的；浪费的
+		 
+meager     adj.贫乏的；不足的；瘦的
+				meager profit微利
+		 
+promote		 vt.促进；提升；升迁；发起；促销，推销
+		 
+architecture      n.建筑学；结构；一座建筑物；总称建筑物；建筑风格；
+							【计算机】计算机构造，架构，体系结构，结构格式
+
+geometric	     adj.几何学的；几何学图形的			
+
+November      n.十一月
+
+aspect			n.方面；方位；外观；外貌		aspect ratio   高宽比； 纵横比
+							
+eccentricity	n.古怪；古怪的行为；怪癖；离心率		
+							
+scratch 			v.抓；搔（痒）；划破；划掉   
+					n.抓痕；乱写；抓的声音；起跑线   
+					adj.无让步的
+those 2 functions are implemented from the scratch 
+	based on the literature and some of my own assumptions 					
+					
+assumption			n.假定；设想；担任(职责等)；假装			
+
+Feel free to correct my code, if you spotted the mistakes		
+	
+spot		n.地点；场所；职位；污点；斑点；少量；聚光灯；插播节目
+			adj.现场的；现货的；插播的
+			v.（使）产生污渍；玷污；认出；用灯光照射
+
+blame	vt.责备；把 ... 归咎于     n.责备；过失
+
+prerequisite		n.先决条件；前提    adj.作为前提的；必备的
+Detecting text in natural images is an important prerequisite.
+
+novel			n.小说	adj.新奇的
+we propose a novel text detection algorithm
+
+stroke		n.中风；击打；一笔（画）；意外的运气
+				v.击打，轻抚，奉承
+
+stroke width information to exclude non-text objects
+
+pair 			n一对；一双；一副
+				v（使）成对；（使）配对
+Letters  are paired to identify text lines, which are subsequently separated  into words.
+
+landmark		n.陆标；地界标；里程碑；划时代的事
+visual search systems have been developed for applications such as 
+product recognition and landmark recognition
+		
+maturity 		n.成熟；(支票等的)到期
+Although current visual search technologies have reached a certain level of maturity		
+		
+mature		adj.成熟的；(保单）到期的；考虑周到的
+				v.成熟；长成
+		
+clue          n.线索；提示
+
+june			n.六月n.琼(女子名)		
+
+contextual		adj.上下文的；与语境有关的
+
+Contextual Post-Processing
+Post-Processing		n.后加工；错后处理；后部工艺
+
+pillow		n.枕头vt.枕；搁；垫
+
+Split python string every nth character?
+'1234567890'  to ['12','34','56','78','90']
+
+concatenate 		v.连结；连锁	adj.连锁的
+
+get around 		vt.规避；说服
+How can I get around this problem?
+
+monetary  	adj.货币的；金融的
+
+crunch 		v.发出碎裂声；嘎吱嘎吱地咀嚼；嘎喳嘎喳地碾过
+				n.嘎吱声；艰难局面；关键时刻
+
+inevitable	  adj.不可避免的；必然(发生)的			
+inevitably   adv.不可避免地
+Some of the procedure is inevitably manual.
+
+bear		n.熊    v.忍受；负荷；结果；证实；生子女
+The most important points to bear in mind when creating a training file are:...
+
+clarify		vt.澄清；阐明；净化
+clarify rights and wrongs澄清是非
+
+clarification		n.澄清；阐明
+
+curious		adj.好奇的；奇特的
+
+Tesseract does this internally, but the result can be suboptimal, 
+particularly if the page background is of uneven darkness.
+
+suboptimal       adj.未达最佳标准的；不最理想的；
+							不最适宜的；不最满意的
+
+uneven             adj.不平坦的；不均匀的；奇数的；不规律的		
+					
+Tesseract development has been sponsored by Google since 2006.				
+sponsor      n.保证人；赞助者；发起者；主办者
+				 v.发起；赞助；倡议
+				 				 
+There are many separate projects which provide a GUI for Tesseract.
+ One notable example is OCRFeeder				 
+				 
+notable       adj.显著的；著名的    n.名人				 
+
+This page describes the training process, provides some guidelines 
+guideline   		n.指导方针；准则
+
+thrift			n.节俭；节约				 
+
+neutral		adj.中立的；中性的；空档的；素净色的
+				n.中立者；空挡位置
+Thrift lets you define data types and service interfaces in a language neutral definition file.
+ That definition file is used as the input for the compiler to generate code
+ for building RPC clients and servers that communicate over different programming languages. 
+
+scalable	adj.可测量的；可伸缩的；可攀登的
+Apache Thrift is a software framework, for scalable cross-language services 
+development, combines a software stack with a code generation engine 
+to build services that work efficiently and seamlessly between C++, Java 
+ 
+courtesy   n.礼貌；好意
+Image courtesy wikipedia
+
+Installation Thrift can be a tiresome process.
+tiresome		adj.令人厌倦的；讨厌的
+
+tire		n.轮胎；金属圈
+			v.使疲倦；厌烦；劳累
+
+revert		vi.恢复；回复；归还
+
+Pedestrian Detection
+pedestrian		adj.徒步的；缺乏想像的
+					n.行人 
+		
+StradVision achieved FOUR No.1 performance in world-class tech evaluations!
+evaluation    n.估价；评价
+evaluate      vt.评价；评估
+ 
+monitor 	  v.监视；监督；监听
+				  n.班长；监视器；监听员；[计算机]显示器
+
+trim		v.    修剪；削减；装饰；调整帆以适应风向
+			adj. 整洁的；匀称的
+			n.    修剪；整齐；装饰
+
+Use Tesseract to try to decipher our image
+decipher   vt.译解；辨认
+
+Compute the stroke width image out from the distance transform matrix
+It will propagate the max values of each connected component from the ridge
+to outer boundaries
+
+propagate			v.繁殖；增殖；传播；传送
+
+ridge			n.脊；山脊；山脉；隆起部
+				v.（使）成山脊
+
+Intersection and Union of Two Rectangles using OpenCV
+intersect		v.贯穿；(和 ... )相交；交叉
+ 
+Native 		adj.本国的；本土的；当地的
+				n.土著；本地人；本国人
+Java Native Access 
+
+maven		n. 专家；行家
+
+vendor		n.自动售货机；小贩；卖方；供货商
+
+I had to use this ImageIO jar. It worked like a charm.
+
+charm		n.魅力；吸引力；迷人；美貌
+				v.（使）着迷；施魔法
+
+It's not picky what the string is, but it can't be null.
+picky  		adj.挑剔的；吹毛求疵的
+
+resolution will not be reattempted until the update 
+interval of central has elapsed or updates are forced
+
+reattempt			n.再尝试；重新尝试
+						v.再尝试
+elapse				v.逝去；过去
+						n.（光阴）逝去 
+ 
+you can use the wildcard character (*), which will return all items 
+starting/ending with the filename you chose. For example:  rm -f bla*
+will remove all files starting with bla. 
+
+wildcard			n.[计]通配符；[体]复活资格，复活选手；（纸牌的）百搭牌
+
+compatible     adj.一致的；兼容的；适合的
+					 n.兼容
+
+How do I make `ls` show file sizes in megabytes?					 
+megabytes 		n.兆字节
+mega				adj.巨大的	adv.非常		pref.表示“大；百万”
+
+afford to run lots of concurrent threads
+
+concurrent			n.赞同；意见一致；同时发生
+
+show benchmark results to illustrate performance characteristics
+benchmark		n.标准检查程序；基准点；参照点
+						vt.检测(竞争对手的产品以比较和改进自身产品)
+
+bench				n.长凳；工作台；法官
+
+TSimpleServer accepts a connection, processes requests from the connection
+ until the client closes the connection, and goes back to accept a new connection.
+
+TNonblockingServer solves the problem with TSimpleServer of one client blocking 
+all the other clients by using non-blocking I/O.
+
+This way, multiple clients can be served without one client starving others.
+
+starve		vi.挨饿；受饿；极度匮乏
+				vt.使挨饿；使饿死
+
+This way messages will get processed immediately if there is an idle worker threads,
+ and multiple messages can be processed concurrently.
+ 
+idle		adj.无目的；无聊的; 懒惰的；闲散的; 无根据的
+			vt.虚度; 使空闲
+			vi.不作事；闲逛; (机器)空转
+
+the latency is 100 ms
+latency			n.潜伏；潜伏期；延迟
+
+PinLater is a Thrift service to manage scheduling and execution of asynchronous jobs. 
+
+asynchronous		 	adj.异步的
+
+Run Server Locally with MySQL backend
+
+backend		n.后端		adj.后端的
+
+Redis backed services run the risk of incurring data loss if pending job
+ back ups are not tended to in a few hours.
+
+incur				vt.招致；遭受；惹起
+
+pending			adj.待定的；即将发生或来临的
+					prep.直到；等待 ... 的时候；在 ... 期间
+
+PinLater also supports a dequeue-only mode where a shard only receives dequeue requests
+ but no new jobs will be enqueued. 
+
+dequeue		v.离队；出列
+
+It can help dealing with struggling backend system, 
+or drain a shard before downsizing the cluster. 
+
+struggle			vi.努力；奋斗；斗争；挣扎
+					n.斗争；竞争；奋斗				
+					
+drain				v.排出；排干；喝光；耗尽
+					n.下水道；消耗
+
+shard			n.（陶器或玻璃等的）碎片；一小片或一部分；〈动物学〉昆虫翅鞘
+
+cluster			n.群；簇；丛；串
+					v.群集；丛生；使成群
+
+billion			n.十亿
+
+typically used for logging and metrics
+metric			adj.公制的；米制的；十进制的
+					n.标准；度量
+
+pin				n.别针（大头针）；徽章；<口>脚
+					v.钉住；别住；固定住					
+					
+You want to use backtick not regular tick:
+backtick			n.【计】反勾号（``）
+
+tick				v.滴答作响；给…标记号；运作；空转
+					n.滴答声；一会儿；勾号；壁虱；蜱虫；枕套；褥套
+
+The Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction for 
+various logging frameworks
+
+facade			n.建筑物的正面；外表(犹指虚伪的)
+
+precede			vt.在 ... 之前；先于
+					vi.在前面；领先
+
+Mandatory arguments to long options are mandatory for short options
+mandatory		adj.法定的；义务的；强制性的；受委托的
+					n.受托管理者
+
+verbose			adj.罗嗦的；冗长的
+
+Get a digest of original Linux and open source news and tutorials from Linux.com 
+delivered to your inbox weekly.
+
+inbox				n.收件箱
+					
+digest			n.摘要	vt.消化；理解	vi.消化					
+					
+deliver		v.递送；发表（演讲）；交付；解救；生（孩子）；接生；履行；投掷					
+					
+Say you want to keep your home directory (in this case /home/jack) free from stray files.					
+					
+stray			n.走失的家畜；浪子adj.迷途的；偏离的v.迷路；偏离					
+
+you don't have to issue the mv command for every file. 
+You can use wildcards to help you out. 
+
+terse				adj.简洁的；简明的
+
+default in parenthesis
+
+parenthesis		n.圆括号；插入语
+
+comma-separated set 
+comma				n.逗号；停顿；间歇；银纹多角蛱蝶
+
+dash-separated range
+dash			v.猛冲；猛掷；泼溅；匆忙完成
+				n.破折号；短跑；猛冲；冲
+
+silly			adj.愚蠢的；琐屑的；可笑的；犯晕的
+				n.（通常指小孩子）淘气鬼；傻孩子
+
+profile			n.侧面；轮廓；形象；简介
+					v.描绘 ... 轮廓；评论人物
+
+profiling			n.程序概要分析
+
+====================================
+1~3（上部分已经打印）
+merge	v.合并；融合；兼并
+We’ll be using a fork of Tesseract Android Tools by Robert Theis called Tess Two. 
+fork  n.叉；叉状物   vi.分叉  vt. 使成叉形；用叉叉起
+shortfall  	n.不足；差额   applet		n.小应用程序
+Get the weekly newsletter   newsletter	  n.时事通讯；业务通讯，内部通讯；新闻信札
+Important community announcements  
+announcement		n.通告；宣布；声明  announce	vt.宣布；宣告；预示；播报 vi.作播音员；宣布竞选
+announcer		n.广播员；告知者
+incorporate it into a Web page , compress it into a ZIP file and store it in much less space, 
+send it by email—and all kinds of other neat things
+incorporate	v.合并；组成公司 adj.合并的；公司组织的		
+neat		adj.整洁的；简洁的；利索的adv.整洁地；利索地		
+use speech synthesizers (computerized voices, like the one Stephen Hawking uses) to read out
+ the words on a screen so blind and visually impaired people can understand them		
+speech synthesizer	语音合成器	   synthesizer   n.合成器；综合器
+synthesize    v.合成；综合  impair	vt.损害；削弱[计算机] 损伤.
+blind		adj.盲目的；瞎的；未察觉的vt.使失明；隐藏adv.盲目地n.百叶窗；幌子		
+impaired		adj.受损的；不匹配的，不适合的v.损害；削弱（动词impair的过去式和过去分词）		
+documents are printed in many different typefaces (fonts) and the letter A can be 
+printed in many subtly different forms.
+typeface	n.字体；铅字样  subtly		adv.敏锐地；巧妙地；精细地
+compiler it′s obligatory so maybe you have a Installation problem with the compiler
+obligatory adj.强制性的；义务的；必须的
+I need to boot up a program from the terminal window, say, nm-applet:
+boot  n.靴子；猛踢；解雇；[英]汽车行李箱vt.踢；穿靴子；逐出；启动(计算机)
+When it's started, it occupies the foreground of the terminal window.
+I'm also quite partial to disown which can be used to separate a process from the current tree.
+partial	adj.不完全的；部分的；偏袒的；偏爱的
+You use it in conjunction with the backgrounding ampersand:
+conjunction	n.结合；关联；连词；(事件等的)同时发生  ampersand	n.＆(and 的符号）
+deselect   v.取消选择；否决（某人）为下届候选人
+atomic   adj.原子的  atom  n.原子；微粒  atomization   n.原子化；雾化；分化
+atomize   vt.使分裂成原子；使雾化；使成微粒；用原子弹轰炸；把…粉碎；将…割裂开来vi.分裂
+anonymous   adj.匿名的；无名的；没特色的
+anonymity    n.匿名；笔者不明
+How do erase the contents of a error.log file but keep the file intact
+intact  adj.完好无缺的；原封不动的；未经触碰的
+The easiest way is to truncate a file is to redirect the output 
+truncate  vt.切去一端；缩短；截棱成平面  adj.切去了头；缩短了的；截形的
+synchronize vt.使同步；使同时发生vi.同时发生
+Be specific  If you ask a vague question, you’ll get a vague answer.
+vague  adj.不明确的；模糊的；茫然的；犹豫不决的
+please stick to those topics and avoid asking for opinions or open-ended discussion.
+open-ended  adj.无限制的；末端开口的；自由回答的；开放式的
+skeletal  adj.骨骼的；梗概的；骸骨的
+skeleton  n.骨架；纲要；骨骼；骨瘦如柴的人或动物；家丑adj.骨骼的
+What really baffles me is... baffle  v.困惑；难倒；阻碍；受挫n.挡板；隔音板；反射板；困惑
+if you were writing a database (DBMS) this class would come in handy.
+come in handy  迟早会有用； 派上用场   Jan   abbr.一月（=January）
+ByteBuffer  A container for data of a specific primitive type. 用于特定基本类型数据的容器。 
+simulate tail -f inside less pager – Press F  simulate  vt.假装；模拟；模仿
+Image is an abstract class. You can't instantiate Image directly.
+BufferedImage is a descendant, and you can instantiate that one.
+descendant   n.后裔；子孙；后代
+Scene Text Recognition using similarity and a lexicon with Sparse Belief Propagation
+lexicon  n.词典；词汇   propagation  n.增殖；繁殖；传播；传送
+In a nutshell, apt-get update doesn't actually install new versions of software.
+nutshell  n.坚果壳；小容器；简明扼要    compile issues so we all are a little stuck
+stuck adj.不能动的；束手无策的；不得不的v.刺入，插入；阻塞，塞（动词stick 的过去式和过去分词）
+symbolic   adj.象征的；符号的n.代号
+synthetic   adj.合成的；人造的；综合的；虚伪的n.合成物；人工制品
+Copying files from host to docker container    Hidden Markov Model  HMM 隐马尔科夫模型
+conditional random field  条件随机场CRF
+Maximally Stable Extremal Regions 最大极值稳定区域 MSER
+Histogram of Oriented Gradient  方向梯度直方图HOG
+Local Binary Pattern 局部二值模式   salience detection 显著性检测
+multiple instance learning 多实例学习
+How to reproduce the results?  reproduce  v.再生；复制；生殖
+Jaderberg does do a great job at explaining his CNNs in his dissertation.  dissertation  n.论文
+mute the thread    mute  n.哑子；弱音器；默音字母adj.哑的；沉默的；无声的vt.减音；减弱vi.(鸟)排泄
+state-of-the-art   adj.最新式的；使用了最先进技术的；顶尖水准的
+Text spotting, namely the ability to read text in natural scenes, is a highly-desirable 
+feature in anthropocentric applications of computer vision.
+anthropocentric   adj.以人类为中心的；人类解释宇宙说的
+December / Dec    n.十二月  November / Nov   十一月   proposal    n.求婚；建议；提议
+I tried to replicate this preprocessing in numpy/scipy/scikit-image
+replicate   v.复制；模拟；折叠  n.复制品  adj.复制的；折叠的
+combine the networks of detection and recognition into one unified framework. 
+unify  vt.使统一、使成为一体   semantic-level awareness
+semantic    adj.语义的   awareness   n.认识；觉察；意识
+boosting the accuracy of word spotting     boosting  n.助推(升压；加速；增加)  v.推进
+boosting pressure 升压   boosting dose加强剂量
+boost  v.提高；增加；鼓励；举起；为...做宣传  n.增加；推进；鼓励
+The recognizer not only provides extra recognition outputs
+extra  adj.额外的n.额外之物；临时演员adv.特别地
+extra buses增开的公共汽车   extra charge另外的收费
+transcript    n.抄本；副本；誊本；成绩单；笔录
+roughly  adv.粗略地；大约；粗暴地；粗糙地；粗鲁地
+rough  adj.粗糙的；粗略的，大概的；粗暴的；艰难的；讨厌的；不适的；汹涌的
+         adv.粗糙地；粗暴地n.粗制品；暴徒；高低不平的路面vt.使粗糙；殴打；草拟
+word candidates are generated  with class-agnostic proposal generators
+agnostic  n.不可知论者  adj.不可知论的；不可知论者的
+TextBoxes enjoys a much simpler pipeline    pipeline  n.管道；管线；渠道v.用管道运输
+We adopt a text recognizer called CRNN  in conjunction with TextBoxes for word spotting
+and end-to-end recognition.    close conjunction密切配合
+conjunction  n.结合；关联；连词；(事件等的)同时发生  conjunct   adj.结合的；共同的n.结合物
+some scales squeeze image horizontally, so that some “long” words are shortened. 
+squeeze  v.挤压；塞进；压榨；设法腾出n.挤压；少量；拥挤；严控；财政困难
+unlikely to be meaningful words, e.g. repetitive patterns.  repetitive  adj.重复的；反复的
+800k synthesized text images, created via blending rendered  words with natural images.
+render   vt.提供；表现；使成为；宣布；翻译；回报；给予补偿；【计】渲染n.粉刷；打底；交纳
+render help 给予帮助
+render well演奏得好 render accurately准确地表达  render for以…来回报 render from从…译过来
+Street View Text (SVT)
+Momentum and weight decay are set to 0.9 and 5 × 10 ?4 respectively.
+decay   v.(使)衰退；(使)腐败；(使)腐烂   n.衰退；腐烂；腐败
+free opencv crash course    crash course  速成班
+A Crash Course in Deep Learning
+crash  v.撞击；坠毁；发出巨响；崩溃；破产；<俚>宿夜n.轰隆声；猛撞；崩溃；暴跌；垮台；粗布adj.速成的
+Again, I want to reiterate that this list is by no means exhaustive.     reiterate  vt.重申
+Let’s go ahead and dive in!
+dive   n.潜水；跳水vi.跳水；俯冲；潜心钻研dive in  vt.跳水；开始大吃
+Finally, I provide a “bonus” section for libraries that I have (1) not used in a long time, 
+but still think you may find useful 
+bonus  n.红利；意外所得之物；奖金；【篮】追加罚篮
+Theano accomplishes this via tight integration with NumPy and transparent use of the GPU.
+tight  adj.紧的；紧身的；密集的；拮据的adv.紧紧地；牢固地；迅速地
+While not a perfect comparison, building a Convolutional Neural Network in 
+Theano is like writing a custom SVM in native Python with only a sprinkle of NumPy.
+sprinkle v.洒；撒；下稀疏小雨n.少量散布的屑状物
+consider posting synopsis of your steps on github.      synopsis  n.摘要；概要
+You might try the Caffe Dockerfile if you are having trouble, especially if there are 
+conflicting dependencies, since the container encapsulates the dependencies for Caffe.
+encapsulate   v.装入胶囊；封进内部；压缩；概括
+Try to give your issue a title that is succinct and specific.     succinct  adj.简洁的
+dummy    n.傀儡；假人；仿制品；笨蛋；哑巴adj.假的；仿造的vt.保密
+dummy instruction空指令dummy signal假信号dummy string空行,空串
+we propose to localize text in a holistic manner
+holistic   adj.整体的；全盘的   holistic approach整体分析
+ scene text detection is casted as a semantic segmentation problem
+semantic   adj.语义的       sematic    adj.令人警惕的；警告的；有警戒作用的
+ We tackle this issue by taking into account the center and scale of individual characters
+tackle  v.处理；对付；阻截(对方球员)；与…交涉n.滑车；用具；铲球；(美式足球)拦截手
+vast    adj.巨大的；广阔的   out-of-the-box  	adj.拆盒即可使用的，开箱即用的
+ it still fails to handle some difficult cases, such as overexposure and large character spacing
+exposure  n.暴露；揭露；胶片；曝光时间；(在电视、报纸等媒体上的)亮相；挨冻
+overexposure   n.感光过度；[摄]过度曝光
+is highly stable  and efficient to generate word proposals against cluttered backgrounds.
+clutter  vt.弄乱；混乱n.杂乱   proposal  n.求婚；建议；提议
+Apologies for any inconvenience caused.     apology   n.道歉；辩解；<口>勉强的代用品
+"Robust Reading" refers to the research area dealing with the interpretation of written 
+communication in unconstrained settings.     interpretation   n.解释；翻译；阐释；(艺术的)演绎
+strip    v.剥去；剥夺；脱衣；除去n.脱衣舞；长条；条状
+blob    n.小圆块；小斑点；一滴v.弄脏
+a single convolution composed of 3 convolutional neurons, with kernel of size 5x5 and stride of 1
+stride    n.大步走；一大步；步伐；进步vt.跨；跨骑vi.迈大步走；跨过；分腿站立
+In traditional machine learning algorithms, we need to hand-craft the features. 
+By contrast, in deep learning algorithms feature engineering is done automatically by the algorithm.
+hand-craft  n.手工艺品，饰品
+craft    n.工艺；手艺；狡诈；船舶；航空器；行会成员vt.手工制作；精心制作
+until Geoffrey Hinton's breakthrough work of the mid-2000s.
+In addition to algorithmic innovations, the increase in computing capabilities using GPUs 
+and the collection of larger datasets are all factors that helped in the recent surge of deep learning.
+innovation   n.创新；革新   innovate   v.改革；创新
+surge    n.汹涌；波涛；猛增v.汹涌；涌起；激增；[海]缆绳滑脱
+breakthrough   n.突破，突破性进展；关键问题的解决    backpropagation   n.反向传播(B-P)
+propagation	n.增殖；繁殖；传播；传送    propagate   v.繁殖；增殖；传播；传送
+Convolutional neural networks are designed to emulate the behaviour of a visual cortex.
+emulate    vt.效法；尽力赶上[计算机] 仿真.    cortex  n.外皮；（大脑）皮层
+unzip     v.拉开拉链；[计]解压缩  zip   n.拉链n.活力；飞射声v.拉拉链v.飕飕飞过；注入活力   zip up 拉上拉链
+snapshot    n.快照；印象    dashboard   n.(汽车上的)仪表盘
+Per the rules and spirit of this contest, please do not manually label your submissions 
+contest   n.竞赛；比赛vt.驳斥；争取vi.奋斗   per  prep.每；每一；经过；按照
+submission   n.提交；服从；屈服；[律]意见    submissive    adj.服从的；顺从的
+However, given that there is always one willing to cheat to rise to glory, 
+we reserve the right to wield the following anti-doping measures
+glory   n.光荣；荣誉；赞颂；壮丽vi.自豪      wield   v.行使；施加(影响)；使用(武器等)；挥舞
+ include nefarious tricks to make matching the old and new test sets very annoying
+ (e.g. removing rows, reversing orientation
+nefarious   adj.违法的；邪恶的  annoying   adj.恼人的；讨厌的
+annoy   v.使恼怒；使烦恼；骚扰
+sign     n.手势；招牌；符号；迹象；正负号v.签；签名；做手势；做标记
+vanity   n.自负；虚荣心；无价值的东西；浮华
+Lightning Memory-Mapped Database   (LMDB)闪电般的内存映射数据库
+lightning   n.闪电；意外的幸运adj.闪电般的；快速的   anaconda   n.水蟒
+cheat sheet for caffe / pycaffe?    cheat sheet    n.小抄
+sheet   n.被单；纸；(薄)片；一片n.[船]帆脚索v.铺盖；使成片adj.片状的
+Datum is a Google Protobuf Message class used to store data and optionally a label
+optionally   adv.可选择地
+Datum is often used in a data layer as an intermediate object which helps facilitate 
+setting the batch's data and label.   facilitate     vt.促进；帮助；使 ... 容易
+facile    adj.易做到的；轻易完成的；麻利的
+That is only a facile answer.  那只是一个很肤浅的回答。
+
+
+====================================
+1~4（上部分已经打印）
+weighted finite-state transducers    加权有限状态换能器
+Then full-projective transformation is used to distort the characters.
+projective  adj.投射的；射影的；凸出的
+scene background patches are blended to the characters to imitate the reflection in real word. 
+patch  n.小片；补丁；眼罩；（贴在伤口的）膏药；【生态】斑块vt.修补；补缀；解决；掩饰
+imitate   vt.仿效；仿制；模仿
+Recurrent Neural Network (RNN递归神经网络)  Deep Belief Network (DBN深层置信网络)
+Long Short-Term Memory (LSTM 长短时记忆单元)
+Gated Recurrent Unit  (GRU 门递归单元)   Neural Turing Machine   (NTM 神经图灵机)
+Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition
+recurrent   adj.再发生的；周期性的；循环的
+trajectory   n.轨道；弹道；轨迹   corpus   n.资料；文集
+it is a python dict which maps characters to frequencies, and saved as a cPickle dump.
+dump     vt.倾倒；抛弃；倾销；抛售；倾卸；[计]转储vi.倾倒；突然落下n.垃圾场；军需供应站
+all the generated charactersare cursive, and different handwriting styles can be found among them.
+cursive   adj.草书的；草书体的n.草书；草书原稿
+ we propose a framework by using the recurrent neural network (RNN) as both
+a discriminative model for recognizing Chinese characters and
+a generative model for drawing (generating) Chinese characters.
+discriminative   adj.有识别力的；区别的；表示差别的
+generative   adj.生殖的；生产的；有生殖力的
+A curated list of resources dedicated to scene text localization and recognition
+curate   n.副牧师；助理牧师；瑕瑜互见之物v.管理(博物馆展品等)；担任牧师
+dedicated   adj.专注的；献身的；专用的
+dedicate    vt.致力于；献出；提献辞
+insightful discussions.   insightful   adj.有深刻见解的；富有洞察力的
+transcription    n.抄本；誊写；用音标表示语音；转写；乐曲的改编；(生物)转移
+The latter transcripts cropped word images into machine-interpretable character sequences.
+transcript   n.抄本；副本；誊本；成绩单；笔录
+stronger suppression is imposed on boxes of the same word.
+impose     v.强加；课征；强迫；征收(税款)
+All training images are augmented online with random crop and flip
+augment    vt.增加n.增加；补充物
+argument    n.辩论；论点；论据；争论；理由；(函数)自变量
+we freeze the weights of the remaining layers, and we train a machine learning 
+classifier on the output of the remaining layers.
+freeze    v.冻结；冷冻；僵硬；凝固n.严寒；冻结
+This paves the way for robust integration within dd.  pave   vt.铺路；铺设；铺满；安排
+You can slice in any dimension you want, even multiple times.
+slice   n.薄片；部分；曲球v.切成薄片；割；切开
+No Compromise on Technology
+compromise   n.妥协；折衷；折衷案；和解vt.妥协处理；危害vi.妥协，和解；让步
+stack    n.堆；一大堆；【计】存储栈；迭式存储器，栈式存储器；存储栈数据v.堆积；堆放
+The product is supported by Machine Learning experts and AI veterans
+veteran    adj.老练的n.老手；老兵
+you can refer to "http://arxiv.org", which has an good torch implementation at: (github). 
+torch   n.手电筒；火炬；火把；<俚>纵火犯v.纵火
+It is nearly off-the-shelf for recognition. 
+off-the-shelf    adj.成品的；现成的；现货的
+Versatile Machine Learning
+versatile   adj.多才多艺的；通用的；多功能的
+semi-supervised learning  半监督学习
+ground truth  有监督学习中，数据是有标注的，以(x, t)的形式出现，其中x是输入数据，t是标注.
+正确的t标注是ground truth,错误的标记则不是（也有人将所有标注数据都叫做ground truth）
+corpus  n.资料；文集
+Should i add dropout? 
+dropout n.退学学生；拒绝传统社会的人；【计算机】磁盘信息失落；漏失信息，丢失信息
+This does not download the ilsvrcC12 data set, as it is gargantuan.
+gargantuan   adj.巨大的；庞大的
+The following packages have unmet dependencies
+unmet    adj.未满足的；未相遇的；未应付的
+In addition to this manual, there are various other resources that may help new users
+get started with torch, all summarized in this Cheatsheet
+This can be subsituted with any text file.
+substitute     n.代用品；代替者；替补队员vt.代替；用 ... 代替；代以
+cannot find folly " when installing fbthrift
+folly    n.愚蠢；荒唐事(复)follies: 轻松歌舞剧.
+Presumably because this block is missing from the forked install_all.sh:
+presumably  adv.大概；据推测；可能
+presume     vt.假定；推测；姑且认定；认为是理所当然vi.越权行事；利用
+The previous thrift ThreadManager used mutexs and condition variables to queue tasks and wake up threads. 
+mutex     n.[计算机]互斥(体)
+recipe   n.秘诀；食谱；药方
+You can try Ctrl+L. It clears and/or redraws the terminal screen, depending on the program.
+redraw    v.重新划（边界线）；重新安排或计划
+Folly (acronymed loosely after Facebook Open Source Library) is a library of C++11 components
+acronym     n.首字母缩略词
+In fact, we embark on defining our own component only when something we need is either not available
+embark   v.乘船；装载；着手；从事
+We endeavor to remove things from folly if or when std or Boost obsoletes them.
+endeavor     n.尽力；努力v.尽力；努力；力图   obsolete     adj.已废弃的；过时的
+Performance concerns permeate much of Folly, sometimes 
+leading to designs that are more idiosyncratic than they would otherwise be 
+permeate   v.弥漫；渗透；普及   idiosyncratic  adj.特质的；与众不同的
+This designation connotes primarily that we feel the API may change heavily over time.
+connote   vt.意味着；隐含；暗示
+At the top level Folly uses the classic "stuttering" scheme folly/folly used by Boost and others.
+stutter    v.口吃；结巴着说话n.口吃；说话结巴
+The directory structure is flat (mimicking the namespace structure), i.e. we don't have an 
+elaborate directory hierarchy (it is possible this will change in future versions). 
+mimic     vt.模仿；模拟n.模仿者；仿制品adj.模仿的；假的
+mimicking   n.模仿  动词mimic的现在分词形式.
+elaborate    adj.详尽的；复杂的；精心的；精美的v.详细地说明；用心制作；推敲；变得复杂
+TH++ is a C++ tensor library, implemented as a wrapper
+tensor   n.张量；[解]张肌  tensor analysis  张量分析  mixed tensor  混合张量   metric tensor度量张量
+sudo aptitude install     aptitude  n.天资；资质；才能；倾向
+saw   n.锯v.用锯子锯；前后移动；看见，明白，了解（动词see的过去式）
+learn to generate fake Chinese characters in vector format
+fake    adj.假的n.骗子；假货；欺骗vt.伪造；伪装vi.假造
+migrate    vi.迁移；迁徙；转移
+migrate between  在…之间迁移    migrate from the East  来自东方
+proposal    n.求婚；建议；提议
+proposal to reduce taxes 减税的建议   proposal for 有关…的提议
+anchor   n.锚；锚状物；依靠；新闻节目主播；压阵队员v.抛锚；停泊；用锚系住；担任（广播电视新闻节目）的主持人
+Oxford   n.牛津城；牛津大学；牛津布；牛津鞋
+You could compute these ground truths of text proposals on the fly or pre-compute them in advance
+on the fly    在运行中； 忙碌
+Did you revise the loss function
+revise     n.校订；修正；再校稿v.校订；修正；校正
+revise a book 修订书    revise a contract  修改合同   revise for the examination  复习迎考
+Performance on tilt and perspective texts
+tilt   vt.(使)倾斜vi.抨击；争论n.倾斜；车盖；以全速；(小舟、车辆、地摊等的)帐蓬
+tilt the hat 歪戴帽子 tilt the wings  倾斜机翼     tilt backwards 向后倾斜
+tilt at an opponent   向敌人冲刺tilt into a room冲进房间
+perspective    n.远景；看法；透视adj.透视
+You’re receiving notifications because you’re subscribed to this thread.
+thread    n.线；思路；螺纹；线索；细丝；帖子vt.穿过；穿线于；遍布vi.滴下成丝状；小心地通过；蜿蜒前进
+a little confused about "zoom in 1.2" you mentioned before? Do you mean resize the picture to 1.2
+zoom  v.急速上升；嗡嗡作响；（镜头）拉近（拉远）n.急速上升；嗡嗡声；(摄影)变焦 
+zoom lens 变焦透镜  zoom back 移后
+zoom out  缩小    zoom ratio可变焦距比   
+zoom optics变焦距光学装置,变焦光学器件   zoom in 放大
+I have tried a lot of different parameters, but none of the results are optimal. 
+optimal   adj.最理想的；最佳的
+optimal filtering 最优滤波   optimal control最优控制    optimal policy 最优策略
+optimal approximation  最佳逼近    optimal allocation  最优配置
+Please cite the following paper if you are using the code/model in your research paper
+cite     vt.引用；传讯；表扬；举(例)
+cite another example  举出另一例子   cite an author  引用作者的著作
+cite sth as instance  举某物为例    cite sth as proof of...  引…以证明
+citation     n.引用；表扬；(法律)传票
+This makes scene text recognition imperative for many areas in information retrieval
+imperative    adj.紧要的；必要的；祈使的n.紧要的事；命令；义务；驱使
+imperative manner  命令的态度    the imperative mood祈使语气  
+really imperative真正迫切需要
+While the recognition of text within scanned documents is well studied and there are many document
+OCR systems that perform very well, these methods do not translate to the highly variable domain
+of scene text recognition.
+translate     v.翻译；解释；转移；调动
+translate a book翻译一本书   translate a computer's answer翻译计算机的答案  
+translate as把…解释为…        translate from Chinese into English从汉语译成英语
+When applied to natural scene images, traditional OCR techniques fail as
+they are tuned to the largely black-and-white, line-based environment of printed documents
+tune   n.曲调；调子；和谐；协调；数量vt.为 ... 调音；调整vi.调音；调整频率
+tuned    adj.调谐的；调好台的
+tuned in谙熟到最新事态发展的  fine-tune微调   tuned ringing谐频振铃
+While most approaches recognize individual characters by pooling evidence locally.
+Crucially, however, we regress all the characters simultaneously, formulating this as a
+classification problem in a large lexicon of 90k possible words 
+regress   v.倒退；回归；退化n.退回；回归；逆向思维
+formulate   v.用公式表示；系统地阐述；规划；制订   formulate criteria订出标准
+simultaneously    adv.同时地     simultaneous    adj.同时发生的；同步的
+simultaneous translation同声传译,即时传译    simultaneous solution联立解
+simultaneous carry同时进位 
+This result is highly non-trivial    non-trivial   非平凡的    trivial     adj.不重要的；琐碎的
+These limitations have been mitigated before by mining for data or havingaccess to 
+large proprietary datasets  but neither of these approaches are wholly accessible or scalable.
+mitigate     vt.减轻；缓和
+mining   n.采矿；矿业   mining engineer采矿工程师   data mining数据挖掘技术
+mining engineering采矿工程
+proprietary    adj.专利的；所有权的n.所有权；所有人
+proprietary drug专卖药, 专利药    proprietary medicine专利药品
+proprietary company控股公司,持股公司,土地兴业公司   proprietary name注册商标
+wholly   adv.完全地；全部地；一概   wholly improper  完全不妥当   wholly successful十分成功
+Font rendering – a font is randomly selected from a catalogue of over 1400 fonts downloaded
+from Google Fonts.
+Border/shadow rendering – an inset border, outset border or shadow with a random width may
+be rendered from the foreground.
+inset   n.插入物；插页；插图v.嵌入
+And as a bonus we’ll also see how we can utilize scikit-image to download an image from a URL,
+along with a common “gotcha” that could trip you up along the way.
+gotcha    int.这下抓住你了； 我明白了<口>=I'v got you(it)!
+trip    n.旅行；摔倒；差错；轻快的步伐
+		 vt.使跌倒；使失败；使犯错；起锚；竖帆vi.绊倒；旅行；轻快地走；失误；结巴 
+arrange a trip安排旅行       cancel a trip取消旅行
+boring trip令人厌烦的旅行   cheap trip花钱少的旅行
+Let’s take a look at how we can leverage scikit-image to download an image from a URL and convert it to OpenCV format
+leverage  n.杠杆；杠杆作用；举债经营v.举债经营；补充(金钱等)；对…产生影响
+leverage factor 杠杆系数
+
+
+
+
+
+====================================
+1~5（上部分已经打印）
+ergodic    adj.各态历经的；遍历性的
+reduce     v.减少；缩小；使落魄；简化；还原
+def mul(x, y):  
+    return x * y  
+numList = range(1, 5)      reduce(mul, numList) # 5! = 120 
+reduce a person to reason使人服理
+reduce easily 容易征服    reduce gradually 逐步缩小
+reduce sth from...to  把某物从…降至…     reduce in在…方面减少,在…方面降低
+once you have an array, you’re gonna have to write a loop.
+gonna     <美> 将要(=going to)
+Most of the time, this is fine and dandy
+dandy     adj.<口>极好的   n.花花公子；好打扮的人
+shuffle    v.拖曳；搅乱；推诿；洗牌；移来移去
+			 n.洗牌；搅乱；拖着脚走；搪塞
+Give the cards a good shuffle.           把牌好好洗一洗。
+On his desk was a shuffle of papers.  他的桌上放着混杂的文件。
+cryptography      n.密码术；密码系统
+Digital signatures rely on public key cryptography.
+数字签名依赖于公共密钥加密学。
+public key cryptography  公钥密码
+setfont() is deprecated. " "Please set the attribute directly instead
+deprecate     v.声明不赞成；抨击；反对
+The peace-loving people deprecate war.  爱好和平的人民反对战争。
+triangle     n.三角(形)
+He outlined the triangle in red.他用红笔画出三角形。
+The angles of a triangle total 180.三角形的三角之和等于180°。
+Make this image into a thumbnail. 
+thumbnail    n.大拇指的指甲；极小之物；小图片adj.极小的；极短的
+thumbnail sketch用拇指轻按鼻头挥动四指表示轻蔑、嗤之以鼻
+sketch    n.速写；素描；草图；概述  v.草拟；速写；(简略地)描绘
+do〔make, take〕 a sketch 素描    draw a sketch  画略图〔速写,素描〕
+brief〔short〕 sketch 简介  composite sketch综合素描像
+sketch from nature  写生
+Unfortunately, since Keras uses the Theano framework underneath, i was
+limited to implementing the loss function
+underneath     adv.在下面n.下部；底部prep.在 ... 下面
+She was wearing a woolen coat, with a cotton blouse underneath.
+她外面穿了一件毛外套，里面穿一件棉布衬衫。
+underneath the surface  水面下   underneath drive 低传动,下部传动
+Trouble using python PIL library to crop and save image
+crop     n.农作物；收成；庄稼；(一)批   v.修剪；啃吃；收获；出现
+prime    adj.最好的；首要的；典型的 n.壮年；全盛时期；青春 n.[数]质数
+			vt.事先指点；在（金属、木材等上）打底漆  vi.变得首要
+prime importance  头等重要  feel prime很神气  attain〔reach〕 the prime达到全盛时期
+pass one's prime 过了全盛时期  woman at her prime风韵正佳的妇人
+in one's prime 正当壮年 prime sb for a life on stage培养某人当演员prime a lamp with oil把油注入灯
+primer    n.启蒙书；入门书  n.雷管；底火；底漆
+automatic primer  自动起爆器    hand primer  手起动,手动起动泵
+for 1-D arrays to inner product of vectors (without complex conjugation)
+conjugation    n.结合；配合n.动词的变化；变形n.[生]配对；接合
+conjugate     v.结合；配合；（动词）词形变化
+					adj.成对的；[数]共轭的；[语]同词根的n.[数]共轭值；[语]同根词
+Based on the steepest descent method and the conjugate gradient method, 
+a hybrid algorithm is proposed in this paper, and its global convergence is proved.
+摘要将最速下降法与共扼梯度法有机结合起来，构造出一种混合优化算法，并证明其全局收敛性。
+conjugate planes  共轭平面   conjugate complex 共轭复数
+conjugate axis  共轭轴         conjugate line共轭线,共轭直线
+You might also try this little code snipped:
+mypath = ...
+if not os.path.isdir(mypath):
+   os.makedirs(mypath)
+snip    n.剪；剪口；剪下的小片；不知天高地厚的人；便宜货
+		  v.剪；剪裁；剪短
+snip off 剪掉
+Create a directory and any missing ancestor directories. 
+If the directory already exists, do nothing.
+ancestor     n.祖宗；祖先；原种
+During the festival the investor investigated his ancestor.节日期间投资者调查了他的祖宗
+a common ancestor 同一个祖先      remote ancestor 远古祖先
+noble ancestors名门	
+ancestral	adj.祖先的；祖传的								
+They kept their ancestral customs.他们保持了祖辈的习俗。					
+ancestral cell [医] 祖细胞, 初细胞   ancestral element祖元素					
+ancestry	n.祖先；家世；门第；血统				
+He cames of a good ancestry.他家世很好。					
+He is an American of French ancestry.他是法国血统的美国人。					
+lineal ancestry直系祖先	 have Scottish ancestry 祖籍苏格兰  trace one's ancestry寻根				
+You have no active bounties					
+bounty	   n.慷慨；慷慨的赠予物；（由政府提供的）奖金		 		
+He is famous for his bounty to the poor.他因对穷人慷慨相助而出名。					
+bounty hunter 为赏金而追捕逃犯者	  export bounty 出口津贴				
+demo   	 n.样本唱片；演示；<口>示威
+demo applets  演示小应用程序
+Miscellaneous operators supported by Lua Language include concatenation and length.
+..	Concatenates two strings.	a..b where a is "Hello " and b is "World", will return "Hello World".
+#	A unary operator that returns the length of the a string or a table.	#"Hello" will return 5
+miscellaneous     adj.多方面的；各种的；性质混杂的[计算机] 杂的.
+						 n.杂货；杂项[合同法律用语]其他约定.
+He likes to have miscellaneous collection.他喜欢多种多样的收集。
+miscellaneous data  杂项数据     miscellaneous operation杂操作
+miscellaneous income 杂项收入
+unary     adj.一元的；单项的
+unary array  一元数组        unary operation  单目运算,单值运算,一元运算
+escape    v.逃跑；逃脱；逃避；被忘掉；泄露；去度假
+			  n.逃跑；逃脱；逃避；泄露；度假；[计算机]退出键
+escape curse  免遭咒骂  escape danger避免危险
+escape from 从…中逃出来,逃离  escape from prison越狱
+escape sequence    换码顺序； 转义序列
+The size of an array is not fixed and it can grow based on our requirements, subject to memory constraints.
+subject      n.话题；科目；主题；题材；主观；[语]主语n.实验对象；(君主国)国民
+				adj.易患的；服从的vt.使服从；使隶属；使遭遇
+address a subject 提出问题  avoid a subject回避问题
+attractive subject  有吸引力的话题〔题目,学科〕 basic subject基础科学
+composition subject  作文题    school subjects  学校的学习科目
+subject a country征服一个国家   no longer subject不再取决于…   exceedingly subject常受制于…
+you should be able to use it with python 2, but there might be the occasional oversight. Please log an issue for any python 2 incompatibilities you notice
+oversight   n.疏忽；失察；监管；看管
+I've always thought of Lua as a rather obscure scripting language, does anyone know why it seems to be so popular with these organisations
+obscure    adj.难解的；不著名的；微暗的；[语音学]轻音的v.使 ... 模糊；隐藏；变模糊n.模糊不清的东西
+obscure corner  昏暗的角落    obscure explanation   模糊的解释
+I am heavily involved in the torch community, let me give you a biased answer (because there seem to be several biased and downright ridiculous answers like kjlearns' )
+biased   adj.有偏见的
+This periodical carries a biased report on China.
+这本期刊登了一篇对中国有偏见的报道。
+biased statistics  有偏统计量   biased forecast 含有错误的预测
+biased error  偏误    biased data  分布不匀数据,偏置数据,分布不匀的数据
+downright    adv. 彻底地；完全地  adj.彻底的；明白的；率直的
+It's a downright lie.  那是个彻头彻尾的谎言。
+He wasn't just inconsiderate, he was downright rude. 他岂止不体谅人，简直是十分粗暴。
+ridiculous     adj.荒谬的；可笑的
+C++ and Python are still (and always were) the most popular languages for machine learning at each of these companies, 
+Torch or Lua don't even come close in terms of headcount.
+headcount     n.点人头数；职员总数
+There is no real conspiracy that the maintainers of Torch (afaik) planned, to force Lua (or Torch) down peoples' throats.
+conspiracy    n.阴谋；共谋     fraud conspiracy诈骗阴谋
+throat    n.嗓子；喉咙；颈部；嗓音  vt.低语；压着嗓子说(唱)
+cut throat  [医] 刎颈   sore throat喉咙痛
+throat section  喉部截面    throat pressure  喉部压力,临界截面压力
+forge     vt.锻造；伪造；建立  vi.伪造；做铁匠  n.锻炉；铁匠铺；锻造车间
+forge anchor 锻造铁锚     forge from用…锻造而成
+reinforce    vt.加固；加强；增强；使更具说服力   vi.得到加强
+We will use metal strap to reinforce the outside.  我们会在纸箱外用金属带加固。
+reinforcement     n.增强；加固；强化物；增援力量
+steel reinforcement 钢筋  reinforcement bar钢筋
+Deep Learning with Torch - A 60-minute blitz
+blitz     n.闪击（尤指空袭）；（突击性或集中性的）工作v.以闪击战攻击或破坏
+blitz attack  闪击战,毁灭性的攻击    aerial blitz  空中闪电战
+Neural Networks package -- build arbitrary acyclic computation graphs with automatic differentiation
+acyclic     adj.非循环式的；无环的
+acyclic dynamo  单极发电机   acyclic machine单极电机   acyclic circuit非周期电路
+acyclic graph 非循环图,无圈图    acyclic compound无环化合物
+automatic   adj.自动的；无意识的；必然的n.自动装置；半自动武器
+This heating system has an automatic temperature control.
+这个暖气系统有自动化的温度调节系统。
+automatic camera 自动照相机   automatic consequence必然的结果
+Modules are the bricks used to build neural networks
+brick      n. 砖；砖块；砖状物  vt. 用砖围砌（或堵）
+His new house was built by himself, brick by brick.
+他的新房子是他自己一块砖一块砖砌起来的。
+Her husband is a brick layer.她丈夫是个砌砖匠。
+brick of gold金砖      red bricks红砖
+milestone     n.里程碑
+development milestone  发展里程碑   milestone state  里程碑状态
+feval     n.澳洲野山羊；函数宏指令；执行由串指定的函数（matlab的函数之一）
+commensurate     adj.相称的；成比例的；适当的
+Salary will be commensurate with experience.  薪金将会与资历相称。
+There isn’t much difference between an RNN and feedforward network implementation
+feedforward     n.前馈；正向馈电传送
+placeholder   n.位置标志符；占位符
+placeholder record占位记录digit placeholder数字保留区
+Oxford's renowned Visual Geometry Group
+geometry       n.几何；几何学
+Google Scholar   scholar  n.学者；获奖学金的学生
+accomplished scholar 有造诣的学者    scholar in〔of〕 English英语学者
+Data Augmentation      数据增强
+augmentation     n.增加；增大
+augment     vt.增加   n.增加；补充物
+Hotel workers depend on tips to augment their usually small salaries.
+饭店的工作人员主要靠小费来增加他平时微薄的收入。
+argument     n.辩论；论点；论据；争论；理由；(函数)自变量
+dropout   n.退学学生；拒绝传统社会的人；【计算机】磁盘信息失落；漏失信息，丢失信息(弃权)
+Deep Residual Learning
+residual      adj.剩余的；残余的n.剩余部分；(复)追加酬金
+That's the residual outcome of your past thoughts and actions.
+那只是你过去的思想和行为所产生的残余结果。
+residual radiation  残余辐射,剩余辐射     residual oil  残余油,残油
+bottleneck   n.瓶颈v.阻塞；妨碍adj.狭窄的
+TV talk show has entered a bottleneck period, gradually chug.
+目前电视谈话节目已经进入了一个瓶颈期，问题逐渐彰显
+chug    n.（火车等缓行时的）轧轧响声v.发出轧轧声；一口气喝完
+Keras (κ?ρα?) means horn in Greek. 
+greek    adj.希腊的；希腊人的；希腊语的n.希腊人；希腊语
+horn    n.喇叭；触角；角质；号v.强行介入
+Although he was not invited,Henry managed to horn in on Myra's wedding.
+尽管亨利没有被邀请，他还是设法闯来参加迈拉的婚礼。
+toot   n.发出鸣声或嘟嘟声v.(使某物)发嘟嘟声；吹奏
+She gave a sharp toot on her horn.她高声按响了喇叭。
+toot one's own horn自吹自擂
+The driver tooted his horn as he approached the bend.
+开车的人在快要转弯时按响了喇叭。
+blow a horn  吹号角  grow horns长角
+hold a sheep by the horns握住羊的角
+hero   n.英雄n.男主角；男主人公
+honor       n.荣誉；荣幸；尊敬；信用；正直；贞洁
+			   vt.尊敬；使荣幸；对...表示敬意；兑现
+He stained the family honor.他玷污了家族的荣誉。
+I consider it a great honor to be invited to dinner.我认为能被邀请参加晚宴是很大的荣幸。
+honor system 荣誉制度   last honor葬礼  in honor of为纪念
+deceive    vt.欺骗vi.行骗
+who deceive men with false visions
+vision     n.视力；视觉；幻觉；眼光；洞察力；想象力v.幻想；设想
+minimalism：Each module should be kept short and simple.
+minimalism    n.(艺术)极简主义
+sequential     adj.连续的(序贯的)
+The Power test executes a single stream of database queries in sequential order.
+能力测试将以连续的次序执行一个数据库查询流。
+A stateful recurrent model is one for which the internal states (memories) obtained after processing a batch of samples are reused as initial states for the samples of the next batch. 
+This allows to process longer sequences while keeping computational complexity manageable.
+stateful     adj.宏伟的；威严的
+instead of using a sigmoid activation function, we use rectified linear units （ReLU修正线性单元）
+rectify   vt.改正；[化]精馏；[电]整流
+lenient     adj.宽大的；仁慈的
+severe     adj.严厉的；严重的；剧烈的；严格的；严峻的
+The premier came under severe criticism.这位总理遭到严厉的抨击。
+He's suffering from severe mental disorder.他患有严重的精神病。
+severe illness 严重的疾病     increasingly severe日益严重
+Obtaining intermediate layers' activation values given input example(s)
+require 'nn'  net = nn.Sequential().....net:add(nn.LogSoftMax()) 
+Simply using net:forward(input) returns the last layer's output after LogSoftMax has been applied 
+How can I get the activations of each of the intermediate layers when feeding an input? i.e. I feed an input example to the network and want to extract the activation
+results of the 6th layer (a convolutional layer), not just the final layer.
+Via net:get(6).output (see get and output).
+Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. 
+计算机视觉在社会中已经逐渐普及，并广泛运用于搜索检索、图像理解、手机应用、地图导航、医疗制药、无人机和无人驾驶汽车等领域
+ubiquitous    adj.到处存在的      ubiquity    n.到处存在；遍在
+The struggle between opposites is ubiquitous.   对立的争斗无所不在。
+ubiquitous computing  普适计算
+Look at the growing ubiquity of WiFi to illustrate this.用增长中的到处存在的无线局域网来举例说明一下
+drone     n. 雄蜂；游手好闲者；无人驾驶飞机    n.嗡嗡声；单调的声音
+			 vi.嗡嗡叫；混日子vt.单调低沉地说
+drone on  唠唠叨叨地说下去    drone fly蜂蝇    recoverable drone可收回的无人驾驶靶机
+repository     n.容器；仓库；贮藏室；智囊
+conformance       n.顺应；一致
+Every citizen should behave in conformance with the law.   每个公民应该遵照法律行事
+conform      v.使一致；遵从
+conform artificially不自然地遵守
+He doesn't conform to the usual stereotype of the city    他不像典型的城市商人那样
+conformity      n.一致；符合；遵守
+His behavior was in conformity with his ideals.   他的行为与他的理想一致
+in conformity with 符合    in conformity to与 ... 一致(依照)
+non conformity  不适合(不一致)
+We often need math operations in scientific and engineering calculations and we can avail this using the standard Lua library math
+floor    n.地面；地板；楼层；底部vt.铺地板；击倒；(油门)踩到底
+The floor was moist and slippery.  地面潮湿而光滑
+bare floor   光秃秃的地板    floor the attacker  将进攻者打倒在地   floor the room  给房间铺地板
+avail     v.有利；有助于n.益处
+It will avail them to dispose of their booty.  转让赃物对他们来说是有利的
+math.floor (x)   Returns the largest integer smaller than or equal to x.
+math.floor(3.14) -> 3      math.floor(2.99) -> 2
+booty      n.战利品；赃物；奖励n.<俚>臀部
+They handed in their war booty to their leader.  他们把战利品上缴给了上级。
+math.ceil (x)   Returns the smallest integer larger than or equal to x
+math.ceil(2.13)->3       math.ceil(3.9)->4
+ceil    vt.装天花板；装船内格子板
+The ceiling came down.  天花板塌了
+A lamp was suspended from the ceiling above us.   我们头顶上的天花板上吊著一盏灯
+ceiling     n.天花板；上限
+The low ceiling of the room gave me a feeling of oppression.低矮的屋顶给我一种压抑的感觉
+price ceiling  最高限价
+outdated     adj.旧式的；落伍的；过时的
+It should be possible to make a less hideous code but this one details all the steps and works with torch 7
+hideous     adj.丑陋的；可怕的；可憎的；令人惊骇的
+The command :m .+1 (which can be abbreviated to :m+) moves the current line to after line number .+1 (current line number + 1). 
+That is, the current line is moved down one line.
+abbreviate     vt.缩写；缩短；使简略
+It is seldom acceptable to abbreviate words in formal writing.
+在正式的书面语中使用缩写语通常是不能接受的
+Diagnose gradients by checking the value range and the ratio of the norms
+diagnose    v.判断；诊断(疾病)      diagnose disease〔illness〕诊断疾病
+What more will you want to know to diagnose this problem?
+要弄清这个问题，你还需要知道些什么?
+scrape    v.刮掉；擦掉n.擦伤；擦掉；刮擦声；<口>窘境
+He bent over to scrape some dirt off his shoes.   他弯腰刮掉鞋子上的尘土
+scrape away a misspelled word  擦去拼写错的字     scrape away the wallpaper   刮掉糊墙纸
+bad scrape   严重刮伤    Scraping the Data 数据抓取
+Introduction to Web Scraping, introduces web scraping and explains ways to crawl a website.
+网络爬虫简介， 介绍了网络爬虫， 并讲解了爬取网站的方法
+crawl    v.爬行；卑躬屈膝；自由式游泳n.爬行；匍匐而行；[体]自由式游泳
+move at a crawl   缓慢行进   
+Soldiers quietly crawl to advance to enemy.  士兵们悄悄地向敌人匍匐前进
+spider      n.蜘蛛；十字叉；三脚架；长柄平底锅
+The little girl thinks spiders are terrible creatures.    小女孩认为蜘蛛是一种可怕的生物
+spider web  蜘蛛网
+Interacting with Forms, shows you how to work with forms to access the data you are after.
+表单交互，展示了如何与表单进行交互，从而访问你需要的数据
+Solving CAPTCHA, elaborates how to access data that is protected by CAPTCHA images.
+验证码处理 ， 阐述了如何访问被验证码图像保护的数据
+CAPTCHA    n.Completely Automated Public Turing test to tell Computers and Humans Apart；
+全自动区分电脑与人类的图灵测试( captcha )
+What you need for this book    阅读本书的前提
+Ideally, in a future version of this book, the examples will be ported to Python 3
+理想情况下，本书未来的版本会将示例代码移植到Python3当中 
+port   n.港口     arrive at port  到达港口  call at port航程中停靠港口
+deepwater port  深水港    home port  国内港
+Also, a custom website allows us to craft examples that illustrate specific skills and avoid distractions
+定制网站允许我们自定义示例， 用于阐释特定技巧并避免其他干扰
+craft   n.工艺；手艺；狡诈；船舶；航空器；行会成员vt.手工制作；精心制作
+He graduated from a school of crafts and arts.  他毕业于一所工艺美术学校
+land one's craft  把飞机降落到地面上   learn a craft学手艺
+practice a craft  从事某种行业            use craft使用骗术
+distraction    n.分心；分心的事物；注意力分散；娱乐；消遣；发狂
+You must reject distraction and concentrate on your work at hand.  你必须停止分心，集中精力在你手头的工作上
+distract   vt.分散；转移；分心；困扰
+The film managed to distract me from these problems for a while.
+这部影片分散了我的注意力，让我暂时忘记了这些难题
+These examples will assume competence with Python and installing modules with  pip
+本书中的这些示例将假设你已经拥有Python语言以及使用pip安装模块的能力
+If you need a brush up, there is an excellent free online book 
+如果你想复习一下这些知识， 有一本非常好的免费在线书籍
+Explain the legal challenges    解释合法性质 
+Perform background research on our target website     对目标网站进行背景调研
+Progressively building our own advanced web crawler   逐步完善一个高级网络爬虫
+Sitemap files are provided by websites to help crawlers locate their updated content without needing to crawl every web page.
+Sitemap 文件（即网站 地图 ）
+HTTP errors is defined by the Internet Engineering Task Force
+互联网工程任务组（ Internet Engineering Task Force ） 定义了HTTP错误的完整列表
+force     n.武力；暴力；力量；影响力；力量大的人或（事物）；权力；
+			（为某目的组织起来的）一群人；军队；部队；武装力量；警察部门；力；风力
+			v.迫使；强迫；强制；使发生；强装（欢笑）；人工催长
+
+By default,  urllib2 will download content with the  Python-urllib/2.7 user agent, where  2.7 is the version of  Python
+默认情况下 ，urllib2使用 Python-urllib/2. 7作为用户代理下载网页内容，其中2.7是Python 的版本号
+It would be preferable to use an identifiable user agent in case problems occur with our web crawler
+如果能使用可辨识的用户代理则更好， 这样可以避免我们的网络爬虫碰到一些问题
+Also, some websites block this default user agent, perhaps after they experienced a poorly made Python web
+crawler overloading their server
+此 外 ，也许是因为曾经历过质量不佳的Python网络爬虫造成的服务器过载 ，一些网站还会封禁这个默认的用户代理
+Link crawler  链接爬虫
+we can throttle(限速) our crawl by waiting for a delay between downloads
+throttle     n.节流阀；油门；喉咙v.扼喉咙；使窒息
+He drove his motorbike up and down the drive at full throttle.  他骑着摩托车，开足油门，在车道上来回奔驰
+He wanted to seize the baby and throttle it. 他真想把孩子抓过来卡死
+Avoiding spider traps  避免爬虫陷阱
+then the next month will also have links to the next month, and so on for eternity
+eternity    n.永远；来世；不朽；漫长的时间
+eternal  adj.永久的；永恒的n.永恒的事
+launch into eternity 死    send someone into eternity 送某人上西天,把某人杀死
+Regular expressions正则表达式
+regular expressions provide a quick way to scrape data but are too brittle and will easily break
+brittle    adj.易碎的；尖利的；脆弱的n.果仁薄脆糖
+The ice is brittle as the thin glass.  这些冰像薄的玻璃一样易碎
+Adding a scrape callback to the link crawler   为链接爬虫添加抓取回调
+This is not a significant obstacle for our small example website
+obstacle   n.障碍；绊脚石
+Lack of education is an obstacle of success.   缺乏教育是成功的障碍
+compressing the pickled string with  zlib before saving to disk
+只需在保存到磁盘之前使用 zlib 压缩序列化字符串 即可
+pickled    adj.腌制的；腌渍的；<俚>烂醉如泥的
+Pickled foods should not be eaten in large quantities.
+腌制食品不宜多吃
+pickle    n.腌汁；泡菜；<英口>淘气鬼；<口>困境v.腌；泡
+Expiring stale data   清理过期数据
+stale     adj.不新鲜的；陈腐的；厌倦的v.变得不新鲜；腐坏；(动物)撒尿n.(动物的)尿
+His hunger makes his stale bread go down.
+饥饿使他把这不新鲜的面包吞了下去
+stale taste  霉味,陈味   stale check  失效支票
+expire    vi.终止；期满；失效；呼气；断气
+My passport is due to expire in two months.  我的护照再过两个月就到期了
+expire with the magazine subscription 结束杂志订阅
+To avoid the anticipated limitations to our disk-based cache, we will now build
+our cache on top of an existing database system
+为了避免磁盘缓存方案的己知限制，下面我们会在现有数据库系统之上创建缓存
+anticipate     vt.预期；提前使用；抢 ... 前vi.预言
+We anticipate that we will meet a certain amount of resistance to our plan.
+我们预料我们的计划会遇到一些人的反对
+anticipate the enemy  先发制人  anticipate one's income预支工资
+anticipated    adj.预期的；预先的
+What is your anticipated salary?   你期望的月薪是多少?
+To test the performance of concurrent downloading, it would be preferable to have a
+larger target website. 
+For this reason, we will use the Alexa list in this chapter, which
+tracks the top 1 million most popular websites according to users who have installed
+the Alexa Toolbar. 
+为此， 本章将使用 Alexa 提供的最受欢迎的100万个网站列表， 该列表的排名根据安装了Alexa 工具栏的用户得出 
+Only a small percentage of people use this browser plugin, so the
+data is not authoritative
+authentic      adj.真正的；真实的；可信的；可靠的
+He found out the most authentic restaurants.他找到了最正宗的餐馆
+authentic document  正式文件   authentic painting 原作绘画
+authenticate     v.证明...为真；验证
+The painting has been authenticated by experts.   专家已经验证过这幅画的真伪
+During the crawl, threads may also prematurely shut down when there are currently no more URLs in the queue
+premature     adj.提前的；过早的；早产的n.早产儿；早熟
+Cross-process crawler  多进程爬虫
+According to the United Nations Global Audit of Web Accessibility, 73 percent
+of leading websites rely on JavaScript for important functionalities
+根据联合国全球网站可访问性审计报告 ， 73%的主流网站都在其重要功能中依赖JavaScript
+Google's Gmail and Google Maps were early examples of the
+dynamic web applications and helped take AJAX to a mainstream audience.
+Google的Gmail和Google地图是动态Web应用的早期实验者 ，也对 AJAX 成为主流起到了重要帮助
+mainstream    n.主流adj.主流的v.把 ... 编入学校正规班级；把 ... 纳入主流
+Reverse engineering a dynamic web page  对动态网页进行逆向工程
+Nobody could go completely against the mainstream of the history
+没有人能够完全逆历史主流而行
+Poll the web page for the expected content to appear   轮询网页，等待特定内容出现
+poll      n.民意测验；投票；票数   v.做民意测验；获得 ... 票
+heavy poll  很高的投票数   nationwide poll全国范围的投票
+boycott the poll  抵制投票  conduct a poll进行民意调查
+The high-level Mechanize module for easier form submissions
+用于简化表单提交的高级模块 Mechanize
+Extending the login script to update content   支持内容更新的登录脚本扩展
+Automating forms with the Mechanize module   使用 Mechanize 模块实现自动化表单处理
+CAPTCHA stands for Completely Automated Public Turing test to tell Computers
+and Humans Apart. As the acronym suggests, it is a test to determine whether the user is human or not
+Registering an account
+register    v.登记；记录；注册；挂号n.登记簿；记录；暂存器n.[语]语域；[音]音域通风调节设备
+You must register if you intend to vote.  如果你要投票选举,你就必须登记
+register as   以…登记,使登记成为…    register at a conference 向大会报到
+Pillow is a fork of the better known Python Image Library (PIL), which currently has not been updated since 2009.
+Pillow是知名的Python 图像处理库（ Python Image Library,PIL ）的分支版本 ，不过PIL从2009年开始就没有再是新过
+Tuning settings    优化设置
+Before running the generated spider, the Scrapy settings should be updated to avoid the spider being blocked
+Sometimes when scraping a website, it can be useful to pause the crawl and resume
+it later without needing to start over from the beginning
+在抓取网站时， 暂停爬虫并于稍后恢复而不是重新开始，有时会很有用
+resume   v.重新开始；再继续n.简历；履历；摘要
+I tried to persuade her to resume her job as secretary.   我试图劝她重新干她的秘书工作
+I enclosed my resume in my letter.  我在信里附上了我的简历
+resume business  重新营业   resume cheerily 高兴地继续
+
+====================================
+1~6（上部分已经打印）
+dock to bottom、dock to right    (chrome debug the console plane locate)
+undock into seperate window
+dock     n.码头；船坞；船埠v.进(港、码头)
+The ferry is expected to dock at 6.
+渡船预计在6点停靠码头
+dock the horse's tail  剪短马的尾巴  dock the ship  把船引靠码头
+Debugging memory leaks   调试内存溢出
+In Scrapy, objects such as Requests, Responses and Items have a finite lifetime: they are created, used for a while, and finally destroyed
+debug    v.调试；驱除（某处的)害虫；排除障碍；寻出并拆除 ... 内的窃听器
+It's time to debug the garden of insect pests. 是时候给花园除虫了
+debug aid[计] 调试辅助程序, 调式工具debug card调试卡
+leak    v.渗；漏；泄露n.漏洞；泄露
+Water poured in through a leak in the ship's hull. 水从船体上的漏洞中涌进来
+leak gas  漏气   leak light  漏光
+cause〔find, repair, stop〕 a leak造成〔找到,修补,堵塞〕漏洞have〔take〕 a leak小便,撒尿
+pour    v.不断流动；倒；倾泻；蜂涌而来n.倾泻
+Although I poured it carefully, I spilt some of the oil.
+虽然我倒油时很小心，但还是洒了一些
+pour a drink倒饮料pour arguments说出理由
+The leak could also come from a custom middleware, pipeline or extension that you have written
+if you are not releasing the (previously allocated) resources properly.
+内存泄露可能存在与一个您编写的中间件，管道(pipeline) 或扩展
+在代码中您没有正确释放 (之前分配的)资源
+middleware   n.[计]中间设备；中间件
+The middleware might choose some other node for the next run.
+下次运行的时候,中间件可以选择某个其他的节点
+prefs() function which is an alias to the print_live_refs() function
+pref() 是 print_live_refs() 功能的引用
+alia    其它的； 与 ... 相关之物
+alias   n.别名；化名adv.又被称为；另外地
+The name is not an official host name or alias.  该名称不是正式的主机名或别名
+toggle     n.触发器；套索钉；棒形纽扣vt.系纽扣；提供索钉；转换vi.开开关
+You use the first parameter to toggle best-fit mapping on and off.
+可以使用第一个参数打开或关闭最佳映射
+toggle switch  拨动开关   toggle grid   [计] 网格线开关   toggle frequency反复频率
+toggle speed  反复速度,启动速度
+pycharm words to upper Toggling between upper and lower cases
+On the main menu, choose Edit | Toggle Case, or press Ctrl+Shift+U
+# Create a fleet of 5 rockets, and store them in a list.
+my_rockets = [Rocket() for x in range(0,5)]
+fleet     n.舰队；船队；机群adj.快速的；敏捷的；短暂的
+			vt.使（时间）飞逝vi.疾飞；掠过；逐渐消失
+The general ordered the fleet to remain where they were and wait for the further instructions.
+将军命令舰队原地待命
+That is a fleet horse.   那是一匹快马
+combined fleet联合舰队   commercial fleets商船队
+air fleet    航空队,机群     a fleet of clouds成堆的云朵   a fleet of ships船队
+pet     n.宠物；受宠的人  adj.宠爱的  v.爱抚；亲抚
+My daughter keeps a rabbit as pet.
+我的女儿养了一只兔子当做宠物
+cater to pet  满足爱畜的需要    indoor pet室内喂养的爱畜 make a pet of sb宠爱某人  
+teacher's pet老师的得意门生   pet dog爱犬           heavy pet热烈亲吻和爱抚
+Sometimes just defining a single class (like Pet) is not enough. 
+For example, some pets are dogs and most dogs like to chase cats
+chase      vt.追捕；追求；镂刻，雕刻；试图赢得  vi.奔跑；追赶  n.追捕；争取；狩猎
+He chased (after) the burglar but couldn't catch him.  他追赶窃贼却未捉住。
+Why do modern people chase material possessions?   为什么现在的人们追求物质财富
+chase books  找书  chase rabbit 追野兔   chase for vanity 追求虚荣
+inhere     v.固有；生来即存在（于）；本质上即属（于）
+inherent   adj.固有的；内在的
+She has an inherent love of beauty.  她天生爱美
+inherent contradictions  内在矛盾  inherent laziness天生的懒惰
+inherit     v.继承；遗传
+The eldest son will inherit the title.  长子将继承爵位
+inherit a fortune  继承财产   inherit one's father(子)承父业    inherit legally合法继承
+inheritance    n.遗传；遗产；继承；继承物
+mister_pet = Pet("Mister", "Dog")
+mister     n.先生   v.称…先生
+The meeting was led by Mister Johnson. 这个会议由约翰逊先生主持
+Don't mister me. 不要叫我先生
+In contrast, if you stick solely with ndarrays(np.array compared to np.mat), then you can do everything matrix objects can do
+sole      adj. 独占的；唯一的  n.脚底；鞋底  n.鳎鱼  vt.给(鞋)换底
+He has the sole agency for Ford car.       他有福特汽车的独家代理权
+His sole motive is to make more money. 他唯一的动机就是多赚钱
+He has pain on the sole of his feet.  他脚底很痛
+sole agent〔right of sell〕独家代理商〔经销权〕
+sole cause〔heir, reason〕唯一原因〔继承人,理由〕
+solely     adv.独自地；单独地；完全
+He often went out solely at night.他晚上经常独自外出
+You are solely responsible for the job.这件工作由你单独负责
+In the context of web scraping, XPath is a nice tool to have in your belt, 
+as it allows you to write specifications of document locations more flexibly than CSS selectors
+belt     n.腰带；带状物；地带；皮带vt.用皮带抽打；用带系上；用带标示vi.疾驰；大声歌唱
+fasten a belt束紧皮带,系上皮带    green belt绿化带rich belt肥沃地带 
+below the belt不公正的; 伤人的under one's belt在腹中,在以往的经历中
+No more perpetual licensing for Jetbrains products?
+perpetual     adj.永久的；永恒的；一再往复的
+perpetual motion[物]永恒运动perpetual calendar万年历
+perpetual loan永久贷款perpetual lease永租权
+permanent，eternal，perpetual，everlasting，endless这些形容词均有“持久的、永久的”之意。
+permanent指总是处于相同的情况和地位，可长期持续下去，永久不变。
+eternal语体较庄重，侧重指永远存在，无始无终。
+perpetual语气最强，指保持永久不变，没有中断的行为，永无止境地持续下去，有时用于贬义，指令人厌烦之事。
+endless系日常用词，指无尽无休。
+perpetuate   vt.使永存；使不朽
+They decided to perpetuate the memory of their leader by erecting a statue.
+他们为永远纪念那位领袖决定建一座雕像
+self-perpetuating能使自身永久存在的
+This example demonstrates how to return Deferred from process_item() method.
+defer      v.推迟；延期；使延期入伍v.顺从；把…委托给他人
+They cannot defer their departure any longer.他们再不能推迟动身了
+We should defer to our parents' wishes.我们应当顺从父母的意愿
+The actual freelance project required the script to follow the pagination links and 
+scrape each page using the CrawlSpider (docs), which is super easy to implement.
+freelance  adj.自由择业的；兼职的v.兼做n.自由职业者
+He set himself up as a freelance engineer.
+他开始从事自由职业工程师的工作
+pagination     n.分页；标注页码       paging    n.分页；传呼；页面调度
+Please follow the installation guide to setup MongoDB Enterprise.
+enterprise     n.企业；事业；进取心；谋划
+This enterprise is now on a firm footing and should soon get profits.
+现在这家企业基础稳固，很快就会赢利
+build an enterprise创办一个企业government〔state〕 enterprise国有企业
+public utility enterprise公用事业a man of enterprise有进取心的人
+Rationale for setting names
+rationale     n.基本原理；基础理论
+rational    adj.合理的；理性的；能推理的n.有理数
+Your choice was perfectly rational under the circumstances.   在那种情况下,你的选择是相当合理的
+A rational number can be expressed as a ratio of two integers.
+有理数可以被整数整除
+rationalize   vt.使合理化；合理地说明；[数]给…消根
+We need to rationalize work processes and cut costs.
+我们需要把工艺流程合理化以便削减开支
+rationalism       n.理性主义；唯理论
+rationalist      n.纯理论者；理性主义者
+Local mode
+In order to let your application support local mode, just add code to the entrance as below.
+entrance     n.入口；进入；登场；进入权vt.使入迷；使狂喜
+block up the entrance  堵塞入口   effect one's entrance into进入  back entrance后门
+entrance examination  入学考试
+Very elucidative text.Easy to follow even for no technical people.
+elucidate     v.阐明；说明
+Please elucidate the reasons for your action.
+请说明你采取行动的理由
+I have recently been learning Python and am dipping my hand into building a web-scraper.
+dip      v.浸；蘸；下沉；倾斜；掏取；浏览
+		  n.浸泡；浸；蘸；倾斜；下降
+dip into  将…浸在…中		  
+dip a pen  沾钢笔   dip one's head 低头		  
+On a hot day a dip in the sea is sheer paradise.
+热天洗个海水澡是十分令人惬意的事
+I'm hitting a massive hurdle over one issue
+hurdle      n.栏干；障碍[计算机] 障碍.vt.跨越某物
+I defy you to jump that high hurdle.
+我倒要看看你能不能跳过那高栏
+You have to hurdle to London and get the intelligence back.
+你得克服困难到达伦敦把那份情报取回来
+hurdle runner跨栏运动员
+in-house      adj.（机构）内部的adv.（机构）内部地
+A lot of companies do in-house training  很多公司有机构内部培训
+precedence      n.优先；居先
+precedent     n.先例；惯例adj.先前的；在先的
+set〔create〕 a precedent  开先例
+My decision does not constitute a precedent.我的决定下不为例
+National defense must take precedence over all other questions. 国防应优先考虑
+have precedence over 优先于(优越于)  precedence parser优先分析程序
+Our Heroic Support team is available 24 hours per day.
+heroic    adj.英雄的；英勇的；巨大的
+lambda   n.希腊字母的第11个
+lambda expression  拉姆达表达式   lambda notation  λ标记
+How do I regex search for weird non-ASCII characters in Python?
+weird    adj.离奇的；古怪的；怪异的n.命运；预言者
+dree one's weird认命,听天由命
+dree     v.忍；耐
+epoch     n.时期； 时代； 新纪元； 划时代的大事； <地质>世
+The Revolution had many of these men, proportioned to the epoch.
+革命时期有过许多那样的人，都和那时代相称
+begin〔make〕 a new epoch  开创新纪元  end an epoch 结束一个时代
+ancient epochs   远古时代     an epoch in the history  历史上的一个时期
+python - shuffle vs permute numpy
+permute     v.改序；[数]排列
+numpy.random.shuffle(x)   Modify a sequence in-place by shuffling its contents.
+in-place  原状
+permutation    n.交换；排列
+random permutation  随机排列  odd permutation奇排列,奇置换
+I agree with this 100% - but the fad towards strict agile practices where everybody 
+has to be in the same open-plan office (whether a misinterpretation or not, 
+this is how most people think it's supposed to go) 
+are making it even harder these days to remotely work than it used to be.
+fad    n.时尚；一时流行的狂热
+Direct investment can become a fad just like any other activity of an economic, social, or cultural character.
+就象经济，社会或文化性质的任何其他活动一样，直接投资也可成为一种一朝风行的时尚
+agile      adj.（动作）敏捷的；灵活的；（头脑）机灵的
+frequency agile radar  频率捷变雷达
+I know I'll have 2 extra hours (no commute) and be able to focus and concentrate better.
+commute      v.通勤；折换；减刑；改变；交换n.乘车上下班
+Mary used to commute five miles from her home in the suburb.
+玛丽过去每天从郊区的家里走五英里来上班
+commute between〔from〕 通勤于…之间   commute into以…变成…
+You don’t lose people to silly things like their significant other going to medical school.
+silly      adj.愚蠢的；琐屑的；可笑的；犯晕的n.（通常指小孩子）淘气鬼；傻孩子
+Don't get upset over silly things that people say.
+不要在意人们的闲言碎语
+The silly ending robs the plot of any credibility.
+这愚蠢的结尾使得整个情节变得一点都不可信
+silly little boy  傻小子  silly to say that那样说真蠢
+rob  v.抢劫；掠夺
+Not only do they rob you, they smash everything too.
+他们不仅抢夺你的财物，还要把每样东西都捣毁
+smash      v.打碎；粉碎；猛撞  n.破碎；撞击；轰动的演出；[网球]高压扣球 adj.极为成功的
+hear a smash听到猛烈的撞击声  smash terrifically 可怕地重击
+medical    adj.医疗的；医学的；医药的；内科的
+medical attendants医护人员medical certificate健康证明书
+fool    n.傻瓜；小丑；奶油果蓉v.愚弄；欺骗；开玩笑；干蠢事；玩弄；鬼混
+I am a fool to have refused the job.  我真傻,拒绝了那项工作
+Do not let him fool you with nonsense like that.  别让他用那种胡说八道来愚弄你
+laugh at a fool  嘲笑傻子  complete fool  十足的大傻瓜
+introvert     n.个性内向者vt.使 ... 内向
+Do you think you are an extrovert or an introvert?
+你认为你是个性外向的人还是个性内向的人
+introverted(性格)内向的
+Some people thrive when working from home, while others wither or just... drift. 
+drift   vi.漂流；漂移；吹积；漂泊；偏离vt.使漂流；使堆积n.漂流；趋势；漂泊
+The boat drifted down the river. 船顺水漂流而下
+drift aimlessly〔casually〕漫无目的地漂流catch〔get, understand〕 drift明白要旨
+cultural drift    文化倾向    the general drift  大的趋势  cloud drift浮云
+thrive     vi.兴旺；繁荣；茁壮成长
+A business cannot thrive without good management.
+没有良好的经营管理，事业就不会兴旺发达
+thrive exceedingly  非常兴隆
+they must be self-motivating and proactive: self-motivating in finding things to do,  
+proactive in communicating with the rest of the team.
+proactive     adj.先发制人的；积极的〈心理〉前摄的.〈自控〉有前瞻性的；先行一步的.
+proactive management前摄管理
+We like opinionated people. Opinionated people find things they care 
+about to work on and make sure you know what they think
+opinionate     vt.认为vi.持某种观点；偏执于  opinionated   adj.固执己见的
+February    n.二月
+premium     n.额外费用；奖金；保险费n.(商)溢价adj.高价的；优质的
+Who will pay the premium for the risk of breakage?   加保破碎险的费用由谁负担?
+premium pay  加班费    premium returns额外利润 
+Premium Bond  政府有奖债券  insurance premium 保险费
+enumerate      vt.数；列举；枚举
+Can you enumerate the capitals of the50 states?   你能把五十州的首府列举出来吗？
+We are a performance-based company that offers career advancement 
+and lucrative compensation, including bonuses and stock potential.
+lucrative     adj.合算的；获利的
+There is a lucrative black market in car fittings.  有一个能赚钱的汽车配件黑市
+lucrative investment  有利的投资
+We also offer what we call the “Booking Deal” with other competitive perks and benefits.
+perk      v.（使）振作；打扮；竖起vi.滤煮n.额外津贴；特权；利益
+No one can help him perk after his wife was died.  他的妻子死后，没有人可以使他振作起来
+He was offered a company car as a perk. 他得到了一辆公司的汽车作为特殊待遇
+perk up  昂首翘尾
+IT has monthly hackathons, trainings and attends/speaks at global conferences.
+hackathon       n.编程马拉松；黑客马拉松        marathon       n.马拉松；耐力比赛
+He can hardly run a mile, much less the marathon.   他连一哩都跑不了，更不用说马拉松了
+marathon race   马拉松长跑      marathon swimming马拉松式的游泳,超长距离游泳
+This position is open to worldwide candidates and in the case of relocation, we will assist you with a generous relocation package, 
+ensuring a smooth transition to working and living in Amsterdam.
+relocation     n.再定位；重新配置；重新安置
+dynamic relocation  动态再定位   memory relocation  存储器的重新分配  program relocation程序浮动,程序再定位
+relocate       v.重新装置；再配置；放在新地方
+The board decide to relocate the company in scotland.   董事会决定将公司迁至英格兰
+program relocate   程序浮动,程序再定位
+We have successfully relocated 200+ IT professionals to Amsterdam in the last year!
+A metaclass is the class of a class. Like a class defines how an instance of the class behaves, 
+a metaclass defines how a class behaves. A class is an instance of a metaclass.
+metaclass     n.[计] 元类
+meta      pref.在 ... 之后； 变换； 超越；【计】元，meta语言； 介于 ... 之间
+You can also define custom meta variables.   您还可以定义自定义元变量
+The subprocess module allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes.
+spawn    n.卵；产物；后代；结果vt.产卵；种菌丝于；产生；造成vi.产卵；大量生产
+I found a mass of spawn in the fish before cooking.
+烧鱼前，我发现鱼里有很多鱼籽
+The computer industry has spawned a lot of new companies.
+由于电脑工业的发展，许多新公司纷纷成立
+subprocess.call("exit 1", shell=True)
+Using shell=True can be a security hazard.
+hazard    n.危险；冒险；危害vt.冒险；赌运气
+He had put his own life in hazard. 他是在拿自己的生命来冒险。
+He hazarded all his money in the attempt to save the business.
+他为挽救这家企业，不惜冒险投入他的全部金钱
+hazard a guess冒险地提出一种猜测
+hazard all one's savings in an investment用全部积蓄冒险投资
+hazard one's life on rock-climbing冒生命危险爬岩壁
+signature     n.签署；书帖；有特征的符号；【计】签名
+signature file  签名文件  digital signature数字签字,数字签名  signature analysis信号特征分析
+portability     n.可移植性；可携带；轻便
+The software is scalability, portability, and easy to upgrade.
+该软件具有可扩展性、可移植性，容易升级。
+portability of operating system
+[计] 操作系统可移植性
+portable     adj.轻便的；手提式的；[计]可移植的n.便携的东西
+The portable device easily knocks down.  这种轻便装置容易拆卸
+portable computer手提式计算机portable battery便携电池
+Portability is important, in that I'd like this to run on any Python version on Mac, Linux and Windows.
+The etymology of join() is that it's the opposite of fork
+etymology   n.语源；词源学
+daemon       n.半神半人的精灵；守护神；恶魔；[计]守护进程
+How do I get my program to act like a daemon?
+我怎样使我的程序作为守护程序运行?
+. Daemon threads can still execute after the Python runtime starts tearing down things in the main thread, 
+causing some pretty bizarre exceptions.
+bizarre    adj.奇异的；怪诞的
+The building was of bizarre construction.  这建筑构造奇异
+bizarre behaviour  古怪的行为  bizarre clothing奇装异服
+abruptly     adv.突然地；莽撞地；陡峭地；不连贯地
+An ordinary man suddenly fell under suspicion, and just as abruptly cleared again.
+一个普通人突然遭到怀疑，而又同样突然地再次变得清白无辜
+abrupt    adj.突然的；唐突的；意外的；陡峭的
+The river takes an abrupt bend to the west.
+这河突然向西转弯。
+abrupt answer  唐突的回答   abrupt bend急转弯
+I want to eliminate all the whitespace from a string  str.strip()
+whitespace   空白
+Re-entrant Locks
+Normal Lock objects cannot be acquired more than once, even by the same thread. 
+entrant     n.(参加比赛的)竞赛者；新就业者；新成员
+entrant firm  新开商号,新公司
+This can introduce undesirable side-effects if a lock is accessed by more than one function in the same call chain.
+side-effects  副作用
+semaphore    n.信号灯；旗语v.发出信号或旗语
+Display elapsed time of processes
+The elapsed time indicates, how long the process has been running for.
+elapse     v.逝去；过去n.（光阴）逝去
+I'm using Python 2 to parse JSON from (ASCII encoded) text files. When loading these files with either json or  simplejson, 
+all my string values are cast to Unicode objects instead of string objects.
+How to get string objects instead of Unicode ones from JSON in Python?
+malware    n.恶意软件
+For example, a trojan horse or a virus is considered malware.
+例如，一个木马或病毒被认为是恶意软件。
+OpenFace: an open source facial behavior analysis toolkit
+facial    adj.脸部的；面部的n.美容
+toolkit   n.工具包
+gaze     vi.凝视n.凝视
+Your intent gaze made her uncomfortable.
+你的注目凝视使她感到不自在
+gaze far  看得远  gaze skyward凝视着天空
+admiring gaze  赞赏的目光  critical gaze批判的眼光
+intent      adj.热切的；专心的；决心的n.意图；目的；意向；含义
+He's intent on going to Australia. 他热切希望到澳大利亚去。
+He's intent on moneymaking.    他一心一意地赚钱
+malicious intent  恶意  deeply intent专心…
+audit      n.审计；查帐vt.旁听；审计
+They work non-stop to finish the audit on time.  他们不停地工作以按期完成审计工作
+He will audit three courses next semester.  下个学期他将旁听三门课程
+carry out an annual audit  实施一年一度的审计
+audit of financial statement  财务报表的审查
+audit_reason char(10) DEFAULT NULL COMMENT '违规原因',
+trunk     n.树干；(汽车后部)行李箱；大箱子；象鼻；躯干(复)trunks: 男用运动裤
+The branch has separated from the trunk of the tree.
+这个树枝已从树干上脱落了
+trunk call长途电话trunk line干线tree trunk树干
+annual    adj.每年的；年度的；一年生的n.年刊；一年生植物
+Now, again, his annual trip to Paris begins.
+现在,他一年一度的巴黎之行又开始了
+Sometimes because of an attack or prank, and others so that you can 
+simply and freely control access to websites and network traffic.
+prank   n.开玩笑；恶作剧；戏谑v.盛装；装饰；打扮
+online prank  【电脑】网路恶作剧
+hosts files would be massive documents used to aide the network name resolution.
+aide     n.助手；副官；侍从武官
+Miss Perkins is an aide to the vice president.
+柏金斯小姐是副总经理的助手
+White House aide  白宫助理   school aide  教学辅助人员
+artifact   n.人工制品；典型产物；【医】非源自脑中的电波，伪差，假象，人为现象 
+A user interface is an artifact, not directly associated with the goals of a user.
+用户界面是人造的，并非直接和用户的目标相关
+artifact pollution  人为污染
+Artifact 是maven中的一个概念，表示某个module要如何打包，例如war exploded、war、jar、ear等等这种打包形式
+Facets 表示这个module有什么特征，比如 Web，Spring和Hibernate等
+facet     n.小平面；方面；刻面
+He has perfected himself in every facet of his job.
+他已使自己对工作的各个方面都得心应手
+servlet     n.小服务程序
+betray     vt.背叛；出卖；泄露；显露
+He promised never to betray the organization.
+他发誓永不背叛组织
+session    n.会议；会期；开庭期；学期；一段时间
+cookie  n.饼干；<俚>家伙
+This cookie is neither sweet nor soft.这块饼干既不甜也不软
+session hijacking会话劫持session service对话服务multiple session多重会话
+Sessions are implemented as as non-sticky--that is, each request is able to go to any server in the cluster
+(unlike the Apache provided Tomcat clustering setup.)
+sticky   adj.粘的；闷热的；困难的；令人不满意的
+I am uncomfortable because my body is sticky.  我身上粘粘的，很不舒服
+sticky region  粘性区
+sticky limit  粘着度,粘着限  have sticky fingers  是小偷(有偷盗习惯)
+
+
+====================================
+1~7（上部分3-11已经打印）
+I was reading about the getattr() function. The problem is that I still can't grasp the idea
+Maybe this is me being a noob in programming
+noob   n.新手，菜鸟  =newbie
+java invoke method by string name
+Python is both practical and beautiful programming language with huge ecosystem so you can find a library for anything.
+ecosystem   n.生态系统
+artificial ecosystem 人工生态系统     forest ecosystem森林生态系统
+ecological     adj.生态的；生态学的
+Thanks to ecological devastation, the wilderness is shrinking.
+由于生态的毁坏，荒野正在日益缩小
+ecological balance   生态平衡   ecological factor生态因素   ecological distribution生态分布
+ecology    n.生态学；生态
+Django ORM has the least ceremony and more productive
+ceremony      n.仪式；礼节；典礼
+They hold a mystic religious ceremony.   他们举行了一个神秘的宗教仪式
+attend a ceremony  出席仪式   closing ceremony闭幕式
+speech at the ceremony 仪式上的发言
+Minutiae
+Normally, most people would not care about the following distinctions and probably want to stop reading here.
+Minutiae    n.细枝末节   Minutia     n.微枝末节；细节  【近义词】detail琐事，细节
+coroutine    [计算机] 协同程序
+a ? b:c ternary operator
+ternary    adj.由三部分组成的；三重的；第三的；[数]三进制的
+ternary notation  三进制  ternary addition  三进制加法
+Conditional expressions (sometimes called a “ternary operator”) have the lowest priority of all Python operations.
+The expression x if C else y first evaluates the condition, C (not x); if C is true, x is evaluated and its value is returned; otherwise, y is evaluated and its value is returned.
+Why is Spring crappy exactly?
+crappy    adj.<俚>蹩脚的；没价值的；讨厌的
+However, no language is immune from large stack traces.
+immune    adj.免疫的；免除的
+This patient's immune system has been destroyed.
+这位病人的免疫系统受到了破坏。
+be immune from  免受…影响  be immune to 对…有免疫力
+What are differences between Index v.s. Key in MySQL
+KEY is normally a synonym for INDEX.
+synonym     n.近义词       synonymous   adj.同义的；暗示的
+Wealth is not necessarily synonymous with generous.
+富有与慷慨不一定同义。
+iBATIS for Python?  I'm looking for a Python analogue to this library
+@Autowired(required = false)
+wired   adj.有线的；供以电线的；以铁丝围起的；十分兴奋的动词wire的过去式和过去分词形式.
+Wired broadcasting, communicates the infinite world!有线广播，沟通无限世界
+hard-wired  [计算机]硬接线的  wired system有线系统  wired telecommunication有线通信
+wired program  插接程序
+wire    n.金属丝；电线；电报
+		 vt.发电报；装电线；(通过电线)接通；用金属丝把...连一起；电汇
+The rope was not strong enough, so we used wire.
+这根绳子不够结实，所以我们用金属线
+The full CGI protocol is much richer than this,which is once again becoming rather tangled
+tangle  n.缠结；混乱；纠纷vt.使缠结；使混乱；使陷入
+			vi.纠缠；乱作一团；<口>吵架；争论
+The wind tangled her hair.  风吹乱了她的头发
+tangle designedly  设计混乱  tangle in卷入  tangle in a quarrel卷入一场争吵
+coalesce      v.合并；联合；接合
+The views of party leaders coalesced to form a coherent policy.
+党的领导人的各种观点已统一为一致的政策。
+round  v.使成为整数;绕行；弄圆；    
+		adj.圆的；球形的；丰满的；完整的；整数的；不确切的；大量的；坦率的；严厉粗暴的
+		adv.环绕地；周长；调转方向；依次；到某处
+		prep.围绕；在另一侧；四处
+		n.一局(轮)；常规活动；巡视；圆形物；(由一人给大家买的)一巡饮料；一整片面包；一阵(掌声)；一发(子弹)
+		
+select round(3.14),round(3.54);
+>>3, 4
+explicit    adj.明确的；清晰的；清楚的；露骨的
+alter   v.改变；更改；阉割；切除卵巢
+But nothing can alter the facts.  但任何东西也改变不了这些事实
+alter for the worse  改坏,变坏  alter automatically自动改变
+it means a total salary of 40.000 - 60.000 Euro per year.
+euro    n.欧元（符号�）adj.【大写】欧洲的，欧盟的
+Their value against the euro is irrevocably fixed.
+这些货币与欧元的汇率已被固定下来，且不可撤消。
+The euro hit a record low in trading today.
+在今天的交易中，欧元降到了历史最低水平
+forum      n.讨论会；论坛
+What is Akka?->resilient elastic distributed real-time transaction processing
+For fault-tolerance we adopt the "let it crash" model which the telecom industry 
+has used with great success to build applications that self-heal and systems that never stop. 
+heal     vt.治愈；使恢复健康；使和解vi.痊愈
+The medicine and rest will soon heal your wound.
+药物治疗和休息会使你的伤口很快愈合。
+heal up完全治愈self-heal[植]自体愈合植物
+telecom     abbr.电信(=telecommunication)
+Each actor has a mailbox which is both a queue and a traffic cop.  
+Messages are sent by other actors, 
+and can accumulate in the queue, but exactly one message can enter an actor's logic block.
+cop     n.纺锤状线团、管纱；警察
+		  vt.抓住、发现（某人）在干坏事；获得（某事物）、遭受；握住（某物）
+That crazy driver was pulled over by a cop.
+那个疯狂的司机被警察拽到了一边
+He was copped for speeding.他因超速行车被捕
+cop out逃避（责任）cop shop【口】警察所not much cop没有什么价值
+traffic    n.（人或车等）交通流量；不正当生意（走私）v.做生意（多指违法的）；游览
+Traffic reaches a peak between 8 and 9 in the morning.
+早晨八九点钟是交通的高峰时刻。
+His left knee was hurt in a traffic accident.
+他的左膝在一次交通事故中受伤了
+block traffic  阻塞交通   direct traffic  指挥交通
+heavy traffic交通拥挤traffic accident交通事故
+traffic cop    n.<美口>交通警察
+Akka is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on the JVM.
+Build powerful concurrent & distributed applications more easily.
+Akka是一个开发库和运行环境，可以用于构建高并发、分布式、可容错、事件驱动的基于JVM的应用。使构建高并发的分布式应用更加容易。
+Camgirl is a girl or young woman who broadcasts live pictures of herself over the web.
+网络女主播指的是在网上做视频直播的女孩儿或者年轻女性。
+In the past couple of years there has been an online explosion in the number of personal Webcam sites.
+过去一些年，个人视频网站呈爆炸式增长
+More people are choosing to live in front of a camera, hooked up to the Internet via a high-speed connection.
+更多的人选择以视频直播为业，通过高速互联网进行视频直播
+Most are girls and young women broadcasting from the most private spaces of their bedrooms, bathrooms and living rooms
+其中大多数主播是女孩儿或者年轻女性，直播地点不乏最私密的空间，比如卧室，浴室和起居室
+These “Camgirls” rule the world of amateur Web sites, attracting thousands of hits daily. 
+Some have become self-made celebrities
+amateur    n.外行；业余爱好者adj.业余（爱好者）的
+You're a professional, but I am an amateur.
+你是专业的,而我是业余的。
+He is an amateur photographer.他是个业余摄影爱好者
+amateurish    adj.业余的；不熟练的    【近义词】unskilled不熟练的untrained未受过训练的
+celebrate     v.庆祝；庆贺；颂扬
+People in the city held a great party to celebrate their victory.
+本市的市民举行了盛大的晚会庆祝他们的胜利
+celebrity      n.名人；名誉；社会名流
+He was voted the worst dressed celebrity.  大家一致认为他是衣着最差的名人
+celebrated     adj.著名的；声誉卓著的
+celebration    n.典礼；宗教仪式；庆祝，祝贺
+The hotel had a grand celebration for its opening.  该饭店办了一个盛大的开幕典礼
+这些网络女主播遍布在业余网站，每天吸引数千点击量，很多已经从草根变为明星。
+文中的camgirl就是“网络女主播”的意思，这个词语是由camera（照相机；摄像机）和girl（女孩）构成；
+在英文里可以用live broadcast来表示“直播”，
+如：She was watching the live broadcast of the Academy Awards ceremony.
+她正在看奥斯卡奖项的现场直播
+online live show platform
+robot    n.机器人；机械呆板的人；自动机；（非洲南部）自动交通信号灯
+It also provides a Python-object-based query language that makes SQL more abstract, thus providing database agnosticity for applications.
+agnostic   n.不可知论者adj.不可知论的；不可知论者的
+Similar to SQLAlchemy, Storm's Store object acts as a surrogate to the backend database, where all the operations are cached in-memory and committed into the database once the method commit is called on the store.
+surrogate    n.代理人；代用品；代孕者adj.替代的
+I do not know if your company has surrogate in our country.
+我不知道贵公司在我国是否有代理
+She saw him as a sort of surrogate father.
+在她心目中，他仿佛是能替代父亲角色的人。
+surrogate mother  替身母亲  surrogate parent 代父母  surrogate births 代理怀孕
+JetBrains is a leading software development firm specializing in the creation of intelligent, productivity-enhancing software technology. 
+Vagrant is a handy tool natively integrated in PyCharm designed to help you create reproducible development environments. 
+vagrant     n.流浪汉；漂泊者；无赖adj.流浪的；漂泊的；游荡的
+You shall be a vagrant and a wanderer on earth.
+你终会沦为一个流浪汉,到处漂泊。
+After leading a vagrant life, he was too glad to get back to his home town.
+经过一段漂泊的生活,他巴不得回到家乡。
+SqlAlchemy is an object-relational mapper (ORM), which means that it takes SQL constructs and makes them more like the target language. 
+alchemy      n.炼金术；魔力
+dual     adj.双重的；成双的n.双数
+She has dual nationality.  她有双重国籍
+duality     n.两重性；二元性
+amend commit   amend    vt.修正；改进
+They decided to amend the bill.  他们决定修正这条议案
+amend a document  修正文件  amend an error  纠错
+validate      vt.使生效；证实；确认；验证
+The ticket has to be stamped by the airline to validate it.
+须经航空公司盖章，该机票才能生效
+stamp     n.邮票；图章；印；跺脚v.跺脚；盖章
+My husband is a stamp collector.  我丈夫是个集邮者
+She stamped on the insect and killed it.她踩死了一只虫子。
+buy a stamp  买邮票  airmail stamp 航空邮票
+food stamp   美国联邦政府发给贫民的粮票
+diagonal matrix   对角矩阵
+The square matrix is called a diagonal matrix.
+该方矩阵称为对角矩阵。
+even      adj.平坦的；平和的；偶数的；相等的 
+			adv.甚至；正当；更；恰好v.使平坦；相等
+even number    偶数
+stash      vt.隐藏；储藏n.隐藏地点；隐藏物
+github stash changes
+Select the option to stash the password to a file.
+选择将密码隐藏在在文件中的选项。
+concise    adj.简明的；简要的
+His article is concise and comprehensive.
+他的文章言简意赅。
+Why it is compulsory to give classname while using super() in Python
+compulsory     adj.强制的；势在必行的；义务的
+compulsory execution  强制执行
+markdown    n.标价商品价格；减价
+Where does MySQL store database files on Windows and what is the name of the files
+So I accidentally formatted my hard drive and re installed windows and 
+forgot to backup an important database I had in my mySQL server.
+I'm trying to salvage files 
+salvage     vt.救助；打捞；抢救n.海上救助；打捞；抢救
+Salvage of the wreck is made difficult by bad weather.
+船遇难後因天气恶劣救援工作十分困难。
+They are trying to salvage the wrecked ship.
+他们努力抢救遇难的船只。
+salvage department  废料利用车间,废物利用部门   salvage service[法] 救助机构
+salvage money  救难费   salvage agreement  救助协议
+mysql limit range  how to modify the LIMIT, or maybe is there another syntax to query the 10th rank until the 20th rank?
+This is really basic stuff. You should use:
+SELECT name FROM mydb ORDER BY score DESC LIMIT 10,10;
+stuff     n.东西；原料；材料
+		    n.素质；本质；废物；无用的想法；废话，蠢话vt.塞满；填满
+I've got quite a lot of stuff to read. 我有许多东西要读。
+The young man has good stuff in him. 那个年轻人素质很好。
+He stuffed the suitcase with his clothes.  他把衣服塞满手提箱。
+classify stuff  把材料分类  bad stuff劣质货  stuff the job 处理工作
+stuff a pillow  填充枕头  stuff up塞住   stuff up a hole 填洞   stuff into 把…装〔塞〕入
+Lines have many attributes that you can set: linewidth, dash style, antialiased, etc; see matplotlib.lines.Line2D
+曲线有许多我们可以设置的性质：曲线的宽度，虚线的风格，抗锯齿等等 
+aliasing    n.图形失真；声音失真
+aliasing distortion  混淆失真,折叠失真
+aliasing effect  混叠效应  aliasing modulation  混叠调制
+Atom is "a hackable text editor for the 21st Century," with a vibrant community, built-in package manager, integrated Markdown previewer, and more.
+vibrant      adj.震颤的；响亮的；充满活力的；精力充沛的；(色彩)鲜明的
+His vibrant voice commove the air.  他响亮的声音振动了空气
+messy code    乱码
+More informally, it was what's often called messy code.
+说得更明白一些，它就是我们通常所说的乱糟糟的代码
+malformed     adj.难看的；畸形的
+response.body returns malformed html
+spark     vi.闪烁；冒火花；热情回应vt.激发；引起；向...求爱n.火星；朝气；情人；俗丽的年轻人
+A tiny star can spark in the darkness. 小星星也会在黑暗中发光
+You can spark the spirit of enterprise. 你们可以激发事业上的进取心
+A cigarette spark started the fire.  香烟的火星引起这场火灾
+emit a spark  冒出火星  throw off sparks  火星四迸
+a spark of life 生命的火花  electric spark电火花
+park    n.停车场；公园；园区；(球类)运动场v.停车；停放；置于
+Not all module developers have access to a multitude of platforms, so it’s not always feasible to expect them to create a multitude of built distributions.
+multitude     n.大量；多数；群众
+A multitude of heroic figures emerge.  大量英雄人物出现了
+abstract    adj.抽象的；理论的；抽象派的  n. 摘要；抽象派艺术作品
+			  v.把…抽象出；提取；抽取；转移(注意力等)；做…的摘要；<婉>偷
+He has some abstract notion of wanting to change the world.
+他有一种要改造世界的空想
+The whole text of the abstract shall contain not more than 300 Chinese characters.
+摘要文字部分不得超过300个字
+She abstracted the main points from the argument.  她把论据概括成要点
+subtract   vt.减去vi.减少
+march    n.行军；行进；游行示威；稳步前进；进行曲
+		    v.行进；前进；进发；使同行；游行示威
+March   n.三月
+Not a single man fell out in the long march.
+在长途行军中没有一个人掉队
+The shower being over, we continued to march.
+阵雨过去之后我们继续行进
+This term will begin on March 1st.  这个学期三月一日开始
+march the army to  指挥军队向…行进  march the thirty miles  行军30英里
+march hand in hand  手挽手前进   march against the enemy向敌人进军
+April    n.四月   April is the time to plant trees.  四月是种树的时候
+numpy.argsort(a, axis=-1, kind='quicksort', order=None)[source]
+order : str or list of str, optional
+A single field can be specified as a string, and not all fields need be specified, 
+but unspecified fields will still be used, in the order in which they come up in the dtype, to break ties.
+break tie      打破平局
+evenly-spaced numbers(0.2,  1.0 ,  1.5)   evenly    adv.平衡地；平坦地；平等地
+Generate a 2 x 4 array of ints between 0 and 4, inclusive:
+inclusive   adj.包含 ... 在内的；包罗广泛的；包括端点的[计算机] 包括的
+The monthly rent is $20 inclusive of everything.
+月房租总共二十美元,包括一切费用在内。
+inclusive from...to  从…到…包括在内  inclusive of   ...包括…
+numpy.random.randint(low, high=None, size=None, dtype='l')
+Return random integers from low (inclusive) to high (exclusive).  “half-open” interval [low, high)
+Return random integers of type np.int from the “discrete uniform” distribution in the closed interval [low, high].
+If high is None (the default), then results are from [1, low]. 
+My love for Python is slowly coming back thanks to this article. Have a good one; big cheers, mate!
+mate    n.配偶；伙伴；同事vt.使 ... 配对；使 ... 一致vi.交配
+I thought she was an ideal mate.我认为她是我的理想配偶
+It's high time to mate the doves.现在正是鸽子配对的好时候
+Many animals mate in the spring.许多动物在春天交配
+He mated words with deeds.他言行一致
+abandon〔choose〕 one's mate抛弃〔选择〕配偶
+look for a mate找对象faithful〔lifelong〕 mate忠实〔终身〕的伴侣
+mate a donkey使驴交配the mate of〔to〕 sth与某物相配对的东西
+I am new at this and trying to understand the difference between processes and threads as you alluded to
+allude    v.暗示；暗指
+I didn't allude to anything or anybody. 我并未影射任何人或任何事
+you’ll need to invest a little more of your time in reading the following sections
+If you’re ready for that, grab some of your favourite beverage and carry on.
+beverage     n.饮料
+What beverage would you like?  你想喝什么饮料
+alcoholic beverage  酒精饮料  carbonated beverage  碳酸饮料
+The module implements three types of queue, which differ only in the order in which the entries are retrieved. 
+In a FIFO queue, the first tasks added are the first retrieved.
+retrieve     vt.恢复；挽回；取回vi.找回猎物n.恢复；取回；救出险球
+The company is fighting to retrieve its market share.
+这个公司正在为恢复其市场份额(占有率)而奋斗
+The dog is trained to retrieve. 这狗受过训能找到并带回猎物
+beyond retrieve  不可恢复(不可挽救)  retrieve content of database恢复数据库内容
+retrieve data  检索数据  past retrieve不可恢复(不可挽救)
+class Queue.Queue(maxsize=0)
+Insertion will block once this size has been reached, until queue items are consumed.
+If maxsize is less than or equal to zero, the queue size is infinite.
+Queue.put(item[, block[, timeout]])
+Put item into the queue. If optional args block is true and timeout is None (the default), block if necessary until a free slot is available. 
+If timeout is a positive number, it blocks at most timeout seconds and raises the Full exception if no free slot was available within that time.
+slot     n.狭缝；槽；投币口；时间段；职位；（鹿的）足迹v.插入；留细长的孔；放置
+A cleaner slot is already reserved.清洗器插槽已被保留
+We can slot in the new entry in alphabetical order.
+我们可以按照字母顺序将新词条安插进去
+job slot 职位空缺
+mutex must be held whenever the queue is mutating.
+All methods that acquire mutex must release it before returning.
+def put(self, item, block=True, timeout=None)
+mutate     vi.变异；突变vt.使变异；使突变
+In the Darwinian run, the body code would mutate over time.
+在与达尔文主义有关的这条线中，躯体代码将随着时间的推移而变异
+start calls the internal run() method to kick off the thread worker.start() 
+kick    v.踢；反冲n.踢；反冲；后座力
+That horse kicked me.  那匹马踢了我
+kick a goal 踢进一球  kick badly  后坐力很厉害
+kick against the cruel treatment 反抗虐待  give sb a kick踢某人一脚 free kick任意球
+you’ll need to maintain a Queue through which you can pipe objects
+and to top if all off, you’ll need methods on both ends of the pipe in order to do the actual work
+likely involving another queue if you want to communicate two ways or store results
+pipe    n.管子；烟斗；管乐器
+          vt.以管输送；装管道；吹奏；尖声说；(为衣服等)滚边vi.吹奏管乐；尖叫
+It’s a very common scenario in which you spread the task of retrieving web pages across multiple threads.
+scenario     n.剧本；情节梗概
+you need a boiler-plate class in order to do anything useful. 
+boiler-plate     adj.公式化的; 陈腐的
+boiler    n.锅炉；汽锅；热水器
+I happened to meet him in the boiler room. 我碰巧在锅炉房碰到他
+boil    v.沸腾；煮沸；激动n.煮沸；翻滚；疖
+A whole lotta nothin
+lotta   n.   <口>许多=a lot of
+Just about everything in the above code is pure plumbing
+plumb     v.（用铅垂）测量；探测n.铅锤；垂直adj.垂直的；<口>完全的adv.恰恰；<口>彻底地
+The plumB line is always perpendicular to the horizontal plane.
+铅垂线总是垂直于水平面的
+plumb rule  锤规  plumb bob铅锤  plumb line铅垂线
+Public Key  公钥    Private Key  私钥
+"数字签名" digital signature    "数字证书"（digital certificate）
+signature     n.签署；书帖；有特征的符号；【计】签名
+He traced his signature laboriously. 他吃力地签上自己的名字
+Her signature was an illegible scrawl.  她的签字潦草难辩
+signature file   签名文件  signature analysis  信号特征分析
+Doug (our disgruntled employee) wishes to deceive Pat
+gruntle     vt.使高兴；
+Symmetric-key algorithm   对称加密算法 
+
+不使用SSL/TLS的HTTP通信，就是不加密的通信。所有信息明文传播，带来了三大风险。
+窃听风险（eavesdropping）：第三方可以获知通信内容。
+篡改风险（tampering）：第三方可以修改通信内容。
+冒充风险（pretending）：第三方可以冒充他人身份参与通信。
+eavesdrop    v.偷听
+It is not polite to eavesdrop on the conversation of other people.
+偷听他人说话是很不礼貌的
+tamper     v.干预；玩弄；贿赂；篡改
+By allowing the sacred mystery to unfold without trying to tamper with it, we can move through anything with much more ease and simplicity.
+让恐惧的迷雾散开，不要去干预，这样的话，度过任何事情我们就能带着多的多的从容和简单
+tamper with  窜改    Tamper-evident明显扯出破坏痕迹的; 显示拆封的
+pretend     v.假装；装作；自以为
+She pretends that she likes them so that she can get their help.
+她假装很喜欢他们，借以获得他们的帮助
+The young actor pretended to be Hamlet.  那个年轻演员扮演哈姆雷
+pretend a headache  假装头痛  pretend deafness  装聋作哑
+pretend childishly  幼稚地装作    pretend to great knowledge  自以为有知识
+mime    n.哑剧；丑角；模仿vt.做哑剧表演；模仿vi.演出哑剧角色
+They will perform a short mime later. 待会他们将表演一出短的哑剧
+He mimed the part of a drunken man.  他以哑剧形式表演醉汉
+NumPy’s broadcasting rule relaxes this constraint when the arrays’ shapes meet certain constraints.
+relax    v.休息；放松；使 ... 放松；放宽
+I just want to sit down and relax.我只想坐下休息会
+relax one's attention  放松注意力   relax one's grip  松开手
+relax beneficially   有益地放松   relax at the seashore  在海边休养
+axes    n.轴；轴线；斧头名词axis和axe的复数形式.
+axe     n.斧；解雇；倒闭vt.用斧砍；解雇；大量削减
+The heavy axe was awkward to use.  这把重斧头不好用
+School grants are to be axed next year.学校补助金明年将大大削减
+axis     n.轴；中枢
+A wheel revolves round/on its axis. 轮子是绕轴旋转的
+X-axis  X轴    major axis  长轴   common axis 公共轴线
+minor axis  短轴  pivot axis  枢轴线,旋转轴
+
+====================================
+1~8（上部分4-9已经打印）
+quotation marks    n.引号
+quota     n.限额；配额；定额；最低票数   output quotas  产品定额
+Calculate the total Sentence Quota of the summary.
+计算出摘要应包含的句子的限额
+quotation    n.语录；引用；行情；引语；报价
+Let us begin our discussion with a quotation.
+让我们用一条语录来开始我们的讨论
+The book opens with a quotation.   这本书以引语开头
+closing〔opening〕 quotation   收市〔开市〕行情  nominal quotation名义牌价
+black market quotations  黑市行情   the final quotations  最后的报价
+the daily market quotations  每日市场行情   the exchange quotations  外汇行情
+a = np.array([[1,2], [3,4]])  a.flatten()  array([1, 2, 3, 4])
+flatten     vt.使变平；打倒vi.变平
+The boxer was flattened with one punch. 那个拳击手被一拳击倒了
+punch   vt.按(键)；以拳重击；开洞；剪票n.殴打
+			n.打洞器；钻孔机n.感染力n.（酒、水、糖等制成的)鸡尾酒
+If you punch in the wrong code, the alarm sounds.
+如果你按错了代码,警示器就会响起来
+He punched the policeman on the nose and was arrested.
+他猛击那个警察的鼻子，结果被逮捕了
+punch out  打卡  punch up徒手同…打斗  solid punch结实的一拳
+He was totally flattened by her sarcasm.她说的挖苦话使他无地自容
+The graph flattens out gradually after a steep fall. 图表上的曲线突降之後逐渐趋於平稳
+flat     adj.平坦的；扁平的；单调的；断然的；[音乐]降音的；气不足的
+		 adv.平直地；直截了当；低于标准音高地
+		 n.<英>公寓；平面部分；[音乐]降半音；泄气轮胎v.变平；降调；住公寓
+In flat open country there is plenty of grass for the cattle to feed on.
+在开阔平坦的地区有大量的青草供牛群食用
+She lay flat on her back in the warm sunshine. 她在温暖的阳光下平躺著
+She is buying a flat close to her office.
+她正在购买一套靠近她办公室的单元房
+bright flat  明亮的房间   have a flat有一套房间
+three-room flat  三室一套的房间  spread a map flat把地图平展开
+ndarray.flatten(order='C')  Return a copy of the array collapsed into one dimension.
+collapse     v.（使）倒塌；（使）崩溃；（使）瓦解；折叠n.倒塌；崩溃；暴跌
+a cleaner, more documented, more canonical API
+canonical     adj.依教规的；圣典的；权威的；牧师的
+canonical representation  标准表示 canonical correlation 典型相关  canonical distribution正则分布
+canonical mapping  标准映射  canonical transformation  正则变换   canonical coordinate  正则坐标
+canonize     v.正式宣布(死者)为圣徒；赞扬
+We canonize natural,comfortable and elegant life circumstance.
+我们推崇的是自然、舒适、雅致的生活环境
+See if there is still a large disparity between linux and windows.
+disparity     n.不一致
+We are still seeing a disparity between the rates of pay for men and women.
+我们仍然能看到男女薪酬的不一致
+disparate    adj.不同的；异类的
+Chalk and cheese are disparate substances.粉笔和乳酪是完全不同的东西
+disparaging    adj.蔑视的；轻视的；毁谤的
+Many movies receive disparaging reviews from film experts and yet become extremely successful.
+很多电影受到电影专家贬低性的评论，结果却获得很大的成功
+disparage     vt.蔑视；贬损
+The Arya Samaj did much to encourage Hindu nationalism, but it did not disparage the knowledge of the West, and it established many schools and colleges.
+雅利安社大力地鼓励了印度的民族主义，但它并没有蔑视西方的知识，也建立了很多学校和大学
+stretch     v.伸展；延伸；张开；夸大n.伸展；张开；弹性；一段时间；<俚>刑期adj.可伸缩的
+Vast meadows stretch to the east.  辽阔的草场向东伸展
+She stretched across the table for the butter.她探身去取放在餐桌对面的黄油
+I got out of the bed and had a good stretch.我起床后舒服地伸了个懒腰
+stretch oneself  伸伸懒腰  stretch a point不按规章办事,超过自己的权限,牵强附会
+stretch consciously 自觉地伸展  stretch to延伸到
+bound     adj.必定的；有义务的；受约束的；装订的
+			 vi.跳；跳跃前进；猛涨n.跳跃；范围；界限
+You are not legally bound to answer these questions.
+在法律上，你没有义务非回答这些问题不可
+The dog bounded down the hill.狗跳跃着朝山下跑去
+With one bound, he was over the wall.他纵身一跃就跳过了墙
+To compute these probabilities, the count of each n-gram would be compared against the frequency of each word.
+为了计算这些概率，将比较统计n元语言模型和词频模型的效果
+For instance, if the model takes bi-grams,the frequency of each bi-gram, calculated via combining a word with
+its previous word
+比如，如果选择2元语言模型，语义2元组的词频通过统计当前词和其前面一个词
+natural language processing model that enables capturing this type
+of context via learning a distributed representation of words
+词汇的分布化表征捕捉上面提到的这种上下文关系
+this thing exists.” It’s tragically undersold
+tragical   adj.悲剧的；悲剧性的      tragic     adj.悲剧的；悲惨的
+This kind of feeling especially is tragical for those who do not have a belief to rely on.
+这种特别是感觉为没有信仰依靠的那些人是悲剧的
+Her tragic story touched us all deeply/touched our hearts with sorrow.
+她的经历很悲惨，我们都深受感动[我们都很伤心]
+tragic hero  悲剧英雄；英雄好汉
+undersold     v.低价出售(抛售； 售价比 ... 低)
+Our goods cannot be undersold,ie Our prices are the lowest.
+本公司货物价格别家无法竞争(我们的价格最低)
+now with the pool objects created, and simple parallelism at our fingertips
+fingertip      n.指尖；触手可及 
+He has the annoying habit of drumming the table with his fingertip.
+他有用手指尖敲击桌子的恼人习惯
+A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal.
+Comes in different flavors with accompanying Base16 color schemes.
+hype    n.夸大的广告宣传；<俚>皮下注射液；吸毒成瘾的人v.大肆宣传；炒作；刺激
+The public are not fooled by all the hype the press gave the event.
+新闻界言过其实的种种报道并没有愚弄得了公众
+The movie has been hyped up far beyond its worth.
+这部影片被吹得离了谱了
+media hype
+媒体炒作（媒体制造的潮流泡沫）
+sublime     adj.高尚的；壮观的；非凡的；极其的vt.变高尚；升华；气化n.顶峰；高尚
+He has the power to turn the ordinary into the sublime.
+爱人会化平凡为高尚，使生活得到升华		
+You may also imbibe it slowly in small sips to appreciate the subtle allure of tea-drinking, until your spirits soar up and up into a sublime aesthetic realm.
+在百忙之中泡上一壶浓茶，择雅静之处，自斟自饮，可以消除疲劳、涤烦益思、振奋精神，也可以细啜慢饮，达到美的享受，使精神世界升华到高尚的艺术境界
+shortcut   	n.捷径；近路；快捷键v.抄近路；走捷径	 
+He was always looking for a shortcut to fame and fortune.
+他总是在找成名发财的捷径		
+We saved time by taking a shortcut. 我们走捷径以节省时间		
+application shortcut key  应用程序快捷键		
+shortcut calculation  简化的计算	  shortcut menu[计]快捷菜单	
+fame   	n.名声；名望vt.使出名	
+She won her overnight fame by her first novel. 她的第一部小说使她一举成名		
+The city is famed for its scenic spots. 该市以风景优美著称		
+achieve〔gain, secure〕 fame获得声誉	  academic〔artistic〕 fame学〔艺〕术声望	 
+at the height of sb's fame在某人最走红的时期
+famed     adj.著名的	
+fortune		n.命运；财产；运气 
+Everyone is the architect of his own fortune.
+每个人都是自己命运的创造者		
+An ill marriage is a spring of ill fortune.  不良的婚姻是恶运的来源		
+affect one's fortune  影响命运  enjoy good fortune  交好运		
+changing fortune 多变的命运		by fortune 由于运气  child of fortune幸运儿
+Using Goto Anything, you can navigate your project’s files swiftly.		
+swift	   adj.快的；迅速的；敏捷的n.雨燕；线轴Swift.n.斯威夫特（人名）
+He made a remarkably swift recovery. 他康复得相当快		
+swift change突变		
+Panes are groups of views. In Sublime Text, you can have multiple panes open at the same time.		
+Sublime Text is a versatile and fun text editor for code and prose that automates repetitive tasks so you can focus the important stuff.		
+prose	adj.散文的n.散文	 
+This is a verbal translation of the prose. 这是那篇散文的逐字直译		
+His prose is written in elegant language. 他的散文写得十分优雅		
+prose writer散文作家
+automate    v.使自动化  repetitive     adj.重复的；反复的
+repeat    n.重复；反复v.重复；复述adj.重复的；反复的
+composition，article，essay，paper，prose，thesis，theme，dissertation这些名词均含“文章”或“论文”之意。composition多指学校里老师给学生的作文练习。article多指在报刊、杂志上发表的非文艺性的文章，包括新闻报导、学术论文等。essay指任何一种非小说性的，篇幅不长、结构简练的文章，如论说文、报道、评论、讽刺性杂文等。paper正式用词，多指在学术刊物上发表或在学术会议上宣读的专题论文，也指高等学校的学期论文，或学校里的作文练习。prose专指散文。thesis既可指毕业论文、学位论文		
+excel		vt.优于；超过vi.胜出n.[计] 电子表格（软件名称）
+通用公共许可证(General Public License, GPL)		
+MinGW ("Minimalistic GNU for Windows") is a collection of freely available and freely distributable Windows specific header files and import libraries combined with GNU toolsets that allow one to produce native 
+Windows programs that do not rely on any 3rd-party C runtime 		
+可移植操作系统接口（Portable Operating System Interface）		
+compile		vt.编译；编制；编纂 
+We are trying to compile a list of suitable people for the job.
+我们在努力编制一份适合做这项工作的人员的名单		
+compiler	n.编辑者；[计算机]编译器；编译程序  	
+Next, you’ll need to add several packages to Cygwin. You can add them all in one fell swoop	
+fell	vt.砍伐；击倒n.丘原；沼泽地adj.凶残的；毁灭性的动词fall的过去式.	 
+The lumberman will fell these great trees.
+这位伐木工将砍伐掉这些大树		
+The girl lost her balance and fell off the balance beam.
+小女孩失去了平衡，从平衡木上摔了下来		
+fell over backwards拚命(竭力抵销)fell out of step with不同步于market fell行情下跌		
+in one fell swoop一下子at one fell swoop一下子(一举Little strokes fell great oaks.水滴石穿。
+swoop	v.抓取；猛扑；突然袭击n.俯冲；攫取；突然袭击	
+The robber swooped up the banknotes. 劫匪把钞票一把抢走了		
+Police made a dawn swoop.警方于拂晓时发动了突袭		
+at one swoop一下子 (一举in one swoop一举  swoop down on 向 ... 突然袭击		
+Cygwin’s setup wizard will walk you through a series of steps.		
+wizard	 n.【C】男巫；术士；鬼才	
+The wizard uttered a spell against the wicked king.
+男巫对作恶多端的国王念咒法		
+function wizard  函数向导  text wizard  文字分列向导		
+exuberant		 adj.兴高采烈的；繁茂的；丰富的
+All those mother trees in the garden are exuberant. 果园里的那些母树都长得十分茂盛		
+exuberant green  绿意盎然		
+exuberance		n.茂盛；充沛；丰富
+Jane's extraordinary exuberance has produced fabulous results!
+简异常充沛的精力创造出了惊人的成效！		
+fabulous    adj.极好的；巨大的；传说中的
+You look fabulous, you'll knock them dead tonight.
+你看上去漂亮极了,今晚肯定把他们迷倒
+reap fabulous profits  牟取暴利    fabulous age  一个国家开国初期的神话时代
+How to bulk update mysql data with one query?
+bulk     n.体积；容积；大块；大部分；大批  adj.散装的；大量的
+		   vt.使膨胀；使成堆vi.膨胀；显得重要
+The bulk of the work has already been done. 大部分工作已经完成
+I recommend you a bulk buy.我建议你大量购买
+great bulk  庞大的体积   huge bulk 庞大的体积  by bulk按体积
+in bulk  大批,桶装  bulk large  显得重要   bulk small显得渺小
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
