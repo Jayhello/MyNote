@@ -32,13 +32,14 @@
  
  - ## C++
   - #### [C++_note](C++_note)
-  
-  
-  
-  
+  - #### [makefile_CMake](makefile_CMake)
 
 - ### other txt
   - #### work english
+
+- ### daily_log
+  - #### daily_log
+
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
@@ -102,11 +103,21 @@ This is about DeepLearning framework
  - #### Proxy
  - #### difference between apache nginx
 
-3.https
- - public
+3. #### https
+ - #### public
  
 # linux_practice
 1. #### compiler
 
 # C++_note
-1. 
+1. #### Makefile
+2. #### other quetion
+
+# makefile_CMake
+
+# daily_log
+1. #### This file is about daily work which i maybe forget to do.
+
+2. #### some book or something else.
+
+
