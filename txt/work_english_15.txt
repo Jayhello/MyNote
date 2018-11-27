@@ -1,0 +1,596 @@
+====================================
+1~15（上部分1-14已经打印12-3）  
+#calculate class prior probabilities: P(y=ck)
+prior       adj. 优先的；在前的；更重要的adv. 居先；在前
+previous，foregoing，preceding，prior，former这些形容词均可表示“在前的”之意。previous指时间上、顺序上较早的，或指正在谈论的某事的前一个。foregoing指前所述的，是following的反义词。preceding特指时间和地位上紧接在前。prior与previous同义，常可换用，但prior有时强调更大的重要性，对比意味强。former系latter的反义词，比prior更着重对比
+s_ret.reserve();  
+reserve       vt. 保留；预订；延期n. 候补；预备品；贮存n. 含蓄；克制
+We reserve the right to lodge a claim for loss.
+我们保留要求赔偿损失的权利
+He has played very well on the reserve side but this chance in the first team should put him on his mettle.
+他在候补队中表现非常出色,但这次作为正式队员参赛将对他的能力进行考验
+The army should be equipped with sufficient war reserves.
+军队应该得到充足的军需储备品
+UTF-8:  Original:  0x61, 0xc3, 0xb1, 0x6f, 0x00
+Reverse:  0x6f, 0xb1, 0xc3, 0x61, 0x00
+The result is gibberish and an illegal UTF-8 sequence
+gibberish        n. 莫名其妙的话；胡言乱语
+In that gibberish, however, there is a melody.
+在这胡言乱语，但是，有一种旋律
+melody      n. 旋律；曲子；曲调；美妙的音乐
+The melody still rang in her ears. 那个旋律仍然在她的耳际荡
+melody, aria, lied, song, tunemelody通常指美妙的歌曲; song则泛指歌曲,是通俗用法; tune作为曲调比melody更简单、直接; aria主要指“独唱”; lied指十八世纪的浪漫曲
+glib      adj. 能说善道的；圆滑的
+A glib salesman sells her a set of dish that she does not want.
+一位言词伶俐的推销员卖给她一套本来她不要的碟子
+The fellow has a very glib tongue. 这家伙嘴油得很 
+gibber    v. 胡言乱语地说n. 胡言乱语
+By clapping more or less, you can signal to us which stories really stand out.
+clap      v. 拍手；轻拍；鼓掌；啪地关上n. 霹雳声；轻拍；拍手声
+She clapped her hands in delight. 她高兴地拍手
+If you're happy, clap your hands. 如果感到幸福，你就拍拍手
+clap的基本意思是“鼓掌,拍手”,表示为某人的表演或某事的成功而喝彩,引申可作“拍; 推”解,表示友善地拍或猛力地推。
+clap, slap这组词均可表示“拍击手掌”。其区别在于:clap是鼓掌喝彩; 而slap是用手打某人一记耳光,以示惩罚。
+slap          n. 侮辱；掴；拍击声vt. 侮辱；拍击；惩罚；申斥adv. 直接地；正面地；突然地
+It is a bit of a slap in the face when she refuseed to see me.
+她拒绝见我，这简直是侮辱我
+He gave her a slap on the cheek and she began to cry.
+他打了她一耳光，她就哭起来了
+He slapped me on the back on my way home.
+在我回家的路上，他在我背上拍了一下
+slap cruelly 残忍地击打slap impatiently 不耐烦地击打slap against 拍打…slap at 拍打…
+I, Andrea Dal Pozzolo, declare that this thesis titled “Adaptive Machine Learning for Credit Card Fraud Detection” has been composed by myself and contains original work of my own execution. 
+This thesis has been written under the supervision of Prof. Gianluca Bontempi.
+The members of the jury are:
+Prof. Bart Baesens (Katholieke Universiteit Leuven, Belgium)
+Prof. Cesare Alippi (Politecnico di Milano, Italy)
+jury         n. 陪审团；评委会adj. 临时用的vt. 挑选
+The jury brought in a verdict of guilty. 陪审团作出有罪的裁决
+fix a jury 用不正当的手段操纵陪审团trial by jury 由陪审团进行审理the verdict of the jury 陪审团的裁决
+Literature review is a crucial yet sometimes overlooked part in data science. To avoid reinventing the wheels and get inspired on how to preprocess, engineer, and model the data, it's worth spend 1/10 to 1/5 of the project time just researching how people deal with similar problems/datasets.
+literature        n. 文学；文献；<口>印刷品
+She is fond of polite literature. 她喜爱风雅文学
+He destroyed feudal ideas in literature. 他摧毁了文学中的封建思想
+literature的基本意思是“文学,文学作品”,是抽象名词,表示“多种语言的文学”时可用复数形式。	literature作“(某一学科的)文献,著作”解时,用作单数形式,其前可加不定冠词a
+appreciate〔create, criticize〕 literature 欣赏 〔创作,评论〕文学作品love〔study, teach〕 literature 喜爱〔研究,教授〕文学
+feudal      adj. 封建的；封地的
+He lost faith in feudal traditions. 他不再相信封建的老一套了
+feudal hierarchy 封建等级制度feudal land ownership 封建土地所有制feudal age 封建时代feudal rent 封建地租feudal rent exploitation 地租剥削
+fond          adj. 溺爱的；喜欢的；愚蠢的；渴望的
+A fond mother may spoil her child. 溺爱的母亲可能会宠坏她的孩子
+fond可指“喜欢,爱”,表达的是一种时间极长的,相对稳定的情感,也可指“多情的,温柔的”,还可指过度的爱和不明智的爱,即“溺爱的”“痴情的”
+fond, glad这两个词均与愉快的心情有关。其区别在于:fond指一种时间极长的,相对稳定的情感,可与of搭配使用; glad指对做某件事的具体情感,时间可能相对较短,可与动词不定式搭配使用。例如:They are fond of playing volleyball.他们喜欢打排球。I am glad to play volleyball this afternoon.我愿意今天下午打排球
+fond, devoted两者都可表示对某人、某事的情感。其区别在于:fond在程度上不如devoted深。例如:The couple, who were nothing more than fond of each other when they first got married, have now grown into devoted lovers.那对男女在初婚时彼此不过有好感而已,而现在已经发展成为一对相亲相爱的夫妻
+devote        vt. 致力于；奉献给；把...专用于
+After he graduated, he continued to devote himself to the research.
+毕业以后,他继续潜心于这项研究
+He devoted himself entirely to music. 他将一生奉献给了音乐
+devote, dedicate这两个词的共同意思是“贡献,奉献”。其区别在于:devote强调从个人的热情或愿望出发去干某事, dedicate包含有devote的意思,但重点是指从事一种庄严的、正式的、神圣的事业或工作。例如:He devoted the whole night to light music.他整个晚上都在听轻音乐。He dedicated his life to training students.他毕生都在培养学生
+dedicate        vt. 致力于；献出；提献辞
+She dedicated her life to science. 她毕生致力于科学
+I will dedicate myself to science in the future.
+我将来一定要投身于科学事业
+crucial       adj. 决定性的；关键的
+Her work has been crucial to the project's success.
+她的工作对项目的成功至关重要
+Trust is crucial for successful friendship. 相互信任是维系友谊的关键
+crucial experiment 定式实验,决定性实验crucial moment 紧要关头, 关键时刻, 危机crucial test 决定性实验,判决试验
+reinvent      v. 再发明；改造；重新使用
+reinvent the wheel 浪费时间做别人已做好的事
+wheel         n. 方向盘；车轮；旋转；周期vi. 旋转；转动；改变方向vt. 用车运；转动；给 ... 装轮子
+They found her slumped over the steering wheel.
+他们发现她倒伏在方向盘上
+Nobody can roll back the wheel of history. 没有人能够倒转历史的车轮
+Will you wheel him away because he can't walk?
+他不能走路了，你把他推走好吗?
+wheel的基本意思是“轮,车轮,机轮”,也可指以轮子为主要部件的机器。	wheel也可作“方向盘,驾驶盘,舵轮”解,通常用作单数形式,其前常有定冠词the修饰。
+wheel用作动词的基本意思是“转动,旋转,转身”,指某人突然转过身来或转变方向,引申可表示“推,拉”
+go on wheels 顺利进行run on wheels 靠轮子运转front wheel 前轮at the wheel 掌着舵的,掌握着大权的wheel in 在…盘旋wheel into 转…入wheel around 突然转身,来回盘旋,突然改变看法
+Features V1, V2, ... V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning.
+amount          n. 数量；总额vi. 总计；等于
+A petrol gauge shows the amount of petrol left in a car.
+汽油表指示出汽车里所剩的汽油数量
+He has a large amount of mail to answer every day.
+他每天有大量的信件要回复
+The number of the injured amounted to over one hundred.
+受伤人数总计一百多
+amount 用于表示“量”“额”，如重量、金额等。	amount of后一般接不可数名词，有时也可接复数可数名词，此名词被视为某一“总量”或“综述
+approach the amount of 接近…数目calculate the amount 计算数量aggregate amount 总额above a certain amount 超过一定数额a considerable amount of memory work 大量的记忆工作a great amount of information 大量资料
+There are a handful of topics, however, that almost all students report having no knowledge or very limited understanding of. Of these, "generators and the yield keyword" is one of the biggest culprits. 
+culprit       n. 罪犯；起因
+The hunt is on for the culprit. 正在搜捕该罪犯
+The police are now on the scent of the culprit. 警方已获得罪犯的线索
+【NumPy基础】100道numpy练习——Apprentice篇
+apprentice         n. 学徒；见习生v. 使当学徒
+He began his career as an apprentice.他以当学徒开始他的职业生涯
+The boy was apprenticed to a carpenter. 这个男孩被送去学木匠
+apprentice作名词的基本意思是“学徒; 徒弟”,指在商店里学做买卖或在作坊、工厂里学习技术的年轻人,通常有一定期限,报酬也很低,既可作可数名词,又可作不可数名词。	用于比喻, apprentice还可作“生手; 新手”解,指在师傅或老师指导下的初学者,强调被法律约束或被管理束缚,而不侧重无经验
+employ an apprentice 雇用学徒  law apprentice 见习律师  apprentice in cooking 烹饪新手
+You are working on your dataset. You create a classification model and get 90% accuracy immediately. “Fantastic” you think. You dive a little deeper and discover that 90% of the data belongs to one class. Damn!
+This is an example of an imbalanced dataset and the frustrating results it can cause.
+frustrate        vt. 挫败；击败；使沮丧；使灰心adj. 无益的；挫败的；挫折的
+They made their preparations to frustrate the conspiracy.
+他们作好准备挫败以这个阴谋
+He left the company in a frustrate mood.
+他怀着挫败的心情离开了公司
+frustrate sb's plan 破坏某人的计划frustrate a murderous attempt 挫败一桩行凶的企图
+In this post you will discover the tactics that you can use to deliver great results on machine learning datasets with imbalanced data.
+tactic        n. 战略；策略
+Another example is customer churn datasets, where the vast majority of customers stay with the service (the “No-Churn” class) and a small minority cancel their subscription (the “Churn” class).
+在客户流失问题中，绝大部分的客户是会继续享受其服务的（非流失对象），只有极少数部分的客户不会再继续享受其服务（流失对象）
+churn       n. 搅乳器v. 搅拌；搅动；翻腾；〈口〉粗制滥造
+Mother adds a spoon of baking-powder in the flour, and then begins to churn it up.
+妈妈往面粉中加了一小勺焙粉，然后开始搅拌
+The accuracy paradox is the name for the exact situation in the introduction to this post.
+It is the case where your accuracy measures tell the story that you have excellent accuracy (such as 90%), but the accuracy is only reflecting the underlying class distribution.
+paradox       n. 悖论；似非而是的论点；自相矛盾的话
+Paradox and irony are characteristics of her style.
+她善於运用似非而是的隽语和反语
+puzzling paradox 令人费解的反论ridiculous paradox 可笑的奇谈怪论
+Try Generate Synthetic Samples
+A simple way to generate synthetic samples is to randomly sample the attributes from instances in the minority class.
+synthetic         adj. 合成的；人造的；综合的；虚伪的n. 合成物；人工制品 
+There are systematic algorithms that you can use to generate synthetic samples. The most popular of such algorithms is called SMOTE or the Synthetic Minority Over-sampling Technique.
+As its name suggests, SMOTE is an oversampling method. It works by creating synthetic samples from the minor class instead of creating copies. The algorithm selects two or more similar instances (using a distance measure) and perturbing an instance one attribute at a time by a random amount within the difference to the neighboring instances.
+perturb      vt. 使烦恼；使不安
+The state of being perturbed; agitation.
+搅乱，混乱处于不安的状态; 动荡
+upset，agitate，disturb，perturb这些动词均有“使不安，使心烦意乱”之意。upset最普通，最通俗用词，侧重失去精神上的平静，心理上完全丧失平衡。agitate侧重指内心的焦虑，难于控制，表露于外。disturb指因某人的行动、扰乱、妨碍安静等而使人不得安宁。perturb书面语用词，指使人焦急烦恼，扰得心情不安。
+As always, I strongly advice you to not use your favorite algorithm on every problem. You should at least be spot-checking a variety of different types of algorithms on a given problem.
+spot-checking        v. 抽查
+A spot check showed that at least five percent of the oranges were contaminated.
+一项抽查显示那些柳橙至少有百分之五受到了污染
+Try Penalized Models
+Penalized classification imposes an additional cost on the model for making classification mistakes on the minority class during training. These penalties can bias the model to pay more attention to the minority class.
+penalize        v. 处罚；使不利   penalty   n. 处罚；惩罚；不利；罚球
+People who drive when they are drunk should be heavily penalized.
+对酒醉开车者应予重罚
+How can a referee penalize a player?
+裁判怎样处罚犯规运动员
+punishment，penalty这两个名词均含“惩罚、处罚”之意。punishment泛称，诸如法律、父母、老师以及神的施予的种种等。penalty专指法律上的或体育运动比赛中的处罚
+Addressing the Curse of Imbalanced Training Sets: One-Sided Selection
+curse         n. 诅咒；咒骂；祸端vt. 诅咒；咒骂；使受罪vi. 诅咒；咒骂
+Our tribe is under a curse. 我们的部落正受诅咒
+She cursed him for ruining her life. 她诅咒他，说他毁了她的一生
+curse for 因…而咒骂curse sb for his clumsiness 咒骂某人笨手笨脚     lay〔pronounce, put〕 a curse upon sb 诅咒某人  under a curse 被咒骂
+The breast cancer dataset is a standard machine learning dataset. It contains 9 attributes describing 286 women that have suffered and survived breast cancer and whether or not breast cancer recurred within 5 years.
+breast        n. 乳房；胸脯vt. (以胸)对着
+Who is the first to breast the tape? 谁第一个到终点的
+The baby was being nursed at its mother's breast.
+那个孩子正在吃母亲的奶
+breast, bosom, chest这组词均可指“胸部”。其区别是：1.bosom和breast均指人或动物的胸部，也指妇女的乳房；而chest则指颈部和腹部之间的部分，包括心、肺等，所指范围比bosom和breast大。2.chest一般不用于比喻；bosom和breast都可用作文学用词，前者指“胸怀”“心胸”，后者指“心”“心头”
+It is a binary classification problem. Of the 286 women, 201 did not suffer a recurrence of breast cancer, leaving the remaining 85 that did.
+recur           vi. 重现；再发生
+The best way to ensure quality is to write tests that validate data and algorithms and verify that prior mistakes do not recur.
+确保质量的最佳方法是编写验证数据和算法并确认以前的错误不再重现的测试
+recurrence        n. 再现；再发生；反复
+Coming To Grips With Imbalanced Data
+grip        n. 紧握；手提包；了解；手柄vt. 吸引；紧抓
+The child would not let go his grip on Tom. 这孩子紧紧地抓住汤姆不放
+The audience were gripped by the play. 这群观众被这部戏剧吸引住了
+get〔take〕 a grip on 紧紧抓住…have a grip on 对…有吸引(力),掌握firm〔strong, tight〕 grip 紧握grip sb's attention 吸引某人的注意力grip hands 紧紧握手
+Two you might like to consider are anomaly detection and change detection.
+Anomaly detection is the detection of rare events.
+异常点检测(anomaly detection)与变化趋势检测问题(change detection)。 异常点检测即是对那些罕见事件进行识别
+Change detection is similar to anomaly detection except rather than looking for an anomaly it is looking for a change or difference. 
+变化趋势检测类似于异常点检测，不同在于其通过检测不寻常的变化趋势来识别
+aggregate         adj. 合计的；总的n. 总计；进球总数；集料v. （使）聚集；总计
+What were your aggregate wages last year?
+去年你的工资一共是多少?
+The cause of unemployment was inadequate aggregate demand.
+失业的原因在于总需求不足
+The football team had a low goal aggregate last season.
+这支足球队上个赛季的进球总数很少
+corporation aggregate 公司法人介词+～the behavior of aggregates 群体行为～+介词aggregate of 25 per cent 总数的25%the complete aggregate of unemployment figures 失业人数总计
+malt      n. 麦芽；啤酒adj. 麦芽的；含麦芽的；用麦芽作的v. 作成麦芽；用麦芽处理
+He said breweries could be forced to look at new varieties of malt.
+他说酿酒厂可能会被迫寻找新的啤酒酿造方法
+The host took out a bottle of 12-year-old malt whisky to entertain us.
+男主人拿出了一瓶12年的优质麦芽威士忌来招待我们
+malt whisky (大麦芽酿的)威士忌malt conversion 制成麦芽, 麦芽转化
+If you've ever dipped your toe into the cold & murky pool of data processing, you've probably heard of principal component analysis (PCA). 
+murky         adj. 黑暗的；朦胧的；烟雾弥漫的；含糊的；隐晦的
+I was inspired to investigate PCA by David MacKay's amusing response to an Amazon review lamenting PCA's absence in MacKay's book:
+lament          n. 悲叹；悼词v. 哀悼；惋惜；悲叹
+It is the lament of an impoverished peasant.
+它是一个已贫穷化的农民的哀词
+This poem can be characterized as a lament for a dead lover.
+这首诗可以看作是对死去情人的悼词
+The children lament the death of their mother.
+孩子们哀悼母亲的去世
+amuse          v. 娱乐；消遣；使 ... 发笑
+I amuse myself by reading on weekends. 周末我读书消遣
+It is not always easy to amuse oneself on holiday.
+让自己在假期里自娱并不总是容易的
+"Principal Component Analysis" is a dimensionally invalid method that gives people a delusion that they are doing something useful with their data.
+delusion        n. 错觉；幻觉；妄想；欺骗 
+ Your hope of promotion is a mere delusion.
+你提升的希望只不过是一种幻觉
+delusive       adj. 使迷惑的；欺瞒的；虚假的
+delude       v. 欺骗；迷惑；蛊惑
+He deluded her with empty promises.
+他用虚假的诺言哄骗了她
+She deluded herself with false hopes.
+她以虚幻的希望欺骗自己
+【近义词】deceive 欺骗mislead 误导
+If you change the units that one of the variables is measured in, it will change all the "principal components"! It's for that reason that I made no mention of PCA in my book. 
+I am not a slavish conformist, regurgitating whatever other people think should be taught. I think before I teach. David J C MacKay.
+slavish         adj. 奴隶的；奴隶性的；效仿的；盲从的
+Her slavish devotionto her job ruled her life.
+她对工作奴隶般的投入主宰了她的生活
+His style is a slavish imitation of his teacher's.
+他一味模仿教师的风格，毫无创意
+slave         n. 奴隶；像奴隶般受制的人；【机】从动装置v. 做苦工；做奴隶；拼命干
+PCA on sphered data (each dimension has mean 0, variance 1).
+sphere         n. 范围；领域；球；球体；天体vt. 形成球体；包围；围绕
+The scientist is distinguished in many spheres of knowledge.
+这位科学家在许多知识领域中都是杰出的
+enlarge〔increase〕 one's sphere 扩大…范围形容词+～perfect sphere 完全的球体wide sphere 范围很广介词+～in〔within〕 one's sphere of 在…范围内～+介词the sphere of broadcasting 广播界the sphere of influence 影响范围
+sphere，domain，field，territory，province这些名词均含“范围，领域”之意。sphere指有明显分界线的范围或领域，强调彼此不会干扰、跨越，各不相关。domain指知识艺术、兴趣或人类活动的领域。field主要指经选定在一段时间内作专题研究的方面或领域，含夸张意味。territory指科学知识、活动等的领域或范围。province即可指科学、艺术、学问的领域或范围，又可指个人或机关职权的管辖范围。
+Applying PCA to the raw data can be disastrous. The proteomics dataset has all kinds of wacky scaling issues, and it shows. Nearly 20% loss in accuracy!
+disastrous         adj. 灾难性的；极糟的
+The new system has had a disastrous effect on productivity.
+新制度已对生产力造成了灾难性的影响
+This environmental effect of this new factory could be disastrous.
+这家新工厂给自然环境带来的影响可能是灾难性
+wacky         adj. (行为等)古怪的；愚蠢的
+Physicists hope to find a new astronomy and test some wacky ideas.
+物理学家们试图开展新的天文学来检测一些新奇古怪的想法
+The highest tier you have achieved in any of the categories of expertise will be displayed on your profile and under your avatar across the site. Tiers are awarded on the basis of medals earned in each category.
+avatar         n. （网络空间中使用的）头像；化身；（印度教）天神下凡 Avatar.n. 阿凡达
+How do I add an avatar to my profile? 我如何在我的资料里添加头像
+Under "Update Avatar", you may choose a new picture to set as your avatar.
+在“更新头像”标签下，点选“上传头像”，就可以更新你的头像
+Novice， You’ve joined the community.
+Contributor, You’ve completed your profile, engaged with the community, and fully explored Kaggle’s platform.
+Add you bio,   bio      n. 个人经历pref. 表示“生命”；“生物”
+Please click here for the bio of Mr. David Eldon.
+请点击此处阅览艾尔敦先生的简历。
+His complete bio can be found at the EFF Staff Site.
+他的完整传记可以在EFF员工站点找到
+bio- 表示"生命、生物”之义bio-diversity 生物多样性bio-assay [医] 生物鉴定bio filter 生物滤池
+Expert, You’ve completed a significant body of work on Kaggle in one or more categories of expertise. Once you’ve reached the expert tier for a category, you will be entered into the site wide Kaggle Ranking for that category.
+expertise      n. 专门知识；专门技术；专家的意见
+2 bronze medals
+medal       n. 奖章；勋章；纪念章vi. 获得奖章
+He got a medal for bravery. 他因勇敢而获得一枚奖章
+She was awarded a medal for bravery. 她因勇敢而获得奖章
+prize，medal这一对名词都有奖品的意思。prize是表示“奖品”或“奖（彩）金”之意。medal是指“奖牌（章）”或“勋章”
+metal           n. 金属；合金；玻璃液vt. (以金属)覆盖、装配
+Master, You’ve demonstrated excellence in one or more categories of expertise on Kaggle to reach this prestigious tier. Masters in the Competitions category are eligible for exclusive Master-Only competitions
+prestigious         adj. 享有声望的；声望很高的；<古>魔术的
+Her first novel won a prestigious literary prize.
+她的第一部小说就获得了一个颇具声望的文学奖
+After all,she's the most prestigious wedding planner in San Francisco.
+她毕竟是旧金山最负盛名的婚礼策划人
+prestige          n.[U] 威望；声望adj. 有威信的；名贵的
+She enjoyed high prestige among the masses. 她在群众中享有很高威信
+He is an author of international prestige. 他是有国际声望的作家
+Grandmaster, You’ve consistently demonstrated outstanding performance in one or more categories of expertise on Kaggle to reach this pinnacle tier. You’re the best of the best.
+pinnacle         n. 小尖塔；尖峰；高峰vt. 造小尖塔；放置高处
+Grandmaster       大师
+I can see the small pinnacle from here. 我能从这儿看到那个小尖塔
+The Kaggle Rankings page is a live leaderboard of the absolute best data scientists on Kaggle. Each category of expertise has its own leaderboard and point system.
+leaderboard       n. 领先选手排名板；指显示比赛中领先选手的名字和位置的板；尤指高尔夫巡回赛
+On the one hand, a well-tuned WOC system can create an excellent leaderboard.
+一方面,一个参照完美的WOC系统可以创造一个良好的排名榜
+Points, While tiers and medals are permanent representations of a data scientist’s achievements, points are designed to decay over time. This keeps Kaggle’s rankings contemporary and competitive. All points awarded decay in a consistent way using the formula below:e?t/500
+Note that the recall for logistic regression is much better now. Undersampling will not improve the random forest performance since the subtlety is already built into this model.
+subtlety         n. 微妙；敏锐；狡猾 
+Nobody noticed the subtlety of his remarks.
+没有人听出他话中的微妙含义
+The subtlety of color is absolutely unbelievable.
+这颜色的微妙之处是绝对让人难以置信
+subtle           adj. 微妙的；敏锐的；不明显的；精细的；狡猾的
+delicate，fine，subtle这3个形容词均含“微妙的，细微的”之意。delicate侧重指需要谨慎处理和对待。fine隐含“不易察觉的”意味。subtle侧重有洞察、领悟事物细微差别以及微妙关系的能力。
+Find and impute missing words in the billion word corpus
+impute          v. 归罪于；负责任；嫁祸
+I impute his failure to laziness. 我把他的失败归咎于他的懒惰
+They imputed the accident to the driver's carelessness.
+他们把事故归咎于驾驶员的疏忽
+grand         adj. 重大的；豪华的；宏伟的；壮丽的n. 大钢琴；一千美元
+This is a grand occasion. 这是个盛大的场面
+He was born in the purple and was brought up in the grand palace.
+他出身于皇族,在宏伟的宫殿中长大
+Get ready! Our 1st ML Twitter Debate is today at 3PM PT.
+Kaggle Competition Master (and Kaggle team member) @WalterReade, AKA Inversion, will debate: "is AI hyped too much, or not hyped enough?"
+hype           n. 夸大的广告宣传；<俚>皮下注射液；吸毒成瘾的人v. 大肆宣传；炒作；刺激
+The public are not fooled by all the hype the press gave the event.
+新闻界言过其实的种种报道并没有愚弄得了公众
+Why do they hype up an election?
+他们为什么要大肆宣传选举呢
+The first thing any data scientist would do with this problem, after checking a few basic sanity plots and maybe throwing away a couple of unncessary features, is to run a logistic regression model. 
+sanity         n. 神智健全；头脑清楚
+We have to do it in order to keep our sanity.
+我们这么做是为了保持心智健全
+Sanity and happiness are an impossible combination.
+睿智和幸福是无法兼得的
+sanitary     adj. 卫生的；清洁的    
+It's not sanitary to let flies come near food.
+让苍蝇接近食物是不卫生的
+sanitation         n. 公共卫生；卫生设备；下水道设施
+i can't be size_t type, when i=0,  --i it will be a plus
+plus         prep. 加；加上adj. 正的；超过的n. 正数；加号；优势conj. 并且   
+5 is a plus quantity. 五是一个正数 
+Two plus five is seven. 二加五等于七
+He seems to have mistaken a plus for a minus.
+他似乎把正号误作负号了
+plus sign 加号plus or minus 正或负,正负号(±)plus point 好的一面
+What is the difference between urllib and urllib2 modules of Python?
+You might be intrigued by the existence of two separate URL modules in Python - urllib and urllib2. Even more intriguing: they are not alternatives for each other. 
+intrigue       vt. 欺骗；激起 ... 的兴趣vi. 密谋n. 阴谋；私通；复杂的事 
+The shapes of clouds intrigue me. 云的形状激起我的兴趣
+The three of them were tangled in a large political intrigue.
+他们三人卷入了一起政治阴谋
+intrigue children 激起孩子的好奇心～+副词intrigue constantly 不断地耍阴谋～+介词intrigue against 阴谋反对intrigue with 对…感兴趣n.(名词)动词+～discover intrigue 发现阴谋engage in〔carry on〕 intrigue 搞阴谋诡计
+resp = requests.post('http://www.mywebsite.com/user', data=userdata)
+Plus it even has a built in json decoder (again, i know json.loads() isn't a lot more to write, but this sure is convenient):
+resp.json() Or if your response data is just text, use:  resp.text
+This is just the tip of the iceberg. This is the list of features from the requests site:
+iceberg        n. 冰山；冷若冰霜的人；（事物全貌的）一小部分；表面部分；显露部分；端倪初露的事物 
+Most of the iceberg is under the water. 冰山的大部分在水面以下。
+The ship was holed by an iceberg. 冰山把那船撞出了窟窿
+the tip of the iceberg 冰山一角arched iceberg 拱形冰山
+urllib2 can accept a Request object to set the headers for a URL request, urllib accepts only a URL. That means, you cannot masquerade your User Agent string etc.
+masquerade      n. 化妆舞会；伪装v. 伪装     
+They were all dressed up to attend the masquerade.
+他们都盛装去参加那个化装舞会
+The robbers got into the bank by masquerading as security men.
+劫匪假装成保安人员进入银行
+Netflix(Nasdaq NFLX) 成立于1997年，是一家在线影片租赁提供商，主要提供Netflix超大数量的DVD并免费递送，总部位于美国加利福尼亚州洛斯盖图。
+netflix       n. 出租DVD；在线观看电影的网站。
+mysqlworkbench save password in vault
+vault       n. 窖；穹；地下室；撑竿跳vt. 做成圆拱形；撑竿跳跃vi. 跳跃
+He was buried in the family vault. 他被安葬在家庭的墓穴里
+In medieval times, poets often called the sky "the vault of heaven".
+在中世纪时期，诗人常把天空叫作“苍穹
+I don't think I can vault over. The wall is so high.
+我想我跳不过去，这墙太高
+cable vault 电缆室vault light 地下室照明,地下室顶光
+bury       vt. 埋葬；隐匿；专心致志；抛弃
+The funeral is tomorrow and they will bury the body after the church service.
+葬礼明天举行，他们会在教堂仪式后埋葬遗体
+Request Parsing  Warning The whole request parser part of Flask-RESTful is slated for removal and will be replaced by documentation on how to integrate with other packages that do the input/output stuff better (such as marshmallow). 
+slate          n. 板岩；石板；石片；石板色；候选人名单adj. 暗蓝灰色的；含板岩的vt. 用石板覆盖；严厉批评；提名；预订
+Only a skilled workman can split slate into layers.
+只有能工巧匠才能把板岩劈成石片
+The idea got slated by the committee.这种意见遭到委员会严厉批评
+Did you scan the headline Green Slated for the Presidency?
+你有没有看格林被提名为总统候选人的大标题?
+Flask-RESTful’s request parsing interface, reqparse, is modeled after the argparse interface. It’s designed to provide simple and uniform access to any variable on the flask.request object in Flask.
+import io.netty.handler.codec.http.HttpRequest;
+netty      adj. 网状的
+loan         n. 贷款；借出v. 借；供应货款
+The bank will accommodate him with a loan. 银行将向他提供一笔贷款
+When we loan you cash, you blame us for your national debts.
+当我们借给你们钱时，你们又为债务而责怪我们
+discrete          adj. 不连续的；分离的
+mySociety is looking for an experienced developer with Ruby skills to work on our Democratic Commons project: a concept of open and shared democratic data where anyone can contribute, and anyone can benefit. We’re creating the core infrastructure, tools and data that will kickstart the Democratic Commons because we believe that the data that allow people to hold their own governments to account should be freely available to all.
+democratic       adj. 民主的；民主党的；大众的
+Many people were elected to take part in democratic involvement.
+很多人被选举参与民主管理
+If we want to live a peaceful and democratic life, we must object to wars.
+如果我们要过和平与民主的生活,就必须要反对战争
+Democratic Party 美国民主党social democracy 社会民主主义democratic synchronized network 等权共控通信网democratic leadership 民主领导democratic centralism 民主集中制democratic reforms 民主改革 
+annum       n. 年
+He can receive a salary of five digits per annum.
+他一年的薪金达到五位数
+festival benefit twice per annum 25428 RMB
+A bonus equal to one month's fixed pay will be paid on Nation Day and Lunar New Year.
+MBO Incentive:0%~25% of Salary + Festival Bonus
+It will be paid before the Lunar New Year of each year.And the amount depends 
+To the satisfaction of Project completion.During the probationary period,the employee is not entitled to the project incentive.
+Others:Meal allowance 25RMB/day
+lunar    adj. 月亮的；阴历的；银的
+The astronauts piloted their craft down to the lunar surface.
+宇航员驾驶宇宙飞船在月球表面降落
+Lunar eclipse occur when the earth's shadow fall on the moon.
+地球的影子落在月球上时,就发生月蚀
+lunar eclipse 月食lunar rocks 月岩
+lunar除作“月的,月球的”解外,还可指我国特有的历法,即“农历的”。
+nation     n. 国家；民族
+I was told that Spain is a romantic nation.
+有人告诉我说，西班牙是个浪漫的国家
+The nation levied all able-bodied man for the war.
+国家征召所有壮丁参战
+nation, country, state这组词都可表示“国家”。其区别是：country表示地理概念,侧重“疆土”,即一个国家的整个区域; nation侧重“人民”,指一个独立政府领导下的全体人民或整个民族的集合体; state则侧重“政权”,即独立的国家,也可指其政府。试体会下面两句中这三个词的含义:The United States is a nation of diverse peoples.美国是一个由不同民族组成的国家。That country is now an independent state.那个国家现在是个独立的国家
+incentive       adj. 刺激的；鼓励的n. 刺激；鼓励；动机
+Haier is operating with the mechanism of Incentive Management.
+海尔实行激励管理机制
+Incentives differ from country to country and region to region and are always highest in a depressed area.
+这些鼓励措施在国与国、地区与地区之间都不尽相同。一般萧条地区提供的鼓励最高
+动词+～give incentive 激发形容词+～chief〔main, major〕 incentive 主要动机greater incentive 更富有刺激
+probationary        adj.试用的；实习的；缓刑的；察看的
+After a six-month probationary period,she was confirmed in her post.
+经过六个月的试用期之后，她获准正式任该职
+I want to know the wage in my probationary period.
+我想问一下试用期我的工资是多少
+probation 试用期probationary period 试用期probationary appointment 试用
+probation          n. 试用期；缓刑
+We hope love can have a probation period.
+我希望爱情可以有试用期
+You promised to give me a pay raise after six-month probation.
+您答应过我六个月试用期后给我加薪
+on probation 试用academic probation 试读probation report 检定报告probation period 试用期during probation [经] 试用期间
+meal        n. 一餐；膳食n. 粗碾的谷物
+That restaurant provided us with a good meal.
+饭店给我们提供了美味的膳食
+Meal can be made from corn and used in a wide variety of foods.
+玉米粉是由玉米制成的,可以用于多种食品中
+meal的基本意思是“餐,饭”,是统称,可指早、中、晚餐。也可表示在一顿饭的时间,即“用餐时间”。meals则通常指餐桌上的“食品
+allowance        n.
+零用钱；津贴；限额，定量；允许；折扣；考虑
+I didn't receive any allowance from my father.
+我没有收到父亲给的零用钱
+allowance 的基本意思是“津贴,补助,零用钱”,这种津贴或补助一般是按一定规律或为某种特殊目的定时供应之物(多为钱),为可数名词。	allowance 可引申为“考虑,体谅”,此时既可作为可数名词,又可作为不可数名词使用,多用于make allowance(s) for结构中
+deserve a government allowance 享受政府津贴draw an allowance 领取津贴cost-of-living allowance 生活津贴extra allowance 额外津贴clothing allowance 服装津贴education allowance 教育津贴
+The slope and intercept of the data are contained in the model’s fit parameters, which in Scikit-Learn are always marked by a trailing underscore. Here the relevant parame‐ ters are  coef_ and  intercept_ 
+trail      n. 踪迹；小径；尾；一系列vi. 拖；落后于vt. 追踪；拖拽；尾随
+The dogs found the trail of the rabbit.
+猎狗发现了兔子的踪迹
+The bride's long skirt trailed along behind her.
+新娘的长裙拖在身后
+trail demurely 拘谨地跟随trail faithfully 忠诚地跟随trail behind 跟在…后头走trail behind the leaders 跟着领路的人discover〔find〕 the trail 发现行踪follow the trail 跟踪leave a trail 留下痕迹make a trail 开拓道路
+Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases(只考虑数字字母字符串，忽略大小写). 
+回文，英文palindrome，指一个顺着读和反过来读都一样的字符串，比如madam、我爱我
+palindrome           n. 回文（指顺读和倒读都一样的词语）
+The palindrome structure is one of the prominent features of Berg's Music.
+贝尔格作品中的回文结构是其音乐结构中非常突出的特征之一
+alphanumeric         adj. 含有字母数字的
+A name must contain at least one alphanumeric character.
+名称必须至少包含一个字母数字字符
+Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+For example, "A man, a plan, a canal: Panama" is a palindrome.
+"race a car" is not a palindrome.
+Note: Have you consider that the string might be empty? This is a good question to ask during an interview.
+For the purpose of this problem, we define empty string as valid palindrome.
+int isalnum( int ch );
+Checks if the given character is an alphanumeric character as classified by the current C locale. 
+检查给定字符是否为当前 C 本地环境分类为字母数字字符
+In the default locale, the following characters are alphanumeric:
+digits (0123456789)
+uppercase letters (ABCDEFGHIJKLMNOPQRSTUVWXYZ)
+lowercase letters (abcdefghijklmnopqrstuvwxyz)
+locale           n. 现场；场所
+Maybe, the first and the second shot, is not at the same locale.
+或许，前后两次枪击并不是在同一个现场击发的
+Marseilles is the locale of the novel. 马赛是这部小说的背景地点
+unsigned char c = '\xdf'; // German letter ? in ISO-8859-1
+std::cout << "isalnum(\'\\xdf\', default C locale) returned "
+               << std::boolalpha << (bool)std::isalnum(c) << '\n';
+
+std::setlocale(LC_ALL, "de_DE.iso88591")
+std::cout << "isalnum(\'\\xdf\', ISO-8859-1 locale) returned "
+              << std::boolalpha << (bool)std::isalnum(c) << '\n';
+isalnum('\xdf', default C locale) returned false
+isalnum('\xdf', ISO-8859-1 locale) returned true
+I'll walk through the post using Yhat's Python IDE, Rodeo, but you could also run the code from your terminal, if you're so inclined.
+incline      n. 倾斜；斜坡；斜面v. (使)倾向于；向前弯；(使)倾斜  
+The houses followed the curve of the road, which wound up a slight incline.
+这些房子沿着道路有些倾斜的曲线而建
+We incline towards the second alternative.
+我们比较同意第二种办法
+incline  one's ear to 倾听specially incline 特别想strongly incline  to 很赞成incline  for a walk 想去散散步
+We'll be using the same dataset as UCLA's Logit Regression in R tutorial to explore logistic regression in Python. Our goal will be to identify the various factors that may influence admission into graduate school.
+admission         n. 承认；入会费；许可
+He is a coward by his own admission. 他自己承认是个胆小鬼
+He was, on his own admission, impulsive by nature.
+他承认自己生性易于感情冲动
+apply for admission 申请加入deny admission 拒绝接收admission ticket 入场券～+介词admission into the Party 入党admission to 到…的许可
+admissible         adj. 可容许的；可准予就任某职位的
+The court ruled that the evidence was admissible.
+法院裁决说证据可以接受
+Such behaviour is not admissible among our staff.
+这种行为在我们职员中是不允许的
+The dataset contains several columns which we can use as predictor variables:
+gpa,   gre score,  rank (or prestige of an applicant's undergraduate alma mater)
+undergraduate           n. 大学生adj. 大学生的；大学的
+Regressing to history original facts and cultivating undergraduate's interest of study is an important way that may improve teaching effects.
+回归历史学科的本真，培养大学生的学习兴趣，是提高课堂教学效果的重要方式
+if ("/favicon.ico".equals(reqMethod))
+favicon       n. 与某个网站或网页相关联的图标
+Finally, I got time and here I am listing all the core java tutorial related posts that I think will help you in learning core java in no time.
+in no time       立即，马上
+Fiddler（中文名称：小提琴）是一个HTTP的调试代理
+fiddle      n. 小提琴；骗局v. 摆弄；浪费；拉小提琴
+He gave us a tune on his fiddle. 他用小提琴给我们奏了一个曲子
+You shall not fiddle away your spare time.
+你不该浪费你的业余时间
+immersive           adj. 使人沉醉的，拟真的，身临其境的   immerse       vt. 浸；陷入
+I immerse my clothes in the water. 我把衣服浸在水里
+immerse的基本意思是指某人把人或物“全部浸入”另一物(通常是水),引申可表示某人把全身心的精力投入到某事物中(常指书本等),即“沉浸于”“全神贯注
+immerse completely〔totally〕 完全沉浸于immerse deeply 深深地沉浸于
+immersion      n. 沉浸；浸入；专心；浸礼
+I think that the Christian Baptism is by immersion.
+我认为基督徒洗礼是浸洗
+immersion line 浸入线oil immersion 油浸immersion method 液浸法
+If you have visited this page before and wish to skip the preamble, click here to go directly to the calculator. 
+preamble       n. 前文；序文；前言
+He launched into his statement without any preamble.
+他开门见山地发表言论
+preamble block 前文块preamble section [计] 序部分preamble line 报头行beginning of preamble 前文开始preamble bit 附加信息位 
+beta            n. 贝它；希腊字母的第二个字母   A beta ray. β射线
+odd   adj. 奇数的；古怪的；零散的；剩余的
+使用每个变量系数的指数来生成odds ratio，可知变量每单位的增加、减少对录取几率的影响。例如，如果学校的声望为2，则我们可以期待被录取的几率减少大概50%。UCLA上有一个对odds ratio更为深入的解释
+odds      n. 机率；可能性；差别；投注赔率；让步；优势
+The odds are against us. 我们成功的机会很小
+His odds are very poor after he sprained his wrist.
+他扭伤了手腕，获胜的可能性极小
+beat the odds 战胜不利条件give odds 打赌,猜测 
+The result object also lets you to isolate and inspect parts of the model output. The confidence interval gives you an idea for how robust the coefficients of the model are.
+当然你也可以只观察结果的某部分，如置信区间(confidence interval)可以看出模型系数的健壮性。 
+lambda function anonymous 
+anonymous         adj. 匿名的；无名的；没特色的  
+It is unpleasant to receive anonymous letters.
+接到匿名信是一件令人不快的事
+The man was arrested after an anonymous tip-off.
+有人匿名举报后，那个人被抓了起来
+coefficient      n. 系数
+The Comprehensive Guide for Feature Engineering
+might involve some data wrangling 
+wrangle          v. 争论；吵架n. 争吵  
+The children wrangle about who should sit in front. 孩子们为了谁该坐在前面而争吵 
+They were involved in a long legal wrangle over payment.
+他们在付款问题上陷入长期纠纷 
+The way you present your data to your algorithm should denote the pertinent structures/properties of the underlying information in the most effective way possible. 
+pertinent          adj. 中肯的；相关的；切题的；恰当的
+The expert made some pertinent comments on the scheme.
+那专家对规划提出了一些中肯的意见 
+pertinent data 相应的资料pertinent certificate [法] 有关证件pertinent literature 切题文献, 对口资料
+If you suspect there are relationships between times and other attributes, you can decompose a date-time into constituent parts that may allow models to discover and exploit these relationships. 
+Time-stamp attributes are usually denoted by the EPOCH time or split up into multiple dimensions such as (Year, Month, Date, Hours, Minutes, Seconds). 
+constituent         n. 成分；选民；构成物adj. 构成的；组织的；立宪的 
+Do you know the constituents of the mixture?
+你知道这种混合物的成分吗 
+People always is finite to constituent information.
+人们对组织的信息总是有限的 
+constituent, component, element, factor, ingredient这组词都可作“成分,要素”解。其区别是：1.element指整体中的任何部分,有时指整体中那些重要、必需或基本的部分。2.component指与其他部分组合起来发生电能的某一部分。3.constituent通常指整体中必不可少的组成部分,它跟整体融合在一起而丧失了自身的独立性。4.ingredient是个比较笼统的词,主要指混合物的成分。5.factor指能使或有助于整体产生某种具体和明确的结果或使事物朝某个特定方向运动的因素或要素 
+Feature extraction involves a host of algorithms that automatically generate a new set of features from your raw attributes. Some observations are far too voluminous in their raw state to be modeled by predictive modeling algorithms directly 
+voluminous           adj. 卷数多的；大部头的；大量的；著书多的
+This is the creation of Tolstoy's first volume rank voluminous novel.
+这是托尔斯泰创作的第一部卷秩浩繁的长篇小说 
+Common examples include image, audio, and textual data, but could just as easily include tabular data with millions of attributes. 
+tabular        adj. 制成表的；扁平的
+The results are presented in tabular form. 结果以表格形式列出 
+tabular presentation 图表tabular statement 计算表 
+The pipeline module of scikit-learn allows you to chain transformers and estimators together in such a way that you can use them as a single unit. This comes in very handy when you need to jump through a few hoops of data extraction, transformation, normalization, and finally train your model (or use it to generate predictions) scikitlearn. 
+hoop           n. 箍；铁环；裙撑；呼呼声v. 加箍于；包围；发呼呼声
+The worker bent an iron rod into a hoop. 工人把铁条弯成箍
+hula hoop 呼拉圈go through the hoop 历尽沧桑hoop skirt 有箍衬裙hoop snake 环箍蛇(产于美国)hoop reinforcement 环箍钢筋,箍筋 
+In this blog post I’ll try to cover some of the more popular approaches for feature selection and their pros, cons and gotchas along with code samples in Python and scikit-learn.  
+Climbing Stairs爬楼梯——动态规划 
+climb         v. 攀登；爬；上升n. 爬；攀爬处 
+We go to climb mountains every Sunday. 每个星期天我们都去爬山 
+primal         adj. 最初的；原始的；主要的
+primal dual algorithm 原始对偶算法primal system 最初系统primal dual method 原始对偶法primal objective function 原始目标函数 
+0-1 Knapsack Problem - Dynamic Programming 
+knapsack       n. 背包 
+Will my sweater go in your knapsack? 你的背包里还放得下我的球衣吗 
+knap             vt.  打碎； 割断； <英口>叩击； 喋喋不休n.  <方言>山顶； 小山； 丘陵
+Applicable for plains, mountains, wetlands, knap, rural area and highway transportation of bulk cargoes; with solid structure; beautiful, safe, reliable, durable.
+详细信息：适用于平原、山区、沼泽、丘陵、农村以及公路运输各类散装货物，该类车型结构牢固、造型美观、安全可靠、经久耐用 
+sack       n. 袋子；解雇vt. 解雇；把 ... 装入袋子；劫掠 
+He tumbled his clothes and books into a big sack.
+他把他的衣服和书胡乱装进一只大口袋
+The poor guy got the sack yesterday. 那个可怜的家伙昨天给辞退了  
+If you are late again, the boss will sack you.
+如果你再迟到,老板就会解雇你
+The child sacked the toys and went to bed.
+那个孩子把玩具装进了袋子,然后上床睡觉 
+Since this is a 0-1 knapsack problem hence we can either take an entire item or reject it completely. We can not break an item and fill the knapsack. 
+get the sack 被解雇give sb the sack 解雇某人have the sack for being lazy 因懒惰被解雇put the sack on sb's back 把麻袋放在某人背上查看更多 收起名词+～mail sack 邮包    sack the grain 装粮食sack a person 解雇某人sack the potatoes 装土豆sack the rice 装大米sack a town 洗劫某城查看更多 收起～+副词sack in〔out〕 上床睡觉sack up 获取利润sack for 因…而解雇(某人
+Recall of the Divide-and-Conquer     分治
+conquer            vt. 征服；克服；战胜vi. 得胜
+Conquer the desire, or they will conquer you.
+你不战胜欲念，欲念就会征服你
+If we want light, we must conquer darkness.
+我们要光明，就得征服黑暗 
+conquer, defeat, overcome, win这组词都可表示“获胜”“打败”。其区别是：win表示“获胜”“赢得”,指在竞赛或战斗中击败对方,宾语一般是战役或胜利等; conquer表示“征服”,此词应用范围很广,既可指靠武力或精神道德方面的力量使对方屈服,又可指在排除障碍和阻力后取得胜利,该词强调的不仅是击败对方,而且还包括使对方就范; defeat应用范围也很广,但不像conquer那样含有彻底击败或征服的意思,而是强调暂时的胜利; overcome的意思是“克服”“战胜”,既可用于战斗或任何竞赛,又可用于感情、习惯等方面,强调压倒或胜过。例如:There has been a tremendous international effort to conquer cancer.全世界已作出了巨大努力来征服癌症。They acknowledged having been defeated.他们承认被打败了。We have the courage to overcome difficulties.我们有战胜困难的勇气
+conquer，overcome，overthrow，defeat，beat，subdue这些动词均含“征服，战胜”之意。conquer侧重战胜和控制。书面用词。overcome多指战胜或克服非物质的东西，如困难和不良习惯等。语气较弱也可指在斗争或竞争中战胜或压倒对方。overthrow指彻底击败对手，使其丧失力量和地位。defeat普通用词，多指在战争、比赛、竞选或辩论中战胜对手，侧重胜利的暂时性。beat口笔语均可用，可与defeat换用。subdue正式用词，与conquer同义，但强调失败后的臣服状态；也可用作借喻，表克制、压抑感情、欲望等
+We trade space for time.
+trade       n. 贸易；交易；行业；同行；顾客；营业额；交易量v. 做生意；从事贸易；购物；营业；(在证券交易所)交易；交换
+build up trade 发展商业carry on trade 经商,做生意develop trade 发展商业encourage trade 鼓励贸易engage in trade 做买卖expand trade 扩大贸易go into trade 经商lose trade 失去生意,失去贸易机会open up trade 开发贸易promote trade 促进贸易restrict trade 限制贸易enter a trade 步入某一行业follow a trade 从事一种职业give up a trade 放弃一种职业learn a trade 学一门手艺play a trade 从事某一行业practice a trade 从事某一行业take up a trade 从事一种职业查看更多 收起形容词+～fair trade 公平贸易foreign trade 对外贸易,国际贸易free trade 自由贸易international trade 对外贸易,国际贸易large trade 大宗生意lively trade 生意兴隆overseas trade 对外贸易查看更多 收起名词+～border trade 边境贸易drug trade 毒品贸易export trade 出口贸易slave trade 奴隶买卖transit trade 过境贸易,转口贸易service trade 服务行业the news trade 新闻业查看更多 收起～+名词trade agreement 贸易协定trade balance 贸易平衡trade union 工会查看更多 收起介词+～by trade 以…为职业in trade 做小买卖,开铺子a trick of the trade 做生意的诀窍查看更多 收起～+介词trade among… 之间的贸易trade at village fair 集市贸易trade between… 之间的贸易查看更多 收起v.(动词)～+名词trade books 交换书trade places 交换位置trade seats 交换座位trade stamps 交换邮票查看更多 收起～+副词trade extensively 大量地做生意trade away 卖掉,换掉trade down 以高价物品交换廉价物品trade off 轮流,交替trade out 出卖trade out principles 出卖原则trade up 将手中的东西折价换取更重要的同类东西查看更多 收起～+介词trade at the store 在商店买东西trade sth for a hat 用…换一顶帽子
+Univariate feature selection examines each feature individually to determine the strength of the relationship of the feature with the response variable. 
+univariate        adj. [统]单变（量）的；一元的
+univariate analysis 单变量分析，一元分析
+

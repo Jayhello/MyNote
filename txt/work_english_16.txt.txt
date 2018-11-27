@@ -1,0 +1,655 @@
+====================================
+1~16（上部分1-15已经打印12-6）
+Akka vs. Finagle vs. Storm
+Akka, Finagle and Storm are 3 new open source frameworks for distributed parallel and concurrent programming.
+They are very useful for many common problems:
+Real-time analytics    实时数据分析   Complex website with different input and outputs  
+Finance     金融   Multiplayer games     多人在线游戏  Big data   
+Akka v0.6 was released in 2010. Akka is now at v2.2 and is maintained by TypeSafe the company that maintain Scala and it part of their stack. It is written in Scala and Java.
+Akka 0.6版本在2010年第一次发布。现在版本是2.2，由TypeSafe负责更新维护（Scala也是由该公司更新维护），Akka由Scala和Java实现
+Akka is based on the Erlang language that was developed to handle telecom equipment and be highly parallel and fault tolerant.
+1）Akka基于Erlang语言，Erlang语言出要用于电信系统，具有很好的并发性和容错机制；
+Akka gives you very fine grained parallel programming. You split you tasks up into smaller sub tasks and have a lot of actors compute these tasks and communicate the result.
+2）Akka可以极大地简化并行处理程序的开发，你需要将任务划分成更小的字任务，这些字任务由大量的actors来处理；
+Works well for two way communication.
+3）可以实现双向通讯；
+An actor that can communicate with mailboxes and they are single threaded.
+4）Actor间通过邮箱地址相互通讯，每个Actor都是单线程执行；
+The motto of Akka's team is: Let it fail early.
+5）Akka的原则是：如果有错误，就让他尽早出现
+If an actor fails Akka has different strategies for recovery.
+6）当一个Actor失效时，Akka有多种恢复机制
+Actors can have share access to an object on one machine, e.g. a cache.
+7）多个Actor可以共享的访问一个资源，如果cache
+Communication between different actors is very simple, it is just a method call and it will give you a future to a value.
+Actors are very lightweight, you can have 2.7 million actors per GB of heap. 
+8）Actor是轻量级的，1GB内存中可以创建2700000个Actor
+There is a executions context with shared thread pool.
+9）在Akka的线程池中，有一个执行时上下文（execution context）
+This works well when there is IO bound computations.
+10）在带宽受限的情况向，Akka工作良好；
+Turns computation into a Future, a monadic composable asynchronous computation.
+11）未来将会实现异步的原子计算
+Incorporate dataflow variables from a research language called Oz.
+12）将通过Oz语言引入数据流变量
+monadic        adj. 单元的；单细胞生物的；[化]一价物的
+monadic operand   一元运算对象,一元操作数    monadic indicant 一元指示符  monadic operation 单值[单项]运算
+agnostic        n. 不可知论者adj. 不可知论的；不可知论者的
+Use cases  应用场景： 
+Agents， Simulations， Social media ， Multiplayer game ， Finance， Online betting
+1）代理 2）建模 3）社会媒体 4）多人在线游戏 5）金融 6）在线赌博 
+bet        v. 打赌；确信无疑n. 赌注；确信
+I bet that he's lost all his money in the gamble.
+我肯定他在赌博中输掉了所有的钱
+I ventured a small bet on the horse.
+我在那匹马上下了一小笔赌注
+My bet is they've got held up in the traffic.
+我想他们一定是在路上因交通拥挤而受阻了
+bet money 赌钱～+介词bet against sb's winning 肯定某人不会赢bet on 就…打赌
+gamble      v. 赌博；冒险；孤注一掷n. 赌博；冒险
+He spends all his time gambling in the casino.
+他把时间都消磨在赌场的赌博上
+gamble用作名词的意思是“赌博; 冒险”,转化为动词意思是“赌博,打赌”“投机”“冒风险”
+casino      n. 娱乐场；赌场；一种牌戏      nightclub     n. 夜总会
+I took a trip to a casino to play the slots.
+我去娱乐场玩了一下老虎机
+He usually divides his holidays between the beach and the casino.
+他的假期通常是在海滨和娱乐场间度过的
+online casino 网上赌博
+https://www.programcreek.com    creek     n. 小湾；小溪 Creek.n. 克里克族；克里克人；克里克语
+There are often wild ducks swimming in the creek.
+小溪中常有野鸭戏水
+creek, branch, brook, canal, river, stream, torrent这组词的共同意思是“流水的通道”。其区别是：1.除canal指人工开挖的河流或渠道外，其余各词均指自然形成的水道。2.river和torrent均指流量较大的河流，river可泛指(自然形成的)江河；torrent则特指急流、湍流。这两个词还常用于比喻。3.stream可指大河，也可指小河或小溪，指小溪时与brook,creek同义。creek侧重其狭长蜿蜒，缓缓流动，且多流入大河或湖泊。brook侧重发源于山泉。creek和stream都比brook大。stream还可引申表示事物连绵不断。4.branch指江河的支流
+SSL：（Secure Socket Layer，安全套接字层），为Netscape所研发，用以保障在Internet上数据传输之安全，利用数据加密(Encryption)技术，可确保数据在网络上之传输过程中不会被截取
+TLS：(Transport Layer Security，传输层安全协议)，用于两个应用程序之间提供保密性和数据完整性
+Originality: Content should be original material written for Linode. We will not accept submissions which are duplicated from other sources.
+originality        n. 独创性；创造力；新颖
+Einstein was distinguished for his originality.
+爱因斯坦以其独创性称著
+Use promo code DOCS10 for $10 credit on a new account.
+promo        n. 商品推销；商品广告；广告片
+Promo is open to all new Dream subscribers.
+促销是开放给所有用户的新梦想
+If you have a Promo Code, please enter it here.
+如果你有推广代码，请在这里输入
+GeeksforGeeks A computer science portal for geeks
+portal        n. 入口；大门；门静脉；[计]门户adj. 门静脉的；肝门的
+I think they are standing at the portals of happiness now.
+我认为他们现在是站在通向幸福的路口了
+The portal of the mansion looks magnificent.
+这座大厦的正门看上去富丽堂皇
+curator           n. (博物馆、展览馆等的)馆长；管理者
+The curator has mentored a lot of college students.
+这位馆长教导了很多大学生
+curate         n. 副牧师；助理牧师；瑕瑜互见之物v. 管理(博物馆展品等)；担任牧师
+The curate reprimanded his carelessness.
+副牧师斥责了他的粗心大意
+premium      n. 额外费用；奖金；保险费n. (商)溢价adj. 高价的；优质的
+Who will pay the premium for the risk of breakage?
+加保破碎险的费用由谁负担
+He's had to lay his car up for he can't afford the insurance premiums.
+因付不起保险费他只得把汽车搁置起来
+We would like to see more premium gasoline provided in the market.
+我们希望市场上能提供更多的优质汽油
+insurance premium 保险费call premium 赎回溢价premium system 分红制premium returns 额外利润premium pay 加班费
+Endorsers who are highly skilled at Machine Learning (based on their experience, skills, and more)
+endorse         vt. 赞同；支持；背书于
+I am afraid I can't endorse your opinion. 很抱歉，我不赞成你的意见
+I fully endorse their approach. 我完全赞同他们的工作方针
+Scripts for Swag
+The authors of the 3 most up-voted scripts for this competition will get their choice of an official Kaggle hoodie, t-shirt, or mug!
+hoodie          n. 有冠乌鸦；风帽衣；连帽上衣
+mug       n. 脸；杯；一杯的量；恶棍v. 打劫；突击学习
+I was walking out to my car when a man tried to mug me.
+我正朝汽车走去,突然有人试图抢劫我
+swag        n. <古俚>赃物；流浪者的行囊；装饰性帷幕；垂花饰；洼地v. 颠簸或摇摆；背包旅    
+We fought to show that aggression does not pay and that the robber cannot be allowed to get away with his swag.
+我们打这一仗，是要让世人看看，侵略得不偿失，绝不能让强盗带着赃物逃脱
+dispute           . 争论；辩驳；争议；质疑n. 争论；争端；争吵
+The couple disputed where to spend the holiday.
+夫妻俩为上哪儿度假而发生争论
+Workers are in dispute with management about the redundancies.
+劳方现就裁员问题与资方争论
+The dispute was settled last week. 争端在上周解决了
+pd.Series({2:'a', 1:'b', 3:'c'}, index=[3, 2])
+Out[17]: 3 c 2 a dtype: object
+Notice that in this case, the  Series is populated only with the explicitly identified keys.
+populate        v. 构成人口；居住于；【计】填入
+If you have used the NumPy patterns, the corresponding patterns in Pandas will feel very famil‐ iar, though there are a few quirks to be aware of.
+quirk        n. 怪癖；急转
+The most annoying quirk of his is wearing a cap all the time.
+他最令人感到厌恶的怪癖就是无论何时都戴著帽子
+frame      n. 骨架；身躯；结构；框；帧v. 表达；制定；把 ... 框起来；陷害
+I do not have a CS degree or any degree either. I flunked at the end of my uni course. But I had a job during studies and I already had some experience when I left the university.
+flunk         v. （使）失败；（使） 考试不及格n. 失败；不及格
+Several students have been flunked out.
+有几名学生因考试不及格而被迫退学
+If you flunk finals you don't get the chance to do them again.
+若你最后考试失败，你没有再做一次的机会了
+flunk out 退学,因考试不及格而退学的人
+i'm just so split... i've been spending a lot of time coding android project, but everyone seems to look at android and web development literally with disgust makes me wonder if i should just completely stop web/mobile dev and go 100% algorithm
+why do something that is so spited
+disgust        n. 厌恶；憎恶；反感vt. 使厌恶；使作呕
+His behavior filled her with disgust. 她对他的行为充满了厌恶
+The use of torture must disgust any civilized person.
+施用酷刑必为文明社会的人所不齿
+arouse〔feel〕 disgust 引起〔感到〕厌恶express〔show〕 disgust 表示厌恶disgust excessively 极其厌恶disgust thoroughly 厌恶透了～+介词be disgusted at〔by, with〕 厌恶…
+disgust, dislike, hate这组词都有“厌恶”的意思。1.disgust强调的是“使人反感”; dislike和hate强调的是人对某些人〔物,事〕反感。2.dislike用于正面意义; 而hate则有时含有敌意,有伤害对方的欲念。3.dislike是普通用词,可用于各种程度的厌恶; 而hate的语气要比disgust和dislike强烈得多
+spit      n. 唾液；小雨；烤肉叉；海峡；酷似；彻底的擦洗v. 吐口水；吐出；厉声说出；下小雨；(指火、熬热的油脂等)毕剥作响；用烤肉叉叉住；彻底地擦洗设备
+star as interesting  flag as spam/offensive
+offensive         adj. 令人不快的；冒犯的；侮辱的；与进攻有关的n. 攻势；攻击
+offense      n. 过错；冒犯；触怒；犯规；犯罪；进攻
+Others assume it's a victimless offense.
+也有些人认为这是无害过错
+That dirty old house is an offense to the eye.
+那幢肮脏的旧房子令人看了很不舒服
+give offense to  触怒(使 ... 生气give offense  触怒(使 ... 生气criminal offense 犯罪
+hobby       n. 业余爱好
+Online temple for Goddess of hacking   ping your high priestess for better coding skills
+priestess         n. 尼姑；女祭司；女神职人员
+He doubted the priestess would have believed him.
+他不清楚女祭司是否相信他
+The priestess drew a slender black wand from her belt.
+女祭司从腰间拿出一只黑色细杖
+high priest 主教high priestess 女高僧; 女祭司; 女领袖; 女权威
+priest         n. 教士；神父；牧师；僧侣；泰斗
+A priest exorcized the ghost from the house. 教士将鬼从房屋中驱走
+The priest confessed the young man. 神父听取那个青年的忏悔
+priest, minister, vicar这三个词都可表示“牧师”。其区别在于:基督教的牧师用minister; 而罗马天主教的牧师用priest; 英国国教的牧师用vicar。例如:The minister begged the worshippers to strive against evil.牧师要求信徒们与邪恶斗争。The priest wore a coarse woollen garment next to his skin.牧师最里面穿了一件粗糙的毛衣。Marriage by a vicar is lawful in England without another ceremony.在英国,由牧师证婚的婚姻即使没有别的仪式也是合法的
+high priest 大祭司the officiating priest 司祭介词+～confess to a priest 向牧师忏悔～+介词priest of art 艺术大师
+confess         v. 承认；供认；告解；听取忏悔
+I confess you are right on one point. 我承认你在某一点上是正确的
+He confessed that he had never seen her before. 他承认以前从未见过她
+confess a crime 认罪confess one's faults 认错误confess the letter (to be) a forgery 承认这封信是伪造的confess one's love 坦陈爱慕之意confess one's mistakes 认错confess one's sins 忏悔罪过查看更多 收起～+副词confess soon 很快承认confess candidly〔frankly, honestly〕 坦率地承认
+Most of the meat of the implementation is in C code, here in multiarray, but you can start looking at the ndarray interfaces here:
+meat       n. 肉；主要或重要部分
+Here we compute the fraction of people under 18 by year, given the above data:
+fraction        n. 小部分；少许；分数；片段
+Mother's careful with her money, and spends only a fraction of her earnings.
+母亲用钱很审慎,只花自己收入很小的一部分
+reduce a fraction 简化分数形容词+～common fraction 普通分数improper〔proper〕 fraction 假〔真〕分数
+When multiple lines are being shown within a single axes, it can be useful to create a plot legend that labels each line type. Again, Matplotlib has a built-in way of quickly creating such a legend. It is done via the (you guessed it)  plt.legend() method.
+legend           n. 传说；传奇；图例
+According to the old legend, Romulus was the founder of Rome.
+按照古老的传说，罗穆卢斯是古罗马的建国者
+legend text 图例文字delete legend 删除图例
+We can produce pivot tables from this data very easily:  pd.pivot_table(df, values='D', index=['A', 'B'], columns=['C'])
+pivot         n. 枢；中心；旋转adj. 在枢轴上转动的；关键的vt. 装枢轴于；以 ... 为中心vi. 在枢轴上转动
+Container With Most Water: Note: You may not slant the container.
+slant      n. 倾斜；斜面；个人的观点或见解；倾向性；偏见vt. 使倾斜；歪曲vi. 倾斜
+The wooden floor has a noticeable slant. 这木地板可以看得出有些倾斜
+Has your roof a sharp slant? 你的屋顶是否有一个陡峭的斜面
+She slanted the report so that I was made to appear incompetent.
+她做出歪曲报道好让我显得无能
+slant distance 直线距离,斜距
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+trap         n. 圈套；陷阱；困境；双轮轻便马车；U（或S）型管道；防臭瓣v. 设圈套；陷入（困境）
+I highly recommend going through that before reading further. It will help you bolster your understanding of boosting in general and parameter tuning for GBM.
+bolster        n. 长枕；靠垫vt. 支持；鼓励
+There is a bolster across the head of the bed. 床头上有一个长枕垫
+We always bolster up the government in its struggle against terrorism
+我们始终支持政府的反恐怖主义的斗争
+This article is inspired by Owen Zhang’s (Chief Product Officer at DataRobot and Kaggle Rank 3) approach shared at NYC Data Science Academy. He delivered a ~2 hours talk and I intend to condense it and present the most precious nuggets here.
+nugget      n. 金属块；有价值的小东西；有用信息；（鸡）块
+The terrorists out there use every nugget of information to help develop their master plan.
+那些恐怖主义分子是在利用一切重要情报帮助实现他们的总计划
+gold nugget 块金coconut nugget 椰子牛轧糖
+Did I whet your appetite ? Good. Refer to these articles (focus on GBM right now):
+whet      n. 磨；磨利之物；开胃物v. 磨（刀）；刺激（欲望、兴趣）    
+This product is suitable for fixing and throwing light whet superficially after welding.
+本产品适用于焊接前坡口及焊接后缝焊表面的修磨
+Reading travel brochures whetted his appetite for a holiday.
+他看了旅游手册就巴不得去度假
+whet someone's appetite 引起某人的食欲
+I’ve always admired the boosting capabilities that this algorithm infuses in a predictive model. 
+infuse        vt. 注入；使获得；鼓舞；泡制；倾注（液体）
+We must infuse new blood into the Party.
+我们必须给党注入新鲜血液
+infuse a new life into 赋予生机infuse new blood into 给增加新的成员infuse new life into 给予生气,给予活力,赋与生机
+seed [default=0] 
+The random number seed.
+Can be used for generating reproducible results and also for parameter tuning.
+seed    n. 种子vi. 播种；(植物)结实vt. 播种
+Interleaving String   Given s1,s2,s3, find whether s3 is formed by the interleaving of s1 and s2.
+For example, Given: s1 = "aabcc", s2 = "dbbca",  When s3 = "aadbbcbcac", return true.
+interleave           v. 插入空白纸页；插入；交错
+名为Print Spooler的打印机服务
+spool       n. 线轴；缠线用的卷盘v. 缠绕；卷在线轴上
+The film fly off the spool and wind itself round the projector.
+电影胶片从卷轴滑出缠绕在放映机上了
+supply spool 供卷筒,供片盒tape spool 带盘    spool job 假脱机作业, 伪脱机作业
+spooler       络纱机,筒子车,绕卷轴工人
+Time Complexity: O(MN) Auxiliary Space: O(MN)    
+auxiliary           n. 助动词；辅助物；帮助者adj. 辅助的；附加的 
+She is an auxiliary nurse. 她是一名助理护士
+We have an auxiliary generator in case of power cuts.
+我们有一台万一断电时使用的备用发电机
+auxiliary engine 辅助发动机
+If so, how important would this variable be? (e.g. What is the impact of having 'Excellent' material on the exterior instead of 'Poor'? And of having 'Excellent' instead of 'Good'?).
+exterior          n. 外部；外表；外景adj. 外部的；表面的；对外的；户外的
+1. The XGBoost Advantage XGBoost的优势
+I’ve always admired the boosting capabilities that this algorithm infuses in a predictive model. When I explored more about its performance and science behind its high accuracy, I discovered many advantages:
+XGBoost算法可以给预测模型带来能力的提升。当我对它的表现有更多了解的时候，当我对它的高准确率背后的原理有更多了解的时候，我发现它具有很多优势：
+High Flexibility高度的灵活性
+XGBoost allow users to define custom optimization objectives and evaluation criteria.
+XGBoost 允许用户定义自定义优化目标和评价标准
+This adds a whole new dimension to the model and there is no limit to what we can do.
+它对模型增加了一个全新的维度，所以我们的处理不会受到任何限制。
+Tree Pruning:剪枝
+A GBM would stop splitting a node when it encounters a negative loss in the split. Thus it is more of a greedy algorithm.
+当分裂时遇到一个负损失时，GBM会停止分裂。因此GBM实际上是一个贪心算法。
+XGBoost on the other hand make splits upto the max_depth specified and then start pruning the tree backwards and remove splits beyond which there is no positive gain.
+XGBoost会一直分裂到指定的最大深度(max_depth)，然后回过头来剪枝。如果某个节点之后不再有正值，它会去除这个分裂。
+Another advantage is that sometimes a split of negative loss say -2 may be followed by a split of positive loss +10. GBM would stop as it encounters -2. But XGBoost will go deeper and it will see a combined effect of +8 of the split and keep both.
+这种做法的优点，当一个负损失（如-2）后面有个正损失（如+10）的时候，就显现出来了。GBM会在-2处停下来，因为它遇到了一个负值。但是XGBoost会继续分裂，然后发现这两个分裂综合起来会得到+8，因此会保留这两个分裂。
+Built-in Cross-Validation内置交叉验证
+XGBoost allows user to run a cross-validation at each iteration of the boosting process and thus it is easy to get the exact optimum number of boosting iterations in a single run.
+XGBoost允许在每一轮boosting迭代中使用交叉验证。因此，可以方便地获得最优boosting迭代次数。
+This is unlike GBM where we have to run a grid-search and only a limited values can be tested.
+而GBM使用网格搜索，只能检测有限个值
+Continue on Existing Model在已有的模型基础上继续
+User can start training an XGBoost model from its last iteration of previous run. This can be of significant advantage in certain specific applications.
+XGBoost可以在上一轮的结果上继续训练。这个特性在某些特定的应用上是一个巨大的优势。
+GBM implementation of sklearn also has this feature so they are even on this point.
+sklearn中的GBM的实现也有这个功能，两种算法在这一点上是一致的
+XGBoost Parameters  XGBoost的参数
+The overall parameters have been divided into 3 categories by XGBoost authors:
+XGBoost的作者把所有的参数分成了三类： 
+General Parameters: Guide the overall functioning
+1、通用参数：宏观函数控制。 
+Booster Parameters: Guide the individual booster (tree/regression) at each step
+2、Booster参数：控制每一步的booster(tree/regression)。 
+Learning Task Parameters: Guide the optimization performed
+3、学习目标参数：控制训练目标的表现。 
+
+Booster Parameters
+Though there are 2 types of boosters, I’ll consider only tree booster here because it always outperforms the linear booster and thus the later is rarely used.
+eta [default=0.3]
+Analogous to learning rate in GBM
+Makes the model more robust by shrinking the weights on each step 通过减少每一步的权重，可以提高模型的鲁棒性
+Typical final values to be used: 0.01-0.2
+min_child_weight [default=1]
+Defines the minimum sum of weights of all observations required in a child.
+决定最小叶子节点样本权重和。
+This is similar to min_child_leaf in GBM but not exactly. This refers to min “sum of weights” of observations while GBM has min “number of observations”.
+和GBM的 min_child_leaf 参数类似，但不完全一样。XGBoost的这个参数是最小样本权重的和，而GBM参数是最小样本总数。
+Used to control over-fitting. Higher values prevent a model from learning relations which might be highly specific to the particular sample selected for a tree.
+这个参数用于避免过拟合。当它的值较大时，可以避免模型学习到局部的特殊样本。
+Too high values can lead to under-fitting hence, it should be tuned using CV.
+但是如果这个值过高，会导致欠拟合。这个参数需要使用CV来调整。
+gamma [default=0]
+A node is split only when the resulting split gives a positive reduction in the loss function. Gamma specifies the minimum loss reduction required to make a split.
+在节点分裂时，只有分裂后损失函数的值下降了，才会分裂这个节点。Gamma指定了节点分裂所需的最小损失函数下降值。
+Makes the algorithm conservative. The values can vary depending on the loss function and should be tuned.
+这个参数的值越大，算法越保守。这个参数的值和损失函数息息相关，所以是需要调整的
+conservative         adj. 保守的；守旧的n. 保守派(党)；保守的人
+Old people are usually more conservative than young people.
+老年人通常比年轻人保守
+conservation     n. 保存；保护；守恒；节约
+environmental conservation 环境保护名词+～forest conservation 森林保护
+subsample [default=1]
+Same as the subsample of GBM. Denotes the fraction of observations to be randomly samples for each tree.
+和GBM中的subsample参数一模一样。这个参数控制对于每棵树，随机采样的比例。
+Lower values make the algorithm more conservative and prevents overfitting but too small values might lead to under-fitting.
+减小这个参数的值，算法会更加保守，避免过拟合。但是，如果这个值设置得过小，它可能会导致欠拟合
+
+Learning Task Parameters  学习目标参数
+These parameters are used to define the optimization objective the metric to be calculated at each step.  这个参数用来控制理想的优化目标和每一步结果的度量方法
+objective [default=reg:linear]
+binary:logistic –logistic regression for binary classification, returns predicted probability (not class)
+multi:softmax –multiclass classification using the softmax objective, returns predicted class (not probabilities)
+multi:softprob –same as softmax, but returns predicted probability of each data point belonging to each class.
+
+eval_metric [ default according to objective ]
+The metric to be used for validation data.对于有效数据的度量方法
+The default values are rmse for regression and error for classification.
+Typical values are:
+rmse – root mean square error
+mae – mean absolute error
+logloss – negative log-likelihood
+error – Binary classification error rate (0.5 threshold)
+merror – Multiclass classification error rate
+mlogloss – Multiclass logloss
+auc: Area under the curve
+You can see from this paper on XGBoost’s first major debut in the Higgs-Boson Kaggle competition that XGBoost has a nice speed advantage over sklearn. Here is Figure 3 from the paper:
+debut          n. 首次露面；初次登场v. 初次登场；首次推出
+His debut marks him out for future success.
+他的首次亮相预示了将来的成功
+He decided to debut with several other violinists.
+他决定与其他几名小提琴手一起首次登台演出
+film debut 初次扮演电影角色screen debut 初上银幕successful stage debut 成功的初次登台演出查看更多 收起～+介词the debut of the latest fashion 最新时装的首次出现
+Applying Ordinal Encoding to Categoricals
+Ordinal        n. 序数词adj. 序数的；依次的
+starter bundle
+bundle        n. 捆；束；包；大笔钱v. 捆；把 ... 扎成一捆；匆忙地走
+Can you bundle up the sheets for me?
+你能替我将这些单子捆起来吗
+make up a bundle 扎成一包     bundle of newspapers 一卷报纸
+Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+wangle       v. （用计谋等）得到；取得
+He was trying to wangle his way onto the committee.
+他千方百计想钻入委员会中
+wangle something out of someone 从某人处骗得某物
+A solution to this problem is a procedure called cross-validation (CV for short).
+Following are the parameters we will be talking about in more details (Note that I am using Python conventional nomenclatures for these parameters)
+nomenclature          n. 命名法；命名；术语
+mstch is a complete implementation of {{mustache}} templates using modern C++
+mustache          n. 髭；小胡子；（动物）触须
+His father shaved off his mustache. 他的父亲剃了小胡子
+Resource	Requirement Compiler	C++11 compliant or above
+compliant     adj. 适用的；顺从的
+EDA (Exploratory Data Analysis)，也就是对数据进行探索性的分析，从而为之后的处理和建模提供必要的结论
+Outlier      Scaling 的坐标数据。可以发现右上角存在一些离群点，去除以后分布比较正常
+Understand the problem. We'll look at each variable and do a philosophical analysis about their meaning and importance for this problem.
+philosophical         adj. 哲学的；达观的 philosophy     n. 哲学；哲理 
+Do you have any picture that you can send me? I don't know... like, you in the beach... or maybe a selfie in the gym?'
+beach       n. 海滩；海滨；沙滩vt. 拖(船)上岸
+They walked along the beach talking and laughing.
+他们说说笑笑，沿着海滩散步
+He beached the rowboat in front of the cabin.
+他将滑艇拖到小屋前面的岸边
+beautiful beach 美丽的海滨gay beach 欢乐的海滨golden beach 金色的海滨pleasure beach 海滨娱乐场public beach 公共海滩sandy beach 沙滩shingly beach 布满卵石的海滩silent beach 静静的海滨查看更多 收起名词+～bathing beach 海滨浴场sea beach 海滨
+selfie      n. 自拍照（网络用语）
+gym    n. 体育馆；健身房；体育课
+We go to play badminton in the nearest gym every Sunday.
+每个星期天我们都去最近的体育馆打羽毛球
+perform〔do〕 gym 做体操practice gym 练习体操形容词+～biggym 大型体育馆名词+～school gym 学校体育馆
+Plot the distribution with a kenel density estimate and rug plot:
+rug        n. 地毯；毯子；旅行毯
+Look at the holes that have been worn in this rug.
+瞧瞧这块小地毯上磨出的洞
+clean a rug 清洗地毯    weave a rug 编织毛毯
+rug, blanket, carpet这组词都有“地毯”的意思。其区别在于:1.用来铺地板或楼梯的叫carpet,指厚实的棉、毛地毯。例如:She hesitated for a minute and stood while a tear or two splashed on the worn red carpet.她踌躇了一会,静静地站在那里,一两滴泪水溅落在脚下破旧的红地毯上。They rolled out the red carpet for the Queen when she arrived in Australia.他们铺红地毯隆重欢迎女王访问澳大利亚。2.用来铺室内地面的叫rug,指小地毯、毛皮地毯。例如:The rug on the floor of the living room is very expensive.起居室里铺的毛皮地毯是很昂贵的。3.blanket指小块地毯,用来铺地面的某一部分,也指盖在膝盖上防寒用的毯子。例如:She put the blanket over her knees.她在膝盖上放了块毯子
+了解你的数据”
+方法框架：
+理解问题：查看每个变量并且根据他们的意义和对问题的重要性进行哲学分析。
+Understand the problem. We'll look at each variable and do a philosophical analysis about their meaning and importance for this problem.
+单因素研究：只关注因变量（‘SalePrice’），并且进行更深入的了解。
+Univariable study. We'll just focus on the dependent variable ('SalePrice') and try to know a little bit more about it.
+多因素研究：分析因变量和自变量之间的关系。、
+Multivariate study. We'll try to understand how the dependent variable and independent variables relate.
+基础清洗：清洗数据集并且对缺失数据，异常值和分类数据进行一些处理。
+Basic cleaning. We'll clean the dataset and handle the missing data, outliers and categorical variables.
+Test assumptions. We'll check if our data meets the assumptions required by most multivariate techniques.
+检验假设：检查数据是否和多元分析方法的假设达到一致。
+从直方图中可以看出：
+Deviate from the normal distribution.  偏离正态分布
+Have appreciable positive skewness. 数据正偏
+Show peakedness. 有峰值
+'SalePrice', her buddies and her interests  “房价”的相关变量分析
+It is military wisdom to choose the terrain where you will fight. 
+buddy        n. 伙伴；兄弟；好朋友vi. 结交
+Her driving buddy was in trouble. 她的开车伙伴出事了
+You and your neighbour might want to buddy up to make the trip more enjoyable.
+你同你的邻居或许想结伴旅游，热闹一点
+buddy play 双人默契配合buddy seat 摩托车边车,(英:sidecar)三轮摩托车的单轮斗buddy ride 双人训练飞行bosom friend 知心朋友
+military        adj. 军事的n. 军队
+In some countries all the young men do a year's military service.
+有些国家，所有年轻男子都要服一年兵役
+The military were called in to deal with the riot.
+已将军队调来镇压暴乱
+military academy 军事院校military adventure〔intervention, occupation〕 军事冒险〔干涉,占领〕
+terrain      n. 地带；地形
+The car blitzed through rough terrain. 这辆汽车长驱穿越了崎岖地带
+terrain coefficient 地面利用系数    broken terrain 丘陵地    terrain echo 地面反射回波
+We just analysed four variables, but there are many other that we should analyse. The trick here seems to be the choice of the right features (feature selection) and not the definition of complex relationships between them (feature engineering).
+That said, let's separate the wheat from the chaff.
+wheat      n. 小麦；小麦色
+chaff        n. 谷壳；糠；揶揄v. 开玩笑；戏弄
+sift the wheat from the chaff 分清良莠separate the wheat from the chaff 分清良莠
+chaff dropping   散布金属带    chaff cutter 饲料切割机
+In my opinion, this heatmap is the best way to get a quick overview of our 'plasma soup' and its relationships. (Thank you @seaborn!)
+plasma       n. 等离子体；血浆
+【近义词】blood 血blood plasma 血浆
+plasma physics 等离子物理plasma chemistry 等离子体化学plasma display panel 等离子显示板,等离子体显示板plasma gas 等离子气体
+His rocket harnesses a nuclear process to produce a hot gas plasma.
+他设计的火箭能利用核反应过程产生的一种高温的气态等离子体
+soup      n. 汤；羹v. 增大威力
+I made some gravy soup for my husband.
+我给我丈夫做了一些肉汤
+The engineer tried to soup up the engine.
+工程师试图加大这台发动机的马力
+cook a soup 做汤from soup to nuts 从头至尾,一应俱全in the soup 〈俚〉处于困境,陷于困
+'GarageCars' and 'GarageArea' are also some of the most strongly correlated variables. 
+garage       n. 汽车修理厂；车库vt. 把 ... 放入车库
+He sent his car to the garage for repair. 他把汽车送到修车厂修理
+park a car in a garage 把汽车停在车库auto garage 汽车库
+Converting a torch Tensor to a numpy array and vice versa is a breeze.
+breeze    n. 微风；<口>轻而易举的事；焦炭渣v. 飘然而行；轻松通过
+The wheat rippled in the breeze. 小麦在微风中起伏波动
+She breezed along, smiling at everyone. 她轻盈地向前走去，对每个人都嫣然含笑
+Your comment is awaiting moderation.
+moderation        n. 缓和；适度；节制；计分审核制
+Docker Hub， github
+hub         n. 中心；轮毂；轮轴
+Chicago is a hub of airline traffic. 芝加哥是航运中心
+flavour      n. 味道；风味；韵味vt. 给...加味；给...增添风趣 
+Our foil packets seal the flavour in.
+我们用锡纸包装以保持原味
+The meat should be marinated overnight to tenderize and flavour it.
+这块肉应放在卤汁中浸过夜以使它变嫩并入味
+provision         n. 食品；粮食；供应；规定；条款；预备；【经】准备金vt. 向 ... 供应食物
+We set out with enough provisions. 我们带上足够的食品出发了
+The present law makes no provision for this.
+现行的法律对此未作任何规定
+They provisioned the ship for a long voyage.
+他们为远航的船只准备了食品和必需品
+Be sure to check out Where to go next for links to labs and examples, and how to get started using swarm mode.
+swarm      n. 群；蜂群v. 云集；充满 
+I saw a swarm of bees attacking the poor monkey.
+我看到一群蜜蜂正在攻击可怜的猴子
+He has received a swarm of letters. 他已经收到了一大批信件
+Many students swarm into the canteen after class.
+放学后,很多学生拥进食堂
+Write a program to print all permutations of a given string
+permute       v. 改序；[数]排列  
+You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from station i to its next station (i+1). You begin the journey with an empty tank at one of the gas station
+tank        n. 箱；罐；槽；贮水池；坦克vt. 把 ... 储于槽中
+Is there any water left in the water tank?水箱里还有水剩下吗
+Will you tank up my car immediately?
+请你立即给我的汽车加满油好吗?
+flush tank 冲洗池,冲洗水箱,冲洗槽air tank 通风箱oil tank 油箱fuel tank 燃料箱
+tank car 油罐车accumulator tank 储蓄槽,蓄电池,集油罐cooling tank 冷却箱
+The greedy little boy ate all the candy at the party.
+那个贪吃的小男孩把宴会上所有的糖果都吃光了
+The honey will candy in half an hour. 再过半个小时蜂蜜就会凝结起来
+candy   n. 糖果v. 用糖煮；使结晶为砂糖
+candy, sugar, sweet这组词都与“糖”有关：sugar一般表示“原糖,白糖”; candy和sweet则通常指“糖果”, candy是美国用词, sweet是英国用词。例如:Do you like candy?你喜欢吃糖吗?Mother often buys me sweets.母亲经常给我买糖果。
+周杰伦随后点赞并评论道“cute baby”，看来我们周公主有自己的女儿还不够，别人家女儿也是十分钟意啊！
+cute    adj. 可爱的；聪明的，精明的，伶俐的；漂亮的n. 智取敌方的策略或手段；灵巧
+destiny     n. 命运   destination    n.目的地；终点
+destiny is sometimes cruel. 命运有时是残酷的
+decide〔grasp, influence〕 the destiny 决定〔掌握,左右〕命运形容词+～adverse destiny 厄运cruel destiny 残酷的命运
+destine   v. 注定；指定；预定
+They were destined never to meet again. 命运注定他们永不再相逢
+Their attempt is destined to failure. 他们的企图注定要失败
+destined     adj.  命中注定的； 去往 ... 的
+Medicine is his destined profession. 医学是他注定要从事的职业
+This is a train destined for London. 这是一列开往伦敦的火
+SGD has trouble navigating ravines, i.e. areas where the surface curves much more steeply in one dimension than in another [1], which are common around local optima.
+ravine     n. 峡谷；溪谷；沟壑
+The river had worn a ravine between the hills.
+那条河在两山之间已造成一个深谷
+Momentum [2] is a method that helps accelerate SGD in the relevant direction and dampens oscillations as can be seen in Image 3. 
+It does this by adding a fraction γγ of the update vector of the past time step to the current update vector:
+dampen     v. (使)潮湿；使沮丧；抑制
+The camp supplies dampened during the long rainy season.
+营地补给品在漫长的雨季里变潮湿了
+An obstacle to answering this question was the notorious problem of vanishing/exploding gradients [14, 1, 8], which hamper convergence from the beginning.
+回答这个问题的一个障碍是梯度消失/爆炸[14, 1, 8]这个众所周知的问题，它从一开始就阻碍了收敛
+notorious          adj. 臭名昭著的
+We hypothesize that it is easier to optimize the residual mapping than to optimize the original, unreferenced mapping. To the extreme, if an identity mapping were optimal, it would be easier to push the residual to zero than to fit an identity mapping by a stack of nonlinear layers.
+我们假设残差映射比原始的、未参考的映射更容易优化。在极端情况下，如果一个恒等映射是最优的，那么将残差置为零比通过一堆非线性层来拟合恒等映射更容易。
+Residual Representations. In image recognition, VLAD [18] is a representation that encodes by the residual vectors with respect to a dictionary, and Fisher Vector [30] can be formulated as a probabilistic version [18] of VLAD. Both of them are powerful shallow representations for image retrieval and classification [4, 47]. For vector quantization, encoding residual vectors [17] is shown to be more effective than encoding original vectors.
+残差表示。在图像识别中，VLAD[18]是一种通过关于字典的残差向量进行编码的表示形式，Fisher矢量[30]可以表示为VLAD的概率版本[18]。它们都是图像检索和图像分类[4,47]中强大的浅层表示。对于矢量量化，编码残差矢量[17]被证明比编码原始矢量更有效
+We have tested various plain/residual nets, and have observed consistent phenomena. 
+我们测试了各种简单/残差网络，并观察到了一致的现象
+Should Donald Trump be impeached?
+impeach      v. 归咎；怀疑；控告；弹劾
+Many people impeached the judge for taking bribes. 很多人控告法官受贿
+The Parliament decided to impeach the President. 国会决定弹劾总统
+occlude       v. 使闭塞；封闭；(牙齿)咬合
+This issue can be a stumbling block because usually you would want to train model on “fast and furious” hardware and then use it anywhere else.
+furious        adj. 狂怒的；猛烈的
+I was annoyed, indeed furious, over what happened.
+出了这件事我很不痛快,实际上是愤怒至极
+If this news ever reaches her ears, she'll be furious.
+这个消息万一传到她的耳朵里，她一定得大发雷霆。
+It is not confined to any predefined lexicon and achieves remarkable performances in both lexicon-free and lexicon-based scene text recognition tasks.
+它不仅限于任何预定义的词汇，并且在无词典和基于词典的场景文本识别任务中都取得了显著的表现
+Recently, the community has seen a strong revival of neural networks, which is mainly stimulated by the great success of deep neural network models, specifically Deep Convolutional Neural Networks (DCNN), in various vision tasks.
+revival       n. 复兴；复活；恢复精神
+This method is now undergoing a slow revival. 目前这种方法正在慢慢复兴
+The causes of this revival were many and complex. 这次复兴的原因是复杂多样的
+revival of trade 贸易复苏business revival 经济复兴classic revival 古典复兴式economic revival 经济复兴
+revive      vt. 使重生；恢复精神；唤醒vi. 复生
+We tried to revive him but without avail. 我们试图使他苏醒,但没有成功
+avail     v. 有利；有助于n. 益处
+He tried and tried but all his efforts were of no avail.
+他试了又试，但一切努力都不起作用
+Such a statement will not avail. 这样的声明没有什么用
+It will avail them to dispose of their booty. 转让赃物对他们来说是有利的
+avail nothing 毫无用处～+副词avail little 几乎没有用处avail much 很有用处
+Some other approaches (such as [22]) treat scene text recognition as an image classification problem, and assign a class label to each English word (90K words in total). It turns out a large trained model with a huge number of classes, which is difficult to be generalized to other types of sequence-like objects, such as Chinese texts, musical scores, etc., because the numbers of basic combinations of such kind of sequences can be greater than 1 million.
+一些其他方法（如[22]）将场景文本识别视为图像分类问题，并为每个英文单词（总共9万个词）分配一个类标签。结果是一个大的训练模型中有很多类，这很难泛化到其它类型的类序列对象，如中文文本，音乐配乐等，因为这种序列的基本组合数目可能大于100万
+Several conventional scene text recognition methods that are not based on neural networks also brought insightful ideas and novel representations into this field. For example, Almazan et al. [5] and Rodriguez-Serrano et al. [30] proposed to embed word images and text strings in a common vectorial subspace, and word recognition is converted into a retrieval problem. 
+一些不是基于神经网络的传统场景文本识别方法也为这一领域带来了有见地的想法和新颖的表现。例如，Almazan等人[5]和Rodriguez-Serrano等人[30]提出将单词图像和文本字符串嵌入到公共向量子空间中，并将词识别转换为检索问题
+For sequence-like objects, CRNN possesses several distinctive advantages over conventional neural network models:
+对于类序列对象，CRNN与传统神经网络模型相比具有一些独特的优点：
+distinctive        adj. 独特的，有特色的，与众不同的
+The beer impressed me with its distinctive taste.
+那种啤酒以它独特的口味给我留下了深刻的印象
+It can be directly learned from sequence labels (for instance, words), requiring no detailed annotations (for instance, characters)
+可以直接从序列标签（例如单词）学习，不需要详细的标注（例如字符）
+In recurrent layers, error differentials are propagated in the opposite directions of the arrows shown in Fig. 3.b, i.e. Back-Propagation Through Time (BPTT). At the bottom of the recurrent layers, the sequence of propagated differentials are concatenated into maps, inverting the operation of converting feature maps into feature sequences, and fed back to the convolutional layers. In practice, we create a custom network layer, called “Map-to-Sequence”, as the bridge between convolutional layers and recurrent layers.
+在循环层中，误差在图3.b所示箭头的相反方向传播，即反向传播时间（BPTT）。在循环层的底部，传播差异的序列被连接成映射，将特征映射转换为特征序列的操作进行反转并反馈到卷积层。实际上，我们创建一个称为“Map-to-Sequence”的自定义网络层，作为卷积层和循环层之间的桥梁
+Transcription is the process of converting the per-frame predictions made by RNN into a label sequence. Mathematically, transcription is to find the label sequence with the highest probability conditioned on the per-frame predictions. In practice, there exists two modes of transcription, namely the lexicon-free and lexicon-based transcriptions. A lexicon is a set of label sequences that prediction is constraint to, e.g. a spell checking dictionary. In lexicon-free mode, predictions are made without any lexicon. In lexicon-based mode, predictions are made by choosing the label sequence that has the highest probability.
+转录是将RNN所做的每帧预测转换成标签序列的过程。数学上，转录是根据每帧预测找到具有最高概率的标签序列。在实践中，存在两种转录模式，即无词典转录和基于词典的转录。词典是一组标签序列，预测受拼写检查字典约束。在无词典模式中，预测时没有任何词典。在基于词典的模式中，通过选择具有最高概率的标签序列进行预测。
+The network is trained with stochastic gradient descent (SGD). Gradients are calculated by the back-propagation algorithm. In particular, in the transcription layer, error differentials are back-propagated with the forward-backward algorithm, as described in [15]. In the recurrent layers, the Back-Propagation Through Time (BPTT) is applied to calculate the error differentials.
+网络使用随机梯度下降（SGD）进行训练。梯度由反向传播算法计算。特别地，在转录层中，如[15]所述，误差使用前向算法进行反向传播。在循环层中，应用随时间反向传播（BPTT）来计算误差
+For optimization, we use the ADADELTA [37] to automatically calculate per-dimension learning rates. Compared with the conventional momentum [31] method, ADADELTA requires no manual setting of a learning rate. More importantly, we find that optimization using ADADELTA converges faster than the momentum method.
+为了优化，我们使用ADADELTA[37]自动计算每维的学习率。与传统的动量[31]方法相比，ADADELTA不需要手动设置学习率。更重要的是，我们发现使用ADADELTA的优化收敛速度比动量方法快
+Four popular benchmarks for scene text recognition are used for performance evaluation, namely ICDAR 2003 (IC03), ICDAR 2013 (IC13), IIIT 5k-word (IIIT5k), and Street View Text (SVT).
+有四个流行的基准数据集用于场景文本识别的性能评估，即ICDAR 2003（IC03），ICDAR 2013（IC13），IIIT 5k-word（IIIT5k）和Street View Text (SVT)
+IC03 [27] test dataset contains 251 scene images with labeled text bounding boxes. Following Wang et al. [34], we ignore images that either contain non-alphanumeric characters or have less than three characters, and get a test set with 860 cropped text images. Each test image is associated with a 50-words lexicon which is defined by Wang et al. [34]. A full lexicon is built by combining all the per-image lexicons. In addition, we use a 50k words lexicon consisting of the words in the Hunspell spell-checking dictionary [1].
+IC03[27]测试数据集包含251个具有标记文本边界框的场景图像。王等人[34]，我们忽略包含非字母数字字符或少于三个字符的图像，并获得具有860个裁剪的文本图像的测试集。每张测试图像与由Wang等人[34]定义的50词的词典相关联。通过组合所有的每张图像词汇构建完整的词典。此外，我们使用由Hunspell拼写检查字典[1]中的单词组成的5万个词的词典
+SVT [34] test dataset consists of 249 street view images collected from Google Street View. From them 647 word images are cropped. Each word image has a 50 words lexicon defined by Wang et al. [34].
+SVT[34]测试数据集由从Google街景视图收集的249张街景图像组成。从它们中裁剪出了647张词图像。每张单词图像都有一个由Wang等人[34]定义的50个词的词典
+The network not only has deep convolutional layers, but also has recurrent layers. Both are known to be hard to train. We find that the batch normalization [19] technique is extremely useful for training network of such depth. 
+网络不仅有深度卷积层，而且还有循环层。众所周知两者都难以训练。我们发现批归一化[19]技术对于训练这种深度网络非常有用
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

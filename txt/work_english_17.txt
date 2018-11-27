@@ -1,0 +1,567 @@
+====================================
+1~17（上部分1-16已经打印3-29）  
+Have you noticed that Facebook has developed an uncanny ability to recognize your friends in your photographs?
+uncanny     adj. 神秘的；不可思议的   
+The silence was uncanny. 静得出奇
+I had an uncanny feeling of being watched. 我有一种奇怪的感觉，好像有人监视我
+canny          adj. 精明的；谨慎的；节俭的；狡诈的adv. <苏格兰>仔细地
+netfilter 相关的内核参数：  sudo sysctl -a | grep conntrack
+conntrack       n. [计]连接跟踪   
+Some people have a knack for asking the right questions to spot awesome developers in a job interview. 
+有些人就有这种技能，能在面试中问出正确的问题，发现优秀的程序员。
+Other interviewers dread it, come in with their tail between their legs, ask a few questions from the Internet and just go along with the group decision. 
+而有些人却害怕提问，畏首畏尾，问一些从网上拷贝下来的问题，自己没主见，只会跟随其他面试官的意见。
+But interviewing is an essential skill for most developers. A bad hire has terrible long term consequences, because eventually a sub-par employee may bring others into the organization. On the other hand, unfairly excluding an awesome candidate also hurts.
+但面试对于大多数开发人员来说是一项很基本的技能。一次失败的招聘会给一个组织造成很严重的长期的后果，因为很水的雇员会把其他很水的人也带进公司。另一方面，把优秀的应聘者拒之门外对公司也是一种伤害
+knack       n. 技巧；诀窍
+He has a knack of teaching mathematics. 他教数学有点技巧
+There's a knack in it. 这里面有窍门
+dread      v. 惧怕；担心n. 恐惧；可怕的人或事adj. 恐怖的；使人敬畏的
+I dread having to visit the dentist . 我害怕看牙医
+I dread to think what will happen if she finds out the truth.
+我不敢去想她知道真相后会怎么样
+The Jews lived in dread of being caught.
+这些犹太人生活在会遭到拘捕的恐惧之中
+Candidates should use the resume to portray themselves in a positive light.
+However, there is a line where this positive portrayal becomes misrepresentation. In the example above, I wasn't as concerned as my colleague, because I already assume that everything on the resume is false until proven otherwise. If the resume says, "expert in technology X", then I will assume that the candidate merely knows the name of technology X
+应聘人员应该在简历中用一种很积极的色彩来描绘自己。然而，这种积极的描绘应该有个度，过了这个度，就表达的不正确了。在上面的例子中，我并不和我的同事一样觉得这个事很严重，因为我事先就假设了，简历上的任何东西都是假的，除非被证明。如果简历上说，“擅长于XXX技术”，那么我就认为这个应聘者可能仅是知道XXX技术这个名字
+portray      vt. 描写；描绘；饰演
+It is difficult to portray feelings in words. 感情很难用言语来描写
+The book portrays the life of an actor. 这本书描述了一个演员的一生
+They know when to be lazy and when to be pedantic.
+pedantic      adj. 迂腐的；卖弄学问的；学究式的
+They tend to make your style heavy, dry, and pedantic.
+它们会使你的文体沉重、干涩而且迂腐
+It was pedantic rather than reasonable, just to the point of being grotesque.
+它根本谈不上合理不合理，甚至迂腐到令人可笑的地步
+Our treatment is rigorous without being pedantic.
+我们的处理是严格的，而不是学究式的
+The cat ate the food and sneaked off. 猫吃完食物就偷偷跑了
+Provided it is possible for you to make a sneak attack at all
+假设你一直可以进行偷袭
+sneak     vt. 偷偷摸摸做vi. 偷偷地走；偷偷地做n. 鬼鬼祟祟的人；潜行；溜adj. 出其不意的；暗中进行的
+sneak an apple 偷苹果sneak book 偷书sneak out of 从…溜出
+I don’t hold a grudge on C++, in fact C++ is my native language. It’s just each language has its pros and cons,
+grudge     n. 怨恨；恶意vt. 不愿；吝惜；嫉妒
+He harbors a secret grudge against his father.
+他对父亲暗怀不满
+I grudge paying so much for such inferior goods.
+我不愿花这么多钱买次品
+grudge sb's job 嫉妒某人的工作grudge money 吝惜钱财
+Python PEP-8编码风格指南中文版
+PEP: 8 Title: Style Guide for Python Code
+This document gives coding conventions for the Python code comprising the standard library in the main Python distribution.  Please see the companion informational PEP describing style guidelines for the C code in the C implementation of Python [1]_.
+这篇文档说明了Python主要发行版中标准库代码所遵守的规范。对于Python的C语言实现中的编码规范，请参考实现Python的C代码风格指南PEP 7。
+companion       n. 同伴；志趣相投的人；成对物品之一；参考书v. 陪伴
+He had always considered her an ideal companion for his son.
+他一直以为她是他儿子的理想伴侣
+agreeable companion 情投意合的伴侣daily companion 朝夕相处的伴侣
+This style guide evolves over time as additional conventions are identified and past conventions are rendered obsolete by changes in the language itself.
+语言自身在发生着改变，随着新的规范的出现和旧规范的过时，代码风格也会随着时间演变。
+Many projects have their own coding style guidelines. In the event of any conflicts, such project-specific guides take precedence for that project.
+很多项目都有自己的一套风格指南。若和本指南有任何冲突，应该优先考虑其项目相关的那套指南。
+On UNIX one can use the DESTDIR mechanism in order to relocate the whole installation. DESTDIR means DESTination DIRectory. It is commonly used by makefile users in order to install software at non-default location. It is usually invoked like this:
+make DESTDIR=/home/john install
+which will install the concerned software using the installation prefix, e.g. /usr/local prepended with the DESTDIR value which finally gives /home/john/usr/local.
+prepend          vt. 预先考虑；预先计划；预谋
+jitter       n. 振动；紧张v. 感到紧张；振动   
+The effect of EMI has been reduced through frequency jitter.
+通过频率抖动,降低了开关电源的电磁干扰影响
+I am an exam jitter and I always get a cramp in my stomach.
+我是个考试紧张大师，一考试胃就抽筋
+Emerging-market bonds and shares, for instance, may jitter further.
+例如，新兴市场债券和股票可能更加震荡
+Adrian: What is the most difficult aspect in maintaining an open source library like dlib?
+Davis: Getting the damn build system to work everywhere. 
+damn        int. 该死；讨厌vt. 使失败；诅咒；批评vi. 诅咒n. 诅咒；丝毫adj. 该死的；可恶的 
+Damn! I've broken one of my nails. 该死！我弄断了一个指甲
+The book was damned by the critics. 这本书受到批评家的指责
+You know damn well what I mean. 你非常明白我的意思
+It was a damn dull dinner. 那是一次极端无聊的晚宴
+I will also go on tangents sometimes. For example, when I’m writing the code for something it’s often the case that I realize I need some other tool to make the machine learning algorithm I want to make. 
+tangent      adj. 接触的；相切的；离题的n. 切线；正切；突然的转向 [音乐]击弦金属小片.
+The graph of a concave function is always below its tangent.
+一个凹函数的图象总在它的切线的下方
+I can personally attest to the ease-of-use of dlib — I’ve used it in a number of computer vision projects and I even discuss it in the context of object detection inside the PyImageSearch Gurus course.
+attest        v. 证明；作
+Several witnesses can attest to her good character. 好几位证人证实她品行端正
+The child's good health attests to his mother's care. 孩子的健康证实他母亲的悉心照料
+auxiliary     n. 助动词；辅助物；帮助者adj. 辅助的；附加的
+We have an auxiliary generator in case of power cuts.
+我们有一台万一断电时使用的备用发电机
+In Chinese, the classification of the auxiliary verb and the adverb always have dispute.
+摘要汉语中助动词和副词的分类一直有争议
+verb     n. 动词
+The PyImageSearch Gurus course is now enrolling! Inside the course you'll learn how to perform:
+enroll        v. 登记；招收；入伍
+He enrolled our names. 他把我们的名字登记下来了
+He enrolled with an employment agency for a secretary.
+他在职业介绍所登记要当秘书
+ This command supercedes the install_targets() command and the PRE_INSTALL_SCRIPT and POST_INSTALL_SCRIPT target properties. It also replaces the FILES forms of the install_files() and install_programs() commands.
+supercede      vt. 代替；取代 =supersede
+Feudal society replaced slavery society, capitalism supplanted feudalism, and, after a long time, socialism will necessarily supercede capitalism.
+封建社会代替奴隶社会，资本主义代替封建主义，社会主义经历一个过程发展后必然代替资本主义
+主成分分析(Pricipal Components Analysis, PCA)
+多维尺度变换(Multi-dimensional Scaling, MDS)
+非负矩阵分解(Non-negative Matrix Factorization,NMF)
+独立成分分析(Independent components analysis, ICA)
+邻域保持嵌入(Neighborhood Preserving Embedding,NPE)
+局部保留投影(Locality Preserving Projections. LPP)
+非线性的度量学习更加的一般化，非线性降维算法可以看作属于非线性度量学习。经典的算法有等距映射(Isometric Mapping,ISOMAP) 、局部线性嵌入(Locally Linear Embedding, LLE) ，以及拉普拉斯特征映射(Laplacian Eigenmap，LE ) 等
+As another test, I created the dog hipsterizer, which I made a post about a few days ago.  The hipsterizer used the exact same code and parameter settings to train a dog head detector. 
+hip       n. 臀部；髋；屋脊adj. <非>时髦的；通晓的int. （欢呼声）嘿
+The needle went into my hip with a prick. 针一下刺进了我的臀部
+The designer is hip to the latest fashion.
+设计师对时装的最新款式了如指掌
+swing〔shake〕 one's hips 扭屁股形容词+～plump〔round〕 hip 丰满的臀部～+名词hip measurement 臀部的尺寸
+hop      v. 跳跃；单脚跳n. 跳跃；单脚跳
+hipster     n. 赶时髦的人；消息流通的人
+Hipsterize Your Dog With Deep Learning
+Extra Credit / Graduate Credit
+Students enrolled in 6476 are required to do 10 points worth of extra credit from the suggestions below in order to get full credit. Extra credit beyond that can increase your grade over 100. The max score for all students is 110.
+credit       n. 信用；荣誉；学分；赞扬；贷款；赊欠；贷方；存款 (复)credits: 演职员名单.v. 归功于；相信；记入贷方
+Credit counseling helped us get out from under. 信用咨询使我们免除了忧虑
+Where can I see my credit score? 我在哪能看到我的信用分数?
+I want to credit this to my account. 我想把这个记在我的账上    
+advanced credit 校外学分,免修学分bad credit 信誉不好allow a credit 答应给贷款credit sb's story 相信某人所说的话
+insult        n. 侮辱；辱骂；冒犯vt. 侮辱；辱骂；凌辱
+He made a witty comeback to the insult.
+他对别人的侮辱给予一个机智的反驳
+He felt deeply insulted by her rude words.
+她无礼的言词使他深感受辱
+I'll explain the nerdy theory of OpenCV's three built-in face recognizers.
+nerd      n. 书呆子；笨蛋；电脑高手
+I don't want to date with that nerd. 我不想和那个书呆子约会
+I teased him all the time about being a nerd. 我总是取笑他是一个书呆子
+The following is an outline of the stencil code:
+stencil       n. 模版；型版；蜡纸v. 用模版印刷
+The stencil and print process will not change. 模板和印刷工艺无需更改
+access stencil 存取模板stencil pen (刻蜡纸用)铁笔
+resnet34_1000_imagenet_classifier.dnn.bz2
+This is trained on the venerable ImageNet dataset.
+venerable         adj. 值得尊敬的；庄严的 the Venerable.adj. (英国国教的)副主教的称；(天主教)被列入可敬的称号
+We all listened to the venerable scholar with awe. 我们都怀着敬畏之心倾听着这位德高望重的学者的讲话
+contentious          adj. 好辩的；好争吵的；有争议的
+There is a contentious clause in the treaty.
+这条约中有一条有争议的条款
+contention     n. 争论；争辩；争夺；论点
+This is an issue of great contention at the moment. 眼下这个问题是争论的热点
+The subject deserves contention. 这个问题值得争论 
+contention interval 争用时间间隔contention system 争用系统
+2845 images with a total of 5171 faces; ? a wide range of difficulties including occlusions, difficult poses, and low resolution and out-of-focus faces;
+occlusion         n. 闭塞；梗塞；咬合   occlusions   遮挡
+Ambient Occlusion is defaulted to "disabled". 环境闭塞是预设为“禁用
+occlusion effect 遮挡效应occlusion body 包含体
+occlude   v. 使闭塞；封闭；(牙齿)咬合  
+So we have a greater tendency to make thrombi that can occlude the coronary vessels.
+所以我们有制造血凝块的倾向，这个血凝块会封闭冠状血管
+We selected a total of 3527 images (based on the chrono- logical ordering) from the image-caption pairs of Berg et al
+chronology      n. 年代学；年表；按年代次序的排列
+Now, this chronology doesn't prove that politics drives changes in inequality.
+现在这个年表并不能证明政治主导着不平等变化
+The book is a workmanlike job with chronology and bibliography and index.
+这本书写得很熟练，有年代表、参考书目和索引
+geologic chronology 地质年代学geological chronology 地质年代学
+chronic       adj. 长期的；慢性的；惯常的
+There is a chronic unemployment problem in America. 在美国存在长期失业问题
+My brother has chronic bronchitis. 我的哥哥患有慢性支气管炎
+chronic alcoholic〔invalid〕 酒鬼〔患慢性病者〕chronic case 慢性病chronic unemployment 长期失业
+chronicle          n. 年代记；记录；编年史
+Every mouldering stone was a chronicle. 每块崩碎剥落的石头都是一部编年史
+custodian      n. 管理人；保管人；监护人
+During the period of continued existence of a trust plan, the trust company shall choose a commercial bank with sound and stable operation performance to act as the custodian.
+信托计划存续期间，信托公司应当选择经营稳健的商业银行担任保管人
+custodian of property 财产管理人custodian service 保管业务custodian fee 保管费
+custody        n. 拘留；监禁；监护；羁押
+He is in custody awaiting trial. 他已被拘留候审
+The criminal was taken into custody. 这个罪犯已被监禁
+criminal in custody 在押犯hold in custody 拘留
+The mother got custody of the children. 母亲获得了孩子的监护权
+This work is partially done when the first author was an intern at Adobe Research.
+intern         n. 实习生；拘留犯vt. 扣留vi. 作实习生
+The young doctor is interning at the Medical Center this year.
+今年这位年轻的医生要到医疗中心作实习生
+I was an administrative intern with the B. S. E. last summer.
+我去年夏季在蓝星电子公司任管理实习生
+autobiography         n. 自传
+Iacocca's autobiography is a best- seller. 艾科卡的自传是一本畅销书
+He rounded out his quartet with an autobiography. 他以自传作为他的四部曲的结尾
+import pickle      pickle    n. 腌汁；泡菜；<英口>淘气鬼；<口>困境v. 腌；泡
+Leave an ox tongue in salt pickle. 把牛口条放在腌菜汁里腌制
+The pickle is just the right flavor! 这泡菜够味儿!
+in a sad pickle 处于困境in a pickle 很脏(处境困难
+amortize         v. 分期偿还；摊还 =amortise(英).
+I intend to amortize the total cost of the car over three years.
+我打算用三年时间分期偿还汽车的所有费用
+He wanted to amortize his fixed rental cost by stretching the operating hours.
+他想用延长营业时间来分摊固定的租金
+I can revoke my consent at any time by visiting the Opt-Out page.
+revoke    vt. 撤回，取消，废除vi. 藏牌，有牌不跟n. 藏牌   
+We hereby revoke the agreement of May8, 2004.
+我方特此宣告于2004年5月8日签订的合同无效
+His driving licence was revoked after the crash. 他撞车后驾驶执照被吊销了
+revoke a driving 吊销驾驶执照revoke a rule 废除规章，取消规章revoke an order 撤销命令
+parade    n. 游行；检阅；游行地vi. 参加游行；阅兵；散步；炫耀vt. 夸耀；使参加游行；检阅；绕行   
+People wore historical costumes for the parade. 人们穿著古装参加游行
+The strikers paraded through the city center. 罢工队伍游行穿过市中心
+He is not one to parade his achievements. 他不是一个爱炫耀自己成就的人
+parade aimlessly 无目的地游行parade along 沿…行进make a parade of one's learning 炫耀自己的学问
+To better understand FaceBoxes, we ablate each component one after another to examine how each proposed component affects the final performance.
+ablative     adj. 可腐蚀的；易消融的；[语]夺格的n. 烧蚀材料；[语]夺格 
+Recently with the ongoing surge of video surveillance devices, there’s a bigger than ever opportunity to turn that raw information into structured data using computer vision.
+surveillance       n. 监视；监督
+Detectives kept the quarry under surveillance for weeks.
+侦探们监测那个目标已有好几个星期了
+The personnel of organs of state must accept surveillance by the masses.
+国家机关工作人员必须接受群众监督
+sound surveillance system 声音监视系统surveillance satellite 监视卫星
+Aerial image analysis： In the age of cheap drones and (close to) affordable satellite launches, there has never been that much data of our world from above.
+aerial    adj. 空中的；空气的；航空的；空想的n. 天线
+Airline is the service industry that offers the aerial affair of transport service.
+航空公司属于提供航空运输业务的服务行业
+The birds perched on the television aerial. 鸟停在电视天线上
+The picture is much clearer with the new aerial.
+装上新天线后画面清晰多了
+aerial attack 空袭aerial battle 空战television aerial 电视天线
+seek     vt. 寻求；追求；试图vi. 寻找   （sought过去分词）
+Tortured by fear, he decided to seek the aid of a psychiatrist.
+他终日恐惧不安,决定寻求心理医生的帮助
+Many single people are seeking that special someone.
+许多单身人士都在追求他们的唯一
+seek aimlessly 无目的地寻找seek after the truth 追求真理
+delineate       vt. 描绘；叙述；画出
+Control uses steps to delineate different sections of user data input.
+控件使用多个步骤来描绘用户数据输入的不同部分
+Are you the tinkerer who loves experimenting with new technology? This course will add amazingly cool tools to your arsenal. 
+arsenal   n. 兵工厂；军械库；储藏
+nuclear arsenal 核武库；核军火库
+Datasets play a very important (and sometimes underrated) role in research.
+underrate       v. 低估；看轻
+I don't underrate the decorative side of life. 我并不低估生活中起装饰作用的东西的价值
+I fear that I underrate the difficulty of the task. 我担心我低估了这项任务的困难
+Use your downvotes whenever you encounter an egregiously sloppy, no-effort-expended post, or an answer that is clearly and perhaps dangerously incorrect.
+egregious     adj. 恶名昭彰的；过份的；非常的
+The story seemed too egregious to be believed. 这故事似乎离奇得令人难以置信
+sloppy      adj. 肥大的；潦草的；草率的；稀薄的；庸俗感伤的
+At home I tend to wear big sloppy jumpers and jeans.
+在家里我喜欢穿宽大的套衫和牛仔裤
+I can't decipher his sloppy handwriting. 我无法辨认他那潦草的字迹
+slop     v. (液体等)晃荡；溢出；溅出n. 【复】剩饭；排泄物n. 【U】流食；感情迸发
+Water was slopping around in the bottom of the boat. 水在船底晃晃荡荡的
+We felt sluggish on such a boiling hot day and could only slop around.
+在如此酷热的天气下，我们动也不想动，只能懒洋洋地走
+The farmers used to get slops from the restaurant. 农夫过去常常去饭店取残羹
+slop over 泼出(溅出slop around 晃荡(闲荡)slop about 晃荡(闲荡)slop wax 粗蜡
+wax    n. 蜡；蜂蜡vt. (用蜡)涂vi. 变圆
+Why did she have to wax the floors herself?
+她干什么非要自己动手给地板打腊?
+We conjecture that it is possible to obtain even better re- sults with more advanced cascade construction/optimization techniques
+conjecture       n. 推测；臆测v. 推测
+But Manski's model did not confirm this conjecture.
+但曼斯基的模型并无法证实这个推测
+No conjecture can be offered on the subject. 关于这个问题不可臆测
+Fanatic: All you've got to do is visit the site for 100 days (although it's still eluded me for 2 years+)
+fanatic      n. 狂热者；极端分子；盲信者adj. 狂热的；盲信的
+We call him a politics fanatic. 我们叫他政治狂
+My roommate is a fanatic of Michael Jordan. 我的室友是迈克尔&#183;乔丹的狂热粉丝
+elude       vt. 逃避；躲避；理解不了；记不起来
+The fox eluded the hunters by turning back quickly.
+狐狸急转身逃脱了猎人的追逐
+Marshal: Raise 500 helpful flags
+marshal    n. 陆空军元帅；典礼官；司仪官v. 整顿；配置；汇集
+The marshal rode at the head of the parade.
+典礼官在检阅队伍的前面骑马行进
+marshal, arrange, methodize, order, organize这组词都有“整理”“安排”的意思。它们的区别是：1.order指把事物安排得井井有条,和谐一致,或者按照固有的或严格的规则进行“安排”。2.arrange指按照恰当的秩序、关系、计划、需要或可能等进行“安排”或“调整”。例如:Before going away, he arranged his business affairs.在离开之前,他把业务都安排好了。The point is how to arrange our daily life well.问题在于如何把我们的日常生活安排好。3.marshal指为了便于安排或提高效率而进行的“调整”“整理”。例如:Next day he found they had been marshaled to go by air to Beijing.第二天,他发现大家已经安排好,打算乘飞机到北京去。4.methodize指通过规定次序、方式等使工作条理化。例如:We want you to methodize the everyday work of the factory.我们要你使厂里的日常工作条理化。5.organize指把分散的有关人员或事物编成一个整体,使每一个体在这个整体中都能各尽其职或各行其是。例如:Older students were having difficulty in studying and organizing themselves.年龄大的学生们学习有困难,也难以组织起来。The explorer organized an expedition to the North Pole.这位探险家组织了一次北极探险活动。
+the chief marshal 上将名词+～field marshal 陆军元帅fire marshal 消防队长
+Electorate: Vote on 600 questions, and vote on at least one question for every three answers you vote on
+electorate     n. (全体)选民 
+Unemployment was the electorate's main concern.
+失业是选民们最关切的问题
+The electorate is growing tired of his posturings. 选民对他的口是心非逐渐生厌
+posture     n. 姿势；态度；情形v. 作 ... 姿势；摆架子
+Only humans have a natural upright posture. 只有人类才有自然直立的姿势
+The artist asked his model to take a reclining posture. 画家要求模特取斜倚着的姿势
+posture, attitude, policy, position, stand这五个词的共同意思是“立场”“态度”。其区别在于:stand用于表明某人的观点、立场时常用个人感情色彩,虽然它并不排除这种感情是建立在理智或理性基础之上的; attitude表示个人或团体的感情色彩,而这种感情往往是不明说的或不明确的; policy指某人估计其要求、利益、目标或原则之后而制定的一种明确的信念结构形式,也可指行为的一般准则; position则指较冷静和克制的态度,经常用于指人在经过长时间的深思熟虑之后作出的决定; posture指确切的军事部署。例如:In the temperance question,Mr. Dent takes his stand on total abstinence.在戒酒问题上,登特先生是采取滴酒不沾的立场的。His attitude towards her amounted to loathing.他对她的态度简直就是厌恶。My position on civil liberties is well known.我对人权自由的立场是众所周知的。It's a bad policy to lend money to unemployed friends.把钱借给失业的朋友是不太聪明的做法。The government adopted an uncompromising posture on the issue of independence.政府在独立这一问题上采取了毫不妥协的态度。
+erect posture 直立姿势static posture 静态姿势faulty posture 不良姿势
+This is a "moderation" badge earned by helping clean up the site from questions, answers and comments that are:  spam rude or offensive
+moderation      n. 缓和；适度；节制；计分审核制
+To the extent that his resourcefulness enhances the prospect for perestroika at home and moderation abroad,it deserves a welcome in the West.
+就他的才略有助于国内改革的前景以及对外关系的缓和程度而言，他是值得受西方欢迎的
+Whisky can be good for you if taken in moderation. 威士忌酒如饮用适度是有益的
+moderate    adj. 适度的；温和的；稳健的；中等的v. 节制；使 ... 稳定，使 ... 缓和n. 稳健的人
+Corn plants grow well in moderate weather. 谷类植物在温和气候中生长繁盛
+He holds moderate opinions. 他的意见稳健不偏激
+She moderated her enthusiasm deliberately .
+她有意地节制了自己的热情
+He is a moderate. 他是个稳健的人
+demand moderate 要求适度display〔show〕 moderate 显得温和moderate in one's demands 需求有moderate reasonably 合理地节制moderate in speech 谈吐温和
+5+ years’ experience of image recognition or machine learning in Internet companies or top IT company ;
+五年以上一线互联网公司或顶级科技公司从事图像识别和机器学习相关工作经验；
+Self-driven, result-oriented, innovative and collaborative ;
+具备很强的自我驱动与结果导向意识，具备创新能力和团队协作能力；
+Good communication and presentation ability  良好的沟通与表达能力
+Assignments and the term project should include explanatory/clear comments as well as a short report describing the approach, detailed analysis, and discussion/conclusion.
+3 Programming assignments 30% (10% each)
+Term project 40%
+Mid-Term Exam 30%
+tentative date: Second week of November 2017, in-class, written
+tentative    adj. 不确定的；暂时的；试验性质的；犹豫不决的
+He still held a tentative relationship with Mary.
+他还和玛丽保持着若即若离的关系
+Could we make a tentative appointment for Friday?
+我们能暂时先约在星期五吗?
+tentative specification 暂行规范,说明书初稿,技术条件草稿tentative method 暂行方法tentative specifications 暂行规定,暂行技术规程tentative strategy 试探性策略tentative solution 尝试性的解决办法 
+assign     vt. 分配；指定；指派；归因；确定n. 受让人
+All the students are assigned to suitable jobs.
+所有的学生都分到了合适的工作
+For example, you might assign each order a unique order number.
+例如,可能会为每个订单分配一个唯一的订单号
+assign a job to sb 把一项工作交给某人assign a mission 布置一项任务assign for 确定…的(日期等)，找出…的(原因)assign a cause for sb's illness 确定某人的病因
+assignment      n. 分配；任务；功课；委派；被指定的(课外)作业;(分派的)任务
+Collaboration on assignments is encouraged at the level of sharing ideas and technical conversation only. Please write your own code. Students are expected to abide by UCF Golden Rule.
+The boy pegged away at a home assignment.
+男孩毫不懈怠地做老师布置的家庭作业
+accept the assignment 接受任务math's assignment 数学作业on assignment in the Far East 被派往远东
+term    n. 学期；术语；条件；条款；期限；名词vt. 把 ... 称为
+Are there any exams at the end of this term?
+这个学期期末有考试吗？
+I am not familiar with chemical terms. 我不熟悉化学术语
+This article is about the deceptive use of online identities. For the use of a cloth as a hand puppet see, Sock puppet.
+puppet      n. 木偶；傀儡
+He jerked the string and the puppet jumped. 他猛地一拉绳子，木偶就跳了起来
+How do you work these puppets? 你怎么操作这些木偶呢
+move a puppet 操纵木偶～puppet government 傀儡政府puppet troops 伪军
+Due to clear signs of falsified accounts being used to artificially inflate your reputation, your account has been temporarily suspended for 7 days.
+falsify       vt. 伪造，篡改；歪曲；改变公认的规则；证明…是假的
+All those who try to falsify history are bound to end up at criminals in history.
+一切伪造历史的人必然会成历史的罪人
+It is not fair to other users of Stack Overflow to allow users to gain reputation through sockpuppets.
+Our goal is to amicably resolve issues in a constructive way through direct communication. 
+amicably      adv. 友善地；和平地 amicable     adj. 友好的；和睦的
+It took awhile, but you both realised it and ended your romance amicably.
+你花了一些时间，但你在深刻理解后友善地结束了这段罗曼史
+Please note that continuing to persist in problematic behaviors is grounds for timed suspension.
+Especially when you've established a long-term good business relationship with us,it is usually much easier to handle the disputes through amicable negotiations.
+尤其当我们双方之间建立了长期友好的贸易关系以后，通过友好协商来解决争议就更容易了
+A sock puppet is a puppet made from a sock or similar garment.[1] 
+sock   n. 短袜
+He selected a pair of socks to match his suit. 他挑选了一双与他衣服相配的短袜
+sock的意思是“短袜”,一般指高及脚踝或小腿部的短袜,多为男人及儿童、运动员等穿着。
+The puppeteer wears the sock on a hand and lower arm as if it were a glove, 
+with the puppet's mouth being formed by the region between the sock's heel and toe, and the puppeteer's thumb acting as the jaw.
+glove      n. 手套vt. 给 ... 戴手套
+It's getting cool and I have to take out my woolen gloves.
+天气变冷了，我不得不把毛线手套拿出来了
+jaw       n. 颚；颌；下巴；钳口；说教v. 喋喋不休；教训
+A strong square jaw is a sign of firm character.
+强健的方颚是性格坚定的象征
+Whenever my wife and her mother get together they jaw away for hours.
+每当我妻子和她母亲相聚时，她们总要聊上数小时
+The Histogram of a Monochrome Image
+monochrome        n. 单色；单色画法adj. 单色的；黑白的
+Textures change, but colors are monochrome. 纹理变化了，但色彩仍是单色
+That is a Czechslovakian, pre-war, monochrome, low-budget movie.
+这是捷克，战前的，黑白，低成本电影
+monochrome television 黑白电视monochrome monitor 单色监视器
+mono     n. 单声道唱片adj. (唱片等)单声道的pref. 表示“一”“单一”n. (=infectious mononucleosis) 传染性单核细胞增多症
+This technique can produce phase issues when the stereo signal is mixed to mono.
+当立体声信号混合为单声道时,这种技术可以产生阶段性问题
+chrome     n. 铬；铬黄；<计>谷歌浏览器vt. 镀铬
+Example: decimate this image 4x to get this image.
+decimate     v. 毁掉大部分；大量杀死；使骤减
+Student numbers have been decimated by cuts in grants. 助学金削减後，学生人数大大减少
+Disease has decimated the population. 疾病使大部分人死亡
+In mathematics, linear interpolation is a method of curve fitting using linear polynomials to construct new data points within the range of a discrete set of known data points.
+polynomial     n. 多项式adj. 多项的
+poly      abbr. 聚乙烯(=polyethylene)pref. 多的；聚合的
+Image interpolation is an important technique of image processing.The blur and jaggy of image details or edges are inevitable during conventional image interpolation.
+图像插值是图像处理的一项重要技术，经典的插值算法会产生细节模糊和边缘锯齿现象。
+jaggy      adj. 参差不齐的；凹凸不平的
+toothed        adj. 有齿的；锯齿的；锯齿状的
+Its distinctly toothed leaves are carried on branching stems.
+在其分支的茎杆上，挂满了非常显眼的锯齿状树叶。
+accentuate     v. 重读；强调；突出
+The tight jumper only accentuated his fat stomach.
+那件紧身套头毛衣反更突出了他那肥胖的肚子
+stomach      n. 胃；胃口；腹部vt. 忍受；吃得下
+Anxiety may disorder the stomach. 忧虑可能会引起胃部不适
+I can't stomach your constant nagging.
+我再也忍受不了你不停的唠叨了
+He now could stomach liquids only. 他现在还只能吃流质食品
+fill the stomach 吃得很饱  strong〔weak〕 stomach 消化力强〔差〕 pain in the stomach 胃疼  a stomach for 对某事(物)的欲望
+We are interested in isotropic filters, whose response is independent of the direction of the discontinuities in the image to which the filter is applied.
+In other words,isotropic filters are rotation invariant, in the sense that rotating the image and then applying the filter gives the same result as applying the filter to the image first and then rotating the result.
+isotropic     adj. 各向同性的；等方性的
+Another of these extras is a category called ‘scribble.’ Basically, anything that did not fit well into the other categories is supposed to be classified as a scribble.
+scribble        v. 潦草地书写；乱写n. 潦草的写法
+The speaker spoke so fast that he could only scribble down several broken words.
+演讲者讲得太快了，他只能匆匆记下几个支离破碎的字
+Do not scribble on the wall! 不要在墙上乱涂
+forcibly     adv. 强行地；强烈地
+Palmer heads toward the crime scene, and Novick forcibly stops him.
+帕默向罪案现场走去，诺维克强行地拦住了他
+forcible    adj. 强制的；强迫的；有说服力的；用力的
+They made a forcible entry into his house. 他们强行进入他家
+I heard a forcible argument in favor of the new policy. 我听到一个支持新政策的有力论据
+forcible rape [法] 强奸forcible entry 非法侵入,不动产占有侵害forcible separation method 强制剥离试验forcible execution 强制执行
+rape      n. 强奸；蹂躏；破坏v. 强奸；掠夺；蹂躏
+She showed a prurient interest in the details of the rape case.
+她对那强奸案的细节津津乐道
+The enemy raped the country and killed many villagers.
+敌人掠夺了这个地区，并且杀害了许多村民
+censor        n. 检查员；监察官vt. 检查
+It is not constitutional to censor the press.
+审查新闻是违反宪法的
+They had to accept the blue pencil of the censor.
+他们不得不接受检查员的修改
+film censor 影片审查员Board of Censors 审查署censor out 审查后改动、删去或完全禁止
+domineering       adj. 专横的；作威作福的
+He is a domineering sort of fellow. 他是一个飞扬跋扈的人
+That domineering manner of yours cuts no ice here with me.
+你那种盛气凌人的态度在这里对我不起作用
+dominate     v. 支配；控制；统治；占优势；俯视；高耸于
+He desires to dominate over others. 他很想支配别人
+The strong usually dominate the weak . 强者通常统治弱者
+transpose       vt. 调换；颠倒顺序；【数】移项n. 【属】转置阵；转置 
+negative transpose 负转置transpose instruction 转置指令matrix transpose 矩阵转置transpose configuration 转置结构matrix transpose method [计] 矩阵转置方法
+I am a software developer at a bioinformatics company, mainly working with 
+genome and exome sequencing data and the infrastructure and tooling that surrounds it.
+genome        n. 基因组；染色体组
+Scientists have decoded the dog genome. 科学家已经译解了狗的基因组
+The Human Genome Project has several objectives. 人类基因组计划有若干目标
+bipartite genome 二分基因组Human genome project 人类基因组计划
+feed      vt. 喂养；饲养；靠 ... 为生；向 ... 提供vi. 吃饲料；进餐n. 一餐；饲料；饲养
+feedforward        n. 前馈；正向馈电传送
+clip      vt. 夹住v. 剪短v. 疾驰；猛击n. 夹子；弹夹；回形针；钳n. 修剪；(羊毛的)剪下量；(被剪下的)东西
+There was a cheque clipped to the back of the letter.
+在信背面夹着一张支票
+To be honest that picture wasn't that odious. 
+odious    adj. 可憎的；讨厌的；令人作呕的
+Having recently had to compare all of the major frameworks, on paper mxnet was a strong contender. Tensorflow won out because of some bonus features:
+contend   v. 竞争；争斗；争辩；坚决主张
+Three armed groups were contending for power. 三个武装集团在争夺权力
+contend boldly 勇敢地斗争contend forcefully 强有力地斗争
+Google has been aggressively advertising Tensorflow both internally and externally and there has been huge uptake. Although this doesn’t really make it technically superior, it does mean there are likely to be more people helping improve it and it made us feel more comfortable relying on it.
+uptake     n. 摄取；领会；上风井
+The doctor advised me to reduce the salt uptake. 医生建议我减少盐的摄入。That boy is quick in the uptake. 那男孩理解能力很强
+be quick on the uptake 理解很快slow on the uptake 理解慢的be quick at the uptake 领会得快,理解很快,理解能力强
+Adapting the classification network for detection simply consists of removing the last few layers of the network and adding a convolutional layer with B(5+C) filters to produce the N×N×B bounding box predictions.
+将分类网络调整为检测网络只需要移除网络的最后几层，然后添加一个带有 B(5+C) 个过滤器的卷积层，以得出 N×N×B 的边界框预测
+The first iteration of the YOLO model directly predicts all four values which describe a bounding box. 
+YOLO 模型的第一个迭代版本是直接预测描述一个边界框的所有 4 个值
+Rather than directly predicting the bounding box dimensions, we'll reformulate our task in order to simply predict the offset from our bounding box prior dimensions such that we can fine-tune our predicted bounding box dimensions. This reformulation makes the prediction task easier to learn.
+我们不再直接预测边界框的尺寸，而是重新形式化了我们的任务，从而只需简单预测与我们的边界框先验尺寸的偏移量，这样我们就可以优化我们的预测边界框尺寸了。这种处理方式能让这一预测任务更容易学习
+For similar reasons as originally predicting the square-root width and height, we'll define our task to predict the log offsets from our bounding box prior.
+由于与原来的预测平方根宽度和高度相似的原因，我们将定义我们的任务来预测与我们的边界框先验的对数偏移量
+Objectness (and assigning labeled objects to a bounding box)
+In the first version of the model, the "objectness" score pobj was trained to approximate the Intersection over Union (IoU) between the predicted box and the ground truth label. 
+目标度（以及将被标注的目标分配给一个边界框）
+在该模型的第一个版本中，「目标度（objectness）」分数 pobj 的训练目标是近似求取被预测框和基本真值标签之间的交并比（IoU）
+imminent       adj. 逼近的；即将发生的
+They are unaware of imminent danger. 他们没意识到逼近的危险
+Rumours of an imminent earthquake startled a panic. 谣传即将发生地震引起了一阵恐慌
+panic    n. 惊慌；恐慌v. 使…惊慌；感到恐慌adj. 恐慌的；惊慌的
+Addressing object imbalance with focal loss 
+使用焦点损失（Focal Loss）解决目标不平衡问题
+focal     adj. 焦点的；[医]病灶
+Television has now become the focal point of family life in many countries in the world.
+现在世界上的许多国家看电视已经成为人们家庭生活中的主要消遣
+focal length 焦距focal point 焦点focus 焦点focal axis 焦点轴,聚焦轴
+Researchers at Facebook proposed adding a scaling factor to the standard cross entropy loss such that it places more the emphasis on "hard" examples during training, preventing easy negative predictions from dominating the training process.
+Facebook 的研究者提出向标准的交叉熵损失添加一个比例因子，以使其在训练过程中更加关注「困难的」样本，防止简单的负例预测主导训练过程
+homage        n. 敬意；效忠
+The Imperial Guards presented homage to the king.
+皇家警卫队向国王宣誓效忠
+homage, deference, honour, reverence这组词的共同意思是“敬意”。其区别在于:honour指承认对方的人格、地位、行为或能力,从而表示敬意; deference指对长辈或应予以尊敬的人表示敬意和礼貌,并尊重其意愿与要求; homage除具有honour之意外,还表示更大的赞许和敬意; reverence指深刻的尊敬与爱心
+pay homage to  向 ... 表示敬意do homage to 敬佩
+Spatial pyramid pooling [14], [15] (popularly known as spatial pyramid matching or SPM [15]), as an extension of the Bag-of-Words (BoW) model [16], is one of the most successful methods in computer vision.
+空间金字塔池化[14][15]（普遍称谓：空间金字塔匹配spatial pyramid matching, SPM[15]），是词袋模型(Bag-of-Words, BoW)的扩展，SPP模型是计算机视觉领域最成功的方法之一
+It partitions the image into divisions from finer to coarser levels, and aggregates local features in them. 
+它将图像划分为从更细到更粗的级别，并聚合他们的局部特征
+When the input image is at different scales, the network (with the same filter sizes) will extract features at different scales. The scales play important roles in traditional methods, e.g., the SIFT vectors are often extracted at multiple scales [29], [27] (determined by the sizes of the patches and Gaussian filters). We will show that the scales are also important for the accuracy of deep networks.
+当输入图像处于不同的空间尺度时，带有相同大小卷积核的网络就可以在不同的尺度上抽取特征。跨多个尺度在传统方法中十分重要，比如SIFT向量就经常在多个尺度上进行抽取[29][27]（受碎片和高斯过滤器的大小所决定）。我们接下来会说明多尺度在深度网络精度方面的重要作用
+Interestingly, the coarsest pyramid level has a single bin that covers the entire image. This is in fact a “global pooling” operation, which is also investigated in several concurrent works. In [31], [32] a global average pooling is used to reduce the model size and also reduce overfitting; in [33], a global average pooling is used on the testing stage after all fc layers to improve accuracy; in [34], a global max pooling is used for weakly supervised object recognition. The global pooling operation corresponds to the tradi- tional Bag-of-Words method.
+有趣的是，粗糙的金字塔级别只有一个块，覆盖了整张图像。这就是一个全局池化操作，当前有很多正在进行的工作正在研究它。[33]中，一个放在全连接层之后的全局平均池化被用来提高测试阶段的精确度；[34]中，一个全局最大池化用于弱监督物体识别。全局池化操作相当于传统的词袋方法。 
+SPP is a flexible solution for handling different scales, sizes, and aspect ratios. These issues are important in visual recognition, but received little consideration in the context of deep networks. We have suggested a so- lution to train a deep network with a spatial pyramid pooling layer. The resulting SPP-net shows outstand- ing accuracy in classification/detection tasks and greatly accelerates DNN-based detection. Our studies also show that many time-proven techniques/insights in computer vision can still play important roles in deep-networks-based recognition. 
+SPP对于处理不同的尺度、尺寸和长宽比是十分灵活的解决方案。这些问题在视觉识别时非常重要，但深度网络中大家却很少考虑这个问题。我们建议使用空间金字塔池化层来训练深度网络。这种SPP-net在分类和检测任务上都表现出了出色的精度并显著加速了DNN为基础的检测任务。我们的研究也表明很多CV领域成熟的技术再基于深度网络的识别中仍然可以发挥重要的作用
+Preliminary MS COCO results
+preliminary    adj. 初步的；预备的；开始的n. 初步行动；准备；初步措施
+They have made a preliminary investigation. 他们已经做了初步的调查
+Our team got beaten in the preliminary rounds of the competition.
+我们队在这次比赛的预赛中遭淘汰
+There are a lot of preliminaries to be gone through before you can visit a foreign country.
+在出访外国之前要做好许多准备工作
+preliminary estimate 初步的估计preliminary examination 初试the inevitable preliminary 不可避免的预备程序the polite preliminary 客套话
+For example, the code may read a request from a socket, parse the request, and then piecemeal read a file from disk and write it back to the socket. 
+piecemeal         adv. 零碎地；逐个地 adj. 零碎的；逐渐的 n. 片；块 vt. 粉碎
+piecemeal development 零碎发展零星建筑  piecemeal learning 分散学习片段学习分段学习
+Let's settle the matter at one stroke, not piecemeal.; Let's do this at one go, not bit by bit. 
+把这事一气儿解决了吧， 别零敲碎打了。
+Critics say this reluctant, piecemeal approach is aggravating the situation rather than restoring confidence. 
+批评者称,这种勉强且零零碎碎的购买方式,不但不能恢复市场信心反而使形势恶化.
+This part of the documentation, which is mostly prose, begins with some background information about Requests, then focuses on step-by-step instructions for getting the most out of Requests.
+prose       n. 散文；单调 adj. 散文的；平凡的；乏味的 vi. 写散文；乏味地讲话 vt. 把…写成散文
+A feeling of melancholy runs through his prose. 
+在他的散文中贯穿着一种忧郁的情绪
+Prose-oriented XML documents, however, tend to have much more variable document structure, and typically nest tags at least five or six levels deep. 
+然而，面向散文的 XML 文档，其文档结构往往拥有更多的变化，且嵌套标记通常有至少五或六层深
+this not an answer, no.. this is beyond the answer. this is kind of masterpiece :) thank you brotha :)
+masterpiece     n. 杰作；绝无仅有的人
+a work of art, a piece of writing or music etc that is of very high quality or that is the best that a particular artist, writer etc has produced
+杰作；名作；佳作；代表作
+For each sliding window(red cuboid ) expressed by a vector [3*3*512], the proposal is parametrized relative to an achor
+cuboid     adj. 立方形的；立方体的 n. [数] 长方体；[解剖] 骰骨
+Cuboid, cube and cylinder. 长方体、正方体、圆柱体
+Sending a packet that is larger than the maximum transmission window for Ethernet is called jabbering.
+jabber      vi. 快而含糊地说；吱吱喳喳地叫 vt. 快而含糊地说出 n. 快而含糊不清的话 n. (Jabber)人名；(英)贾伯
+factorial      adj. 因子的，阶乘的 n. [数] 阶乘
+generalized factorial 广义阶乘， n factorial 阶乘
+Here is an implementation of a factorial calculator, where we use a conventional technique of calling a second, nested method to do the work. 
+这里是一个阶乘计算器的实现，我们会使用一种常规的方法，通过调用第二个，嵌套的方法来完成计算。
+The test case consists of some simple command argument processing followed by a loop that calculates the factorial of the specified values (if any). 
+测试用例包含几个简单的命令参数处理，然后是一个循环，它计算指定值（如果有的话）的阶乘。
+Organizations often hire experts to help with tuning activities, but experts are prohibitively expensive for many.
+prohibitive     adj. 禁止的，禁止性的；抑制的；（费用，价格等）过高的；类同禁止的
+Transactions, rollover, fallback, and similar enterprise-level features are all missing (transactions are on the "to do" list); but many applications don't need such advanced functionality. 
+事务、回滚、撤退以及一些类似的企业级特性都没有包括（事务列在 “即将实现” 的清单内）；但是许多应用程序并不需要这类高级功能
+fallback       n. 可依靠的东西；后备物品；撤退，退却 fallback recovery 低效恢复运行撤退校正 fallback action 回退动作后援动作 Fallback Strategy 回退策略 
+You swipe up and down to scroll lists of, say, tracks or artists. 
+你可以上下滑动来滚动列表，比如，艺术家列表。
+swipe      vt. 猛击；偷窃；刷…卡 n. 猛击；尖刻的话 vi. 猛打；大口喝酒
+Then algorithm moves i forward, until an element with value greater or equal to the pivot is found. 
+然后i向前移动,直到遇上大于或等于关键值的元素。
+pivot     n. 枢轴；中心点；旋转运动 vt. 以…为中心旋转；把…置于枢轴上 vi. 在枢轴上转动；随…转移 adj. 枢轴的；关键的
+Spiral Matrix  螺旋矩阵   
+spiral       n. 螺旋；旋涡；螺旋形之物 adj. 螺旋形的；盘旋的 vt. 使成螺旋形；使作螺旋形上升 vi. 盘旋；成螺旋形；螺旋形上升
+For another, there’s no sign of the wage-price spiral that once drove inflation into double digits — in fact, wage growth has been declining even as inflation rises. 
+在另一方面，并没有迹象表明出现了将通胀推高至两位数的“工资-物价”螺旋，事实上，通胀上升以后，工资的增长还放慢了。
+Envoy Proxy     C++ front/service proxy
+envoy   n. 使者；全权公使
+Our envoy was accredited to the new government. 
+我国已向该国新政府派遣了外交使节
+cron   n. [计量] 克龙（时间单位，百万年）
+Cron 计划任务，克龙，的安装和启动，配置文件
+Cron Job 计划任务，定时任务，时钟守护作业，工作排程
+Doing Cron 执行定时任务
+This code, when run from cron periodically, picks up any changes in the manifests and applies them to the cloud server. 
+当从 cron 定期地运行时，这些代码就会收集显示中的任何变更，然后将它们应用到云服务器。
+Normally the system administrator attempts to spread out the workload on a system by scheduling job processing through cron. 
+一般情况下，系统管理员通过 cron 调度作业处理，尝试让工作负载比较均衡地分布
+chrono    adj. 慢性的，长期的
+std::chrono::milliseconds::period::den
+denominator   n. [数] 分母；命名者；共同特征或共同性质；平均水平或标准
+The first step is to rationalize the denominator of a fraction. 
+第一步是使分数的分母有理化。
+In standard processors, depending on the numerator and denominator, a 32 bit division takes 20-140 cycles to execute. The division function takes a constant time plus a time for each bit to divide. 
+在一般的处理器中，根据分子和分母的不同，一个32位的除法需要20-140个时钟周期，等于一个固定的时间加上每个位被除的时间。
+denominate     vt. 为…命名；把…称作… adj. 有特定名称的
+Will China's currency be increasingly used to settle trade in Asia and, who knows, maybe even to denominate commodities? 
+人民币是否将更广泛地应用于亚洲贸易结算中,甚至还会成为大宗商品的计价货币?
+numerator    n. 分子；计算者；计算器
+If they both go up by the same proportion, then numerator and denominator go up by the same amount, so there's no change. 
+如果大家都上升了相同幅度,分子和分母同比例增大,则没有变化
+The program is ill-formed (a compile-time error is generated) otherwise. 
+ill-formed    adj. 不合语法的；不规范的
+In most cases, these devices do not have the computing power of a desktop computer and aren't designed to accommodate ill-formed HTML, as standard desktop browsers tend to do. 
+在大多数情况下，这些设备不具备台式计算机的计算能力，并且不象标准桌面浏览器那样可适用于格式差的 HTML。
+
