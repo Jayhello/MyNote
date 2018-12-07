@@ -1,0 +1,760 @@
+    
+9-6~9-8  StormAladdinCollectConsole
+1.数据库中读取表中制定的时间以及指定的caffe_rate
+2.推送到alddin识别，然后将结果查到表中保存
+3.quartz类来实现的定时的任务
+
+9-12~9-13 制作样本测试集合
+
+select * from aladdin_lable_config  where task_id='55531b1eff6e5a772faa4105';
+查看表以及taskid相关的
+84	55531b1eff6e5a772faa4105	1	sex	性感	0000-00-00 00:00:00	0000-00-00 00:00:00
+
+SELECT * FROM aladdin.tb_al_storm_test_set_v1_9
+5266	49ef4568	5	2016-09-13 10:15:16	http://yysnapshot.bs2src.7	1	S0A	2	0
+
+9-18~9-20 严重违规表tb_ms_pics_audit_record (条件 setAudit2Violation(1) )
+    对应的月表或者是天表的相同的流水数据tb_ms_video_collect_month_201607
+		mmsvideoal.tb_ms_video_day_20160912	
+		搞到表aladdin.tb_al_storm_offline_audit中去
+	
+	DbUrlShift	对url进行进行处理，插入到其他的表中
+
+9-23~9-25
+
+模型的预测的样本集
+SELECT * FROM aladdin.tb_al_storm_model_predict
+预测结果保存的表
+SELECT * FROM aladdin.tb_al_storm_model_predict_result
+
+类ModelPredictTest
+1.将测试集表tb_al_storm_test_set_v1_9生成数据到表tb_al_storm_model_predict
+2.将tb_al_storm_model_predict中数据classfy最后插入到表tb_al_storm_model_predict_result中
+http://genie.bs2dl.yy.com/67fe782fcf7daf918a2bdd37a1b30208
+9-26~9-28
+生成测试报告(alddin页面显示tb_al_storm_model_predict_result结果)
+
+前端页面testsetresult.jsp/js的编写
+TestSetResultController类
+分页的查询显示
+
+10-9
+1. 类StormAuditCollectConsole获取2016-09-10到2016-10-09色情广告数据
+    数据在表tb_ms_pics_audit_record中。
+2. 保存结果到 创建色情广告类的表tb_al_storm_offline_audit_R1011
+     url直接不能访问
+	DbUrlShift对url 进行genie 转换changeUrlByTbID(根据table_id)
+
+10-10-10-11
+1.对一张图片生成微信广告(随机号码，位置颜色) 类ImgAddWord
+2.DownLoadImgByUrl 读取数据库中的url并下载图片到本地
+3. UploadImg2Db 本地的图片上传到服务器并将信息存储到数据库
+4.Img2WordImg  目录下的图片全部添加广告水印，存储到指定目录
+    每张图片生成五张
+效果：1.生成1W张 微信广告样本图片
+         2.对于任意一张图片能过自适应的生成随机微信广告图片
+
+10-19
+任务：url转存
+1.使用StormAuditCollectConsole将tb_ms_pics_audit_record开播流水的前一分钟到后十分钟的数据
+    存储到 tb_al_storm_offline_audit表中去
+	"2016-09-13 00:00:00" ~ "2016-10-19 23:59:59" 数据的转存
+2. url转存的时候url公有域私有域的问题
+     见代码DbUrlShift中的注释
+ 效果：转存数据48W
+
+
+10-17~10-18  10-20~10-21 10-24	
+检查图片中人的肉的部分，用矩形框标出
+1.CvSkinHelperTest  图片皮肤的矩形区域的提取测试类
+2.CvConvertHelper   图片→Mat		 
+3.skinHelper  提取图片的矩形区域
+		skinHelper.getSkinRectList(srcMat, 5, true)
+		 splitImgBySkin
+		 
+4.CvImageDetectorFrame图片分析的工具类		 
+		 	 
+10-25 
+任务：把"2016-10-12 00:00:00" ~ "2016-10-12 23:59:59" 
+	 （同意流水的前半个小时到后十分钟，这一点算错了不少）数据下载到本地
+        根据source (图像类别的ID)来建立目录
+1.StormAuditCollectConsole 建立10-12的任务，修改对应的提前的时间
+   数据插入到新建的表tb_al_storm_offline_audit_1012中
+2.DbUrlShift  得到url转存，插入到元表
+3.DownLoadImgByUrl 将数据库中的url下载到指定的目录
+   注意判断一个文件是否存在的file.exists即可
+效果：生成50000样本
+		
+10-26  灰度模糊图片变亮
+ GrayImg2Bright
+效果：提示了灰黑图片的识别效果
+
+
+10-27 ~ 10-28			 
+任务：浏览器里面的网页中的视频图像的提取
+1.python 完成了图片的提取
+
+10-31~11-1上午 
+1.python转化为java版本 GetSpecificRectRegion
+效果：能有效的提取特定的浏览器图片，提取后识别效果
+          又原来的误判变为可以0.7识别出色情图片
+
+11-1下午 
+1.提取代码的泛化(但感觉似乎不可行)
+2.安装yahoo的色情识别
+
+11-2
+任务：提取涉及恐怖暴力的图片样本
+血腥暴力             R0008
+危害他人安全       R18
+危害生命安全       R101
+触及政治底线       R50
+展示违法信息       R22 
+手Y-危害生命安全  R3030		 
+手Y--吸毒            R3040
+
+11-4
+任务：暴力恐怖样本的收集，以及训练
+主要是观察样本的特征，对照图谱对比
+1.原有的表中terr_set_v1_1
+
+11-7 ~ 11-10
+任务：暴力恐怖样本的特征的观察，以及样本的帅选
+1.原有的表terr_set_v1_1中很多数据都不是暴力恐怖，而且在帅选的时候
+    ID不能从起始的开始挑，不知道为什么。且没有dl_status字段
+	于是从新建立一张表帅选。
+2.tb_al_storm_test_terr表中的选好的数据放到表tb_al_storm_terr_set中
+   (dl_status状态没有设置好)
+3.海峰那边新任务根据uid。获取9-1~10-26天表的所有数据下载到本地
+   
+11-11
+android后端样本帅选的设计
+1.首先设计了表 tb_al_label_tbname
+
+    
+uid  1784378635  
+离线库从tb_ms_video_day_20160901  到  tb_ms_video_day_20161026 的数据 
+
+
+11-14
+1.上午android后端设计
+2.下午google上面搜索手拿着手机的照片(phone in hand)，然后下载到本地
+   使用了各种插件，以及google上面搜索相应的下载软件，发现了一个可以下载google的图片的软件
+3.获取 uid1170761039在11月5日22:00至22:50分之间的所有直播截图
+   下载到本地
+   
+11-15  
+1.继续下载google上面的图片，发现了 iphone in hand
+2.下载好的图片上传到数据库表tb_al_storm_phone_inhand
+    新建类CopyFileAndRename把问价复制到指定目录并重命名
+3.任务：把"2016-10-20 00:00:00" ~ "2016-10-20 23:59:59" 
+	 （同意流水的前半个小时到后十分钟，这一点算错了不少）数据下载到本地
+        根据source (图像类别的ID)来建立目录
+	1.新写了AuditCollectByDate 类专门做这样的任务
+	2.DbUrlShift  得到url转存，插入到元表(必须要转存否则有些数据不能下载)
+	3.DownLoadImgByUrl 将数据库中的url下载到指定的目录
+	 效果：生成36000样本
+	 
+11-21 	 
+android样本刷选的后端设计
+1.LabelCheckThread 改线程后端轮巡活跃的表，定时处理，没有使用的表中的数据
+   此类中的线程只运行一次，该类被 两个Controller共享使用
+2.AndroidLabelCheckController返回android需要的数据
+    
+11-22
+文伟任务：
+导出2016-11-03到21号的所有严重违规中色情内容记录，
+规则是把整个流水(后来改了时间，这样的话数据量太大了)都导出来，
+ 导出来的数据包括UID，流水，业务类型
+数据存在表tb_al_storm_offline_audit_sex_1103To1121中
+ 
+11-23~11-25
+1.bigo 暴恐样本的收集，url清洗2015-12-28~ 2016-11-20
+   数据存在表tb_al_storm_terr_bigo
+3. 文伟任务，从采集表(excel)里面把UID对应的那个时间点前后5分钟的图导出来，
+       字段包括 id uid stream_id data_date url。导出来放到一个表里
+	 1.建立了一张新的表  	   
+2.图片文字的识别算法
+
+11-29
+1.文字提取算法转化为java代码
+2.VS2013开发环境的配置，clion的cmake的配置
+    使得两者都可以跑通opencv C++代码
+3.  java Tesseract与javacv整合(之前没有搞好)	
+
+11-30
+	
+
+12-5 ~ 12-6
+图片文字字体的训练
+1.jTessBoxEditor训练的时候，相关文档少，由于命名的原因，以及训练的时候
+   文件的生成内容添加，需要借助ubuntu才可以，导致话费了不少时间
+2.拿了一张微软雅黑的试了一下，发现没有训练的时候直接识别效果不好
+    训练之后的效果确实好了很多，不过主要是针对那张训练的图片而言
+3.判断一张图片上面是否有很多文字
+
+12-7
+1.判断一张图片上面是否有很多文字算法的验证
+
+12-15~12-16
+python生成字体样本图片
+
+
+12-19
+1.文字图片样本生成、测试、调优
+2.图片文字提取算法优化
+   
+      
+12-26
+1.ubuntu 12.04线上的 tesseract 跑的时候一直报错
+   反复的搜索，修改最终手动编译了	tesseract 才成功
+12-27   
+ 
+12-30
+1.填写工作绩效
+2.分析了 图片文字识别的代码的性能问题在哪里
+  （一开始的时候，想用插件，网上搜索了一下，发现也不是很好
+    我主要还是想看下函数执行的时间多少）
+	后来统计对比了一下发现：
+	a.做OCR识别的时候对于非(纯白底黑字)的图片如果不做处理，识别效果很不理想
+	   远不如，做了文字定位然后再去OCR
+	b.两块并列的定位文字的小矩形合成一个大点的矩形然后在去做OCR处理的效果，
+	   比每一个小矩形单独去处理快的多
+	c.文字定位的矩形，若高比宽大的多，这样的矩形完全要舍弃。
+3.对文字定位进行处理，首先剔除了H W 比例问题。
+   合并相关的矩形（感觉有点难）
+ 
+ 
+1~3 
+1. OCR前合并相关的矩形（太复杂）
+2.发现新的提取文字的算法，但是boost安装一直失败
+   到晚上9点还是不行，试了很多方法
+
+1~4
+1. OCR前合并相关的矩形（太复杂）
+2.boost安装一直失败
+3.添加thrift每分钟统计 OcrImgHandler
+  （中添加了一个static线程，AtomicInteger count）
+ 
+1~5
+1.修改发布的接口，花了不少时间 
+1~6
+1.任务发布了，bug修改好了
+ 
+1~9 - 1~10 
+1.尝试使用别人的深度学习来做OCR
+2.开始的时候docker不太会用，原始的caffe安装也一直不成功
+3.后来成功的使用了docker但是发现，效果不太好
+
+1~24  
+1. 221.228.105.129   in the ~ dir there is crnn,which can recognition english
+     but the machine you can't  " import caffe " 
+	 
+2. 116.31.121.116
+In the dir ~home there is caffe model which recognition cat and dog
+In the dir /data_xiongyu/   there is crnn model which can run recognition
+
+2~6 - 2~7
+1.生成图片文字
+ 
+
+
+2-13
+1.了解了一下CPU雨GPU的区别
+2.关于cuda4.0的中英文对照翻译 E:\学习文档 
+
+2-14
+1. Lua chinese to utf8 and vice verse
+
+
+3-6 ~ 3-7
+1.熟悉python的loging模块(多进程、线程、存储、配置)
+
+	
+3-13 ~ 3-14
+1.大致分析数据库zbase.tb_ms_mobile_report中，相关信息
+2.了解zbase.batch.yypolice.mobilereport.service;相关的工程
+
+
+
+3-23
+1. 登录问题  -》 detect/login
+2. 爬虫群消息发送
+
+3-24 ~ 4-4
+1.新增爬取的网页（十几个，包括baidu google等搜索的爬虫失败问题）
+2.爬虫与搜索服务的，逻辑修改
+3.数据库中表的数据的修改，以及对应于测试库的数据的转移
+4.web后端逻辑的编写以及联调
+
+
+4-4 ~ 
+1.数据分析工作的开展，
+
+
+2-20
+1.了解xpath结构，python json config 
+2.有关直播的网址，收集
+	1.俊杰网->互联网事 专栏有不少关于直播的新闻，不少还算是挺新的
+	（YY女主播在直播时忘记关闭摄像头,在和男友啪啪啪 -》2015-8-8）
+		http://www.junjiewang.com/hulianwang/
+		
+	2.腾讯游戏新闻
+		http://games.qq.com/l/news.htm
+
+	   http://society.qq.com/
+	   http://roll.edu.qq.com/
+		
+	3.环球网>社会>新闻
+		http://society.huanqiu.com/article/
+		
+	4.中华新闻网->新闻 > 社会新闻
+	     http://news.china.com/social/
+		 
+	5.新闻晨报
+		http://www.shxwcb.com/
+		http://newspaper.jfdaily.com/xwcb/html/2017-02/20/index_01.htm
+		2017-02/20   ----》  转化为date就可以
+		
+		http://www.shxwcb.com/category/news  （大事件）
+		
+	6.新浪-》新闻排行
+		http://news.sina.com.cn/hotnews/
+		新浪-》社会新闻
+		http://news.sina.com.cn/society/
+		
+		http://slide.news.sina.com.cn/s/
+		
+		http://tech.sina.com.cn/internet/
+		
+	7.
+	http://news.17173.com/sh/index.shtml
+	
+	8.搜狐社会新闻
+	http://news.sohu.com/shehuixinwen.shtml
+		
+	9.视频中国
+	http://www.china.com.cn/v/news/node_7119368.htm
+		
+	10.央视新闻   （获取到的是js）
+	http://news.cctv.com/
+
+	11.东方网->社会
+	http://news.eastday.com/eastday/13news/auto/news/society/index_K33.html
+	
+	12. 中国台湾网->社会
+	http://www.taiwan.cn/xwzx/dl/shh/index.htm
+	
+	
+舆情监控服务器	
+221.228.110.42	    ->  (service is develpoped in this server)
+key : xiongyu*2016
+183.57.81.196	
+
+201421014717
+310707129_ls
+
+1.爬虫  
+1.github news scrape
+
+
+1. text detection
+	 CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network
+			   https://github.com/tianzhi0549/CTPN
+	 
+	 crnn:识别英文
+			  https://github.com/bgshih/crnn
+2. change crnn to train rgb image
+	1. in the file   config.lua  ,line 77   setNumInputDims(3)
+	
+	
+1.轻灵消息通讯组件YyCommService：E:\c_code
+			  
+S0A 一般表示有效
+S0X 一般表示无效 就是选中的	
+base64选择是帅选图片的时候速度会快很多	
+	
+ 
+常见的操作的类
+1.上传本地图片到genie获取返回的url  UploadImgService		 
+2.根据url测试alddin的识别效果StormUtil		 
+3.zbase  秩序监管-直播视频秩序审核-视频监控审核记录(全)		 
+		 
+
+		 
+		 
+		 
+To Do		 
+1.2-14 In torch7 and Lua there is no unicode function inbuilt.
+   When I want to implement it,I feel confused for unfamilar with utf8 unicode
+    1.https://github.com/Stepets/utf8.lua/blob/master/utf8.lua
+    2.https://github.com/Jayhello/luautf8 
+	   Note that In the prompt , you can't use local ,otherwise you will get the error
+	    nil
+	
+	有时间花点时间实现一下 utf8 --- 中文的和转化，每次用到这个的时候都有点模棱两可
+		 
+2.轻灵消息通讯组件YyCommService：E:\c_code
+    The code seems decent, read the source if you have time.
+		 
+3.Download the book  DL  both the version of chinese and English
+   1.   E:\deep_learn ---> DL__book_中文.pdf
+   2.   E:\deep_learn ---> DL_book_英文版.pdf
+   
+4.Recurrent Neural Network and Long Short Term Memory (LSTM) with 
+  Connectionist Temporal Classification implemented in Theano. 
+  Includes a Toy training example.
+  1.https://github.com/rakeshvar/rnn_ctc	
+
+5.	
+   1. E:\学习文档 ---> 	 CUDA_C_Programming_Guide.4.0..风辰_中文版.pdf
+   2. E:\学习文档 ---> 	 CudaCguide4_english.pdf
+
+6.Cheat sheet for caffe / pycaffe?
+http://stackoverflow.com/questions/32379878/cheat-sheet-for-caffe-pycaffe?noredirect=1&lq=1
+6.    用Python进行自然语言处理(中文).pdf    (E:\deep_learn)
+		
+
+6.python realize tomcat lkely
+https://github.com/aosabook/500lines/blob/master/web-server/code/00-hello-web/server.py
+
+183.36.123.180:36712
+
+
+
+6-15
+1.data analysis device id statistic 
+2.mobile audit strategy 
+strategy :
+	1.
+
+
+115.238.171.235
+14.17.119.144
+
+
+jedis_ip_mms_mobileReport=115.238.171.235
+jedis_port_mms_mobileReport=36300
+
+6-30
+1.HiidoSendConsole数据的thrift推送
+
+
+7/5 短视频图片判断黑色http逻辑
+2017/07/10 新任务 色情广告 手Y严重色情表演 未成年人严重色情
+7-17 zbase2.0 用户信息查询部分
+
+7-26 图片文字识别
+116.31.121.116   /data_xiongyu/CTPN-master/sceneReco-master
+
+8-1 CPU文字图片识别安装机器（221.228.105.86）
+
+8-7 
+(特殊网站，图片含有人，图片全部文字广告)图片分类识别
+StormUtil  aladdin recognition class
+8-10 ~8-11  data augmentation
+1.部分自己opencv生成，部分根据开源的https://github.com/mdbloice/Augmentor生成
+2.aladdin 样本116 ->   /data5/light/storm_1_1/images     /data1/batch/bin
+/data1/aladdin/digits-2.0/digits/digits/jobs/20161213-161759-729b
+/data5/light/storm_1_1/images/train
+/data6/light/storm_1_1/images/train
+/data5/light/storm_1_1/images
+
+8-14
+1.继续生成样本，并刷选
+8-15~8-16
+1.样本生成以及，shell脚本sz 样本form linux-> win10
+8-17
+1.手工训练模型
+2.下载需要线上需要测试的样本  aladdin-> DownLoadImgByUrl  (2017-08-08 16:44:31 ~8-17 )
+    F:\ad_samples\test_samples   测试样本的目录
+
+8-21
+1. F:\ad_samples\recognition_ret 线上的测试样本识别结果下载到这个目录下面
+2. F:\ad_samples\new_train_sample 误判结果放到这个目录下，然后生成新的类别继续训练
+3. F:\ad_samples\train_samples\ad_text_rotate90 (观察发现少数旋转90度的图片无法识别，故而生成了这个样本)
+/data1/aladdin/aladdin-server/src/aladdin  (aladdin thrift 服务代码)
+
+http://172.27.49.5/   （aladdin线上测试）
+
+8-22
+1.图像与声纹识别的测试任务   F:\ad_samples\img_voice_test
+
+8-23
+1.下载 2017-08-21 12:00~2017-08-22 12:00  线上的 “严重违规 娱乐视频;手Y直播;游戏视频”
+    样本测试， root@ubuntu:/data6/light/storm_1_1/images/ad_train_py/code
+
+8-24腾讯云以及远鉴接口测试   
+    
+8-25，舆情修改    
+/home/xiongyu/scrape_search_yy/scrape_search_yy      
+check_yy_news_warn.py      
+            
+/home/xiongyu/scrape_yy/scrape_yy       
+scrape_yy_news_main.py      
+
+8-28
+舆情重启shell脚本
+8-29
+1.腾讯云暴恐摄政测试，最终生成一份EXCEL报告F:\ad_samples\img_voice_test\tencent_img
+
+8-30
+1.音频代码make file编译成功
+14.17.108.143
+2.  E:\baiduyun_voice
+
+9-1
+1. s2s 语音接受程序跑通并生成mp3文件
+2. 测试百度云的语音识别问题（格式不对问题）python，java代码
+3. E:\baiduyun_voice\baidu_voice 开发文档
+baidu在线文档
+http://ai.baidu.com/docs#/ASR-Online-Python-SDK/top
+http://ai.baidu.com/docs#/ASR-API/top
+
+9-4：
+1.调通音频流的解析程序pcm
+2.own ubuntu16:   /home/xy/test_gcc, gcc test
+9-5
+1.搞好boost以及redis环境，确定传输方案，
+2.http://cmdb.sysop.duowan.com/admin/server_list.jspx（机房ip等信息查询）
+https://openapi.baidu.com/oauth/2.0/token?grant_type=client_credentials&client_id=10082098&client_secret=D701pkhKdMIrkSo9uWuywM62AuSRlN66
+
+9-6~9-8
+1.完善整个系统的代码，添加线程池队列模块，base64模块，日志模块
+2.正确接受音频流以及识别（服务端，暴恐对音频流进行base64编码）
+
+9-11  
+1.
+// TO DO
+https://github.com/exacity/deeplearningbook-chinese
+服务器权限，音频流
+
+
+9-12~9-13：
+1. YY数据库管理平台-》新建业务-》申请redis服务（记得加上面4个IP）
+2. redis的发布订阅，以及整个方案确定
+3. C++代码改进，使得日志看的更清晰，极端错误处理，使得代码不会挂掉
+
+sudo apt-get update
+sudo apt-get -y install python-pip    
+pip install --upgrade pip 
+pip install --upgrade pillow    
+sudo apt-get install libtiff4-dev libjpeg8-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwebp-dev tcl8.5-dev tk8.5-dev python-tk    
+sudo pip install baidu-aip
+
+
+9-14 
+1.申请的redis 电信IP：61.160.36.142； 联通IP：153.35.83.141； 移动IP：112.25.245.68； 内网IP：10.25.65.14
+   端口：4013	
+2. E:\baiduyun_voice\baidu_voice_test.tar  (批量安装baidu python package)
+3. YY邮件员工体检E:\2017_9_14_体检_说明（记得提前一周（9-24， 10-15， 10-22， 11-5上午）预约备忘录），
+4. 调通现有机器与音频流发送方，能够接受音频流并发送到redis(替换原有的so文件，各种编译问题)
+10076015
+apiKey = "rGNjEqz1Pw0CcfgQKT4Dxana";
+secretKey = "TaR5stxQeaeMEwrLRgGuhW1fRdugOYuo";
+
+
+9-15
+1. C++音频流推送redis，用到数据结构
+注意的是，不能发布订阅，因为C++的接受，推送进程是分布式的，同一个uid的流可能会推送给不同的进程
+
+// 2017/9/21更新，redis中的key 加上sid
+2. redis中存储的数据结构以及示例：
+
+
+        
+3.  E:/baiduyun_voice/baidu_voice_test.tar, 新增python redis 安装
+
+redis-cli -h 61.160.36.142 -p 4013 连接到redis服务器
+
+
+
+9-17~9-20
+1.调通多音频流对接
+2.检查，分析CPU负载很高的原因
+3. 包发布系统的，代码发布，主要是进程启动以及，进程监控等问题
+http://das.sysop.duowan.com/deployment/package/list.jsp  (发布系统的首页)
+http://das.sysop.duowan.com/deployment/config/package/deploy.jsp?packagesId=122780&action=install&taskId=11086234
+
+
+9/21 ,密集计算型机器，测试下性能
+221.228.105.86
+
+9-21~9-22
+1.解决前面的多线程，数据不一致的问题，原有的set结构体改变为map，以及时间更新的map的操作的问题
+2.日志跟包命名规则有关系baidu_audio_stream_send_svr   -》  baidu_audio_stream_send_svr_d
+3. 修改新的 .so文件，新增shell 判读文件是否一样diff如果不是则，覆盖原有的(这个.so文件有时候会改变，因此加上这个判断)
+4.上传新的包：包首页点击 "版本管理"-》"创建新版本"
+(可以在上传包的时候修改 进程名 由"baidu_audio_stream_send_svr"  -> "baidu_audio_stream_send_svr_d")
+5.发布的时候注意，由于新增了机器一定要求redis服务器上面申请白名单，否则连接不上服务器
+http://dbms.sysop.duowan.com/person/redisWhiteListApply.do?business_id=2837
+6.包首页点击  "实例管理" -> 新页面点击"终止"，即可关闭掉所有的进程
+7. 221.228.209.197此台机器发布失败
+8.检查json解析字符串的问题
+9.调整redis更新频率，以及日志打印问题(尽可能少的打印日志)
+http://172.27.130.5:41017      clion激活服务
+
+
+
+11/20  ~  11/25
+1. 优化现有代码的性能
+2. pcm转mp3播放服务
+11/27  ~  11/29
+1.pcm 转mp3回放服务前后端完成
+2.不能部署于是自己写的监控程序脚本
+
+12~ 
+1.联调腾讯云语音识别测试
+2.百度语音识别速度控制
+2.比邻mp4识别以及文字推送服务
+4. /data/weblog/java/api.bilinaudio.yy.com  日志目录
+nginx /data/services/nginx_vhost/bilin.audio.tw.yy.com.conf    
+    
+
+218-1-16
+1. crnn docker版本安装（前面的依赖太多下载了很多版本根本安装不了）
+首先安装下面的docker 17-12的版本(最新的docker18-01版本不兼容)
+https://www.centos.bz/2017/03/ubuntu-16-04-install-docker-ce-v17-03/
+
+
+
+
+
+18-6-7
+m1. stl list初步实现
+m-a 阅读了人脸检测评价标准论文FDDB: A Benchmark for Face Detection in Unconstrained Settings
+e: list进一步实现  &  hw interview   
+
+
+18-6-11
+m1. 写周报
+m2. 初步完成FDDB人脸检测评价使用(这个用起来有点麻烦)
+a1. 阅读了effective STL前两节
+
+
+18-6-12 ~ 18-6-13
+m1. 完成HW online coding, resume
+完成yy face head push 任务
+
+18-6-14
+m1: C++ vector resize 问题,mastering cmake 看了一下
+m2:完成FDDB评价生成的python代码
+a1：stack overflow回答，以及上面的FDDB代码修改
+
+18-6-15 
+m1: stl deque
+m2:
+
+
+18-6-21 
+m1: stl deque, stack overflow 回答
+a1: 新的政治人物模型
+a2：faster rcnn原理，新的face detection 算法
+
+18-6-22
+m1: STL源码 rb tree以及AVL tree基本
+m2:pv人脸检测实现调试，以及原理
+
+18-6-23周六
+1. stackoverflow 问题回答(获得了几十reputation)
+2. rb_tree完成
+
+18-6-24周日
+1. map set源码分析完成
+
+
+18-6-25周日
+m1. 周报，stack overflow(回答以及reputation提升)
+
+18-6-26周一 ~ 18-6-29周五
+1. 新的任务，需要将现有的政治人物识别上线，对外平台
+2. use MTCNN to do face detect and landmark
+3. after the step 2, do face alignment
+4. create interface in c++
+
+18-6-30周六 ~ 18-7-1周日
+1. 计算机视觉知乎别人的学习经验，以及国外好的教程，教材
+2. hashtable,hash_set,hash_map,unordered_map笔记以及对于的stack overflow回答
+
+操作系统，这个部分我还在学习，采用的是跟着MIT 6.828做的方法。知乎上陈硕有一个关于学习操作系统非常好的回答，大意是要抓住重要部分，不要沉迷于技术细节，我觉得很对。具体的，内存分配、调度、多线程 这几个点，都得深入理解一下吧。如果不想具体去研究操作系统的实现，那么怎么用操作系统提供的接口这个是必须的吧，APUE了解一下？
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. 最近看的书，的最好的点
+2. 项目最难的地方
+3. 
+
+
+
+
+
+
+
+How to Use WSL Like a Linux Pro  如何像 Linux 专家那样使用 WSL
+How about managing your local files with powerful command line utilities instead of using slow and unreliable GUI utilities?
+如何用强大的命令行工具管理本地文件，而不是使用缓慢和不可靠的 GUI 工具呢
+WSL is now out of beta, and it will continue to get more new features.
+WSL 现在已经不再是测试版了，它将继续获得更多新功能。
+ Two features that I am excited about are the lsblk command and the dd command that allow me to natively manage my drives and create bootable drives of Linux from within Windows.
+我很兴奋的两个特性是 lsblk 命令和 dd命令，它们允许我在 Windows 中本机管理我的驱动器并创建可引导的 Linux 驱动器
+
+
+
+
+
+
+
+
+
+
+
+
+
+加班：
+原则是大家很清楚知道自己想要达成目标，不要漫无目的。
+----短期加班----
+1. 程序员工作的话，有时候会有紧急的需求，加班很正常可以理解。
+
+----长期加班----
+2. 得想想，是哪个环节最耗时，看看能不能解决，比如前面写了个爬虫的程序，写了个模板代码，后面有需求只需要配置即可，这样大大降低了开发的工作量。
+
+----长期加班文化----
+3. 兼顾员工的成长，或者待遇最好跟得上。
+
+
+
+
+
+
+
+
+
+
+
+牛客网直通BAT算法精讲课
+https://github.com/yukunqi/NiuKe
+牛客网BAT算法精讲总结1-二叉树打印
+https://blog.csdn.net/Return_True_hang/article/details/79769884
+
+
+
+httplib, SimpleHTTPServer
+SimpleHTTPServer基于BaseHTTPServer实现了简单的HTTP服务(简单的应用)
+
+
+
+
+
+
+
+
